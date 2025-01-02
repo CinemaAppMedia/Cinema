@@ -1,1 +1,15 @@
-{"TMDBID": 94305, "IMDBID": "tt10148174", "Poster": "6HanIV2hTLE2w7A5bI1KJb3bTL7.jpg", "MediaType": 2, "Tagline": "The end of the world was our beginning.", "Summary": "A heroic group of teens sheltered from the dangers of the post-apocalyptic world receive a message that inspires them to leave the safety of the only home they have ever known and embark on a cross-country journey to find the one man who can possibly save the world.", "Tile1Title": "Series", "Tile2Title": "Status", "Tile1SubTitle": "2 Seasons 20 Episodes", "Tile2SubTitle": "Ended", "Backdrop": "hS0IN656SbRe23TyH0PdaGytIuL.jpg", "SeasonCount": 2, "EpisodeCount": 20}
+{
+  "EpisodeCount" : 20,
+  "Tile2Title" : "Status",
+  "Tile1Title" : "Series",
+  "MediaType" : 2,
+  "Backdrop" : "\/hS0IN656SbRe23TyH0PdaGytIuL.jpg",
+  "Poster" : "\/6HanIV2hTLE2w7A5bI1KJb3bTL7.jpg",
+  "IMDBID" : "tt10148174",
+  "TMDBID" : 94305,
+  "Summary" : "A heroic group of teens sheltered from the dangers of the post-apocalyptic world receive a message that inspires them to leave the safety of the only home they have ever known and embark on a cross-country journey to find the one man who can possibly save the world.",
+  "Tagline" : "The end of the world was our beginning.",
+  "Tile1SubTitle" : "2 Seasons 20 Episodes",
+  "Tile2SubTitle" : "Ended",
+  "SeasonCount" : 2
+}

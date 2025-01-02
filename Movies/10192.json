@@ -1,1 +1,12 @@
-{"TMDBID": 10192, "IMDBID": "tt0892791", "Poster": "6HrfPZtKcGmX2tUWW3cnciZTaSD.jpg", "MediaType": 1, "Tagline": "It ain't ogre...til it's ogre.", "Summary": "A bored and domesticated Shrek pacts with deal-maker Rumpelstiltskin to get back to feeling like a real ogre again, but when he's duped and sent to a twisted version of Far Far Away—where Rumpelstiltskin is king, ogres are hunted, and he and Fiona have never met—he sets out to restore his world and reclaim his true love.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "93 Minutes", "Tile2SubTitle": "Released"}
+{
+  "TMDBID" : 10192,
+  "IMDBID" : "tt0892791",
+  "Poster" : "\/6HrfPZtKcGmX2tUWW3cnciZTaSD.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Released",
+  "MediaType" : 1,
+  "Summary" : "A bored and domesticated Shrek pacts with deal-maker Rumpelstiltskin to get back to feeling like a real ogre again, but when he's duped and sent to a twisted version of Far Far Away—where Rumpelstiltskin is king, ogres are hunted, and he and Fiona have never met—he sets out to restore his world and reclaim his true love.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "93 Minutes",
+  "Tagline" : "It ain't ogre...til it's ogre."
+}

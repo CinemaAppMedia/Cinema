@@ -1,1 +1,12 @@
-{"TMDBID": 328111, "IMDBID": "tt2709768", "Poster": "5f8rTQq42nQVGGes9SCV9AnD0II.jpg", "MediaType": 1, "Tagline": "Think this is what they do all day?", "Summary": "The quiet life of a terrier named Max is upended when his owner takes in Duke, a stray whom Max instantly dislikes.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "86 Minutes", "Tile2SubTitle": "Released"}
+{
+  "TMDBID" : 328111,
+  "IMDBID" : "tt2709768",
+  "Poster" : "\/5f8rTQq42nQVGGes9SCV9AnD0II.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Released",
+  "MediaType" : 1,
+  "Summary" : "The quiet life of a terrier named Max is upended when his owner takes in Duke, a stray whom Max instantly dislikes.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "86 Minutes",
+  "Tagline" : "Think this is what they do all day?"
+}

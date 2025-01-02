@@ -1,1 +1,12 @@
-{"TMDBID": 83201, "IMDBID": "tt2268617", "Poster": "uYvCqvv5NvZGiVNT6OdyTUAD5G5.jpg", "MediaType": 1, "Tagline": "", "Summary": "Puss in Boots is on a mission to recover the Princess' stolen ruby from the notorious French thief, Whisperer. Reluctantly accompanied by three little kittens, Three Diablos, Puss must tame them before they endanger the mission.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "13 Minutes", "Tile2SubTitle": "Released"}
+{
+  "TMDBID" : 83201,
+  "IMDBID" : "tt2268617",
+  "Poster" : "\/uYvCqvv5NvZGiVNT6OdyTUAD5G5.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Released",
+  "MediaType" : 1,
+  "Summary" : "Puss in Boots is on a mission to recover the Princess' stolen ruby from the notorious French thief, Whisperer. Reluctantly accompanied by three little kittens, Three Diablos, Puss must tame them before they endanger the mission.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "13 Minutes",
+  "Tagline" : ""
+}

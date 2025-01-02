@@ -1,1 +1,12 @@
-{"TMDBID": 80321, "IMDBID": "tt1277953", "Poster": "ekraj4ksvIKeuvQVEevEJkuybZd.jpg", "MediaType": 1, "Tagline": "They Have One Shot to Get Back Home.", "Summary": "Animal pals Alex, Marty, Melman, and Gloria are still trying to make it back to New York's Central Park Zoo. They are forced to take a detour to Europe to find the penguins and chimps who broke the bank at a Monte Carlo casino. When French animal-control officer Capitaine Chantel DuBois picks up their scent, Alex and company are forced to hide out in a traveling circus.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "93 Minutes", "Tile2SubTitle": "Released"}
+{
+  "TMDBID" : 80321,
+  "IMDBID" : "tt1277953",
+  "Poster" : "\/ekraj4ksvIKeuvQVEevEJkuybZd.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Released",
+  "MediaType" : 1,
+  "Summary" : "Animal pals Alex, Marty, Melman, and Gloria are still trying to make it back to New York's Central Park Zoo. They are forced to take a detour to Europe to find the penguins and chimps who broke the bank at a Monte Carlo casino. When French animal-control officer Capitaine Chantel DuBois picks up their scent, Alex and company are forced to hide out in a traveling circus.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "93 Minutes",
+  "Tagline" : "They Have One Shot to Get Back Home."
+}

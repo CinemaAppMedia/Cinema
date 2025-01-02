@@ -1,1 +1,15 @@
-{"TMDBID": 232125, "IMDBID": "tt13623148", "Poster": "lYwFSsP4KsoRhOLhJvBFp3GEGEm.jpg", "MediaType": 2, "Tagline": "A hero of few words returns.", "Summary": "There's no guarding the galaxy from this mischievous toddler! Get ready as Baby Groot takes center stage in his very own collection of shorts, exploring his glory days growing up and getting into trouble among the stars.", "Tile1Title": "Series", "Tile2Title": "Status", "Tile1SubTitle": "2 Seasons 10 Episodes", "Tile2SubTitle": "Returning ", "Backdrop": "bAnHzJ6AMhOhnV3C0kTxkpCqpgM.jpg", "SeasonCount": 2, "EpisodeCount": 10}
+{
+  "EpisodeCount" : 10,
+  "Tile2Title" : "Status",
+  "Tile1Title" : "Series",
+  "MediaType" : 2,
+  "Backdrop" : "\/bAnHzJ6AMhOhnV3C0kTxkpCqpgM.jpg",
+  "Poster" : "\/lYwFSsP4KsoRhOLhJvBFp3GEGEm.jpg",
+  "IMDBID" : "tt13623148",
+  "TMDBID" : 232125,
+  "Summary" : "There's no guarding the galaxy from this mischievous toddler! Get ready as Baby Groot takes center stage in his very own collection of shorts, exploring his glory days growing up and getting into trouble among the stars.",
+  "Tagline" : "A hero of few words returns.",
+  "Tile1SubTitle" : "2 Seasons 10 Episodes",
+  "Tile2SubTitle" : "Returning ",
+  "SeasonCount" : 2
+}

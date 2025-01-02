@@ -1,1 +1,12 @@
-{"TMDBID": 270946, "IMDBID": "tt1911658", "Poster": "gbrNsZ1dOK789NwWPyC0SuEABgr.jpg", "MediaType": 1, "Tagline": "The movie event that will blow their cover.", "Summary": "Skipper, Kowalski, Rico and Private join forces with undercover organization The North Wind to stop the villainous Dr. Octavius Brine from destroying the world as we know it.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "92 Minutes", "Tile2SubTitle": "Released"}
+{
+  "TMDBID" : 270946,
+  "IMDBID" : "tt1911658",
+  "Poster" : "\/gbrNsZ1dOK789NwWPyC0SuEABgr.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Released",
+  "MediaType" : 1,
+  "Summary" : "Skipper, Kowalski, Rico and Private join forces with undercover organization The North Wind to stop the villainous Dr. Octavius Brine from destroying the world as we know it.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "92 Minutes",
+  "Tagline" : "The movie event that will blow their cover."
+}

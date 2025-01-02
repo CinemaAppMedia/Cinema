@@ -1,1 +1,142 @@
-[{"Title": "Konsekans", "Date": "Oct 3rd, 2021", "Still": "dRfaS8PD799G5SRkKHyelouY7Qr.jpg", "EN": 1, "SN": 2}, {"Title": "Foothold", "Date": "Oct 10th, 2021", "Still": "zW7MoZ9Zsgr3n1laIKaaT0Uo7PF.jpg", "EN": 2, "SN": 2}, {"Title": "Exit Wounds", "Date": "Oct 17th, 2021", "Still": "8UQ7Of7VC6xhjSI2XfVs7FgvIP5.jpg", "EN": 3, "SN": 2}, {"Title": "Family Is a Four Letter Word", "Date": "Oct 24th, 2021", "Still": "6arJCKEGwolRPIDFQVFn3PBa3G0.jpg", "EN": 4, "SN": 2}, {"Title": "Quatervois", "Date": "Oct 31st, 2021", "Still": "7VY1ZcPeFalpnJPGX1mAKOpAFDE.jpg", "EN": 5, "SN": 2}, {"Title": "Who Are You?", "Date": "Nov 7th, 2021", "Still": "5TKxWDbAjiIYqmE8QCVf8PTY8de.jpg", "EN": 6, "SN": 2}, {"Title": "Blood and Lies", "Date": "Nov 14th, 2021", "Still": "uqYstK4LrlbPQrB7RDV5Lrsqnnb.jpg", "EN": 7, "SN": 2}, {"Title": "Returning Point", "Date": "Nov 21st, 2021", "Still": "hbMxKe6Z19RN58K50E3Mr8fItbT.jpg", "EN": 8, "SN": 2}, {"Title": "Death and the Dead", "Date": "Nov 28th, 2021", "Still": "t0NMSMP8gH3CkG09sTNKiCTyRJ6.jpg", "EN": 9, "SN": 2}, {"Title": "The Last Light", "Date": "Dec 5th, 2021", "Still": "1W9gDILqau7ZLe0vDPVt0HDN7L3.jpg", "EN": 10, "SN": 2}, {"Title": "Brave", "Date": "Oct 4th, 2020", "Still": "zzpYfCZPRtDC6185QHUAiHfqhb1.jpg", "EN": 1, "SN": 1}, {"Title": "The Blaze of Gory", "Date": "Oct 11th, 2020", "Still": "gUvq9LjtAgTY2CDksT9qdj5pSaD.jpg", "EN": 2, "SN": 1}, {"Title": "The Tyger and the Lamb", "Date": "Oct 18th, 2020", "Still": "rOai4WkDOUjDD2QIaxDXBH1Fm1o.jpg", "EN": 3, "SN": 1}, {"Title": "The Wrong End of a Telescope", "Date": "Oct 25th, 2020", "Still": "gzQWPIe04YR0igHoOwQqIA7EOWh.jpg", "EN": 4, "SN": 1}, {"Title": "Madman Across the Water", "Date": "Nov 1st, 2020", "Still": "mr2AI9gwtOUJuB9irNZkjXaMNTM.jpg", "EN": 5, "SN": 1}, {"Title": "Shadow Puppets", "Date": "Nov 8th, 2020", "Still": "e3P93BmzEgkpp7d3XAqWlSFnI4p.jpg", "EN": 6, "SN": 1}, {"Title": "Truth or Dare", "Date": "Nov 15th, 2020", "Still": "i1Cdgy3w4XSpS4ZlL1eVZ5PhXQl.jpg", "EN": 7, "SN": 1}, {"Title": "The Sky Is a Graveyard", "Date": "Nov 22nd, 2020", "Still": "gPrl3nj2QcymZZNXNHXZZWsReov.jpg", "EN": 8, "SN": 1}, {"Title": "The Deepest Cut", "Date": "Nov 29th, 2020", "Still": "cL6sWoUm8kngAPiufXQVcAmgI5w.jpg", "EN": 9, "SN": 1}, {"Title": "In This Life", "Date": "Nov 29th, 2020", "Still": "6TPb29mOYTrAqHuGYMj0ddoKM1g.jpg", "EN": 10, "SN": 1}]
+[
+  {
+    "EN" : 1,
+    "SN" : 2,
+    "Title" : "Konsekans",
+    "Date" : "Oct 3rd, 2021",
+    "Still" : "\/dRfaS8PD799G5SRkKHyelouY7Qr.jpg"
+  },
+  {
+    "EN" : 2,
+    "SN" : 2,
+    "Title" : "Foothold",
+    "Date" : "Oct 10th, 2021",
+    "Still" : "\/zW7MoZ9Zsgr3n1laIKaaT0Uo7PF.jpg"
+  },
+  {
+    "EN" : 3,
+    "SN" : 2,
+    "Title" : "Exit Wounds",
+    "Date" : "Oct 17th, 2021",
+    "Still" : "\/8UQ7Of7VC6xhjSI2XfVs7FgvIP5.jpg"
+  },
+  {
+    "EN" : 4,
+    "SN" : 2,
+    "Title" : "Family Is a Four Letter Word",
+    "Date" : "Oct 24th, 2021",
+    "Still" : "\/6arJCKEGwolRPIDFQVFn3PBa3G0.jpg"
+  },
+  {
+    "EN" : 5,
+    "SN" : 2,
+    "Title" : "Quatervois",
+    "Date" : "Oct 31st, 2021",
+    "Still" : "\/7VY1ZcPeFalpnJPGX1mAKOpAFDE.jpg"
+  },
+  {
+    "EN" : 6,
+    "SN" : 2,
+    "Title" : "Who Are You?",
+    "Date" : "Nov 7th, 2021",
+    "Still" : "\/5TKxWDbAjiIYqmE8QCVf8PTY8de.jpg"
+  },
+  {
+    "EN" : 7,
+    "SN" : 2,
+    "Title" : "Blood and Lies",
+    "Date" : "Nov 14th, 2021",
+    "Still" : "\/uqYstK4LrlbPQrB7RDV5Lrsqnnb.jpg"
+  },
+  {
+    "EN" : 8,
+    "SN" : 2,
+    "Title" : "Returning Point",
+    "Date" : "Nov 21st, 2021",
+    "Still" : "\/hbMxKe6Z19RN58K50E3Mr8fItbT.jpg"
+  },
+  {
+    "EN" : 9,
+    "SN" : 2,
+    "Title" : "Death and the Dead",
+    "Date" : "Nov 28th, 2021",
+    "Still" : "\/t0NMSMP8gH3CkG09sTNKiCTyRJ6.jpg"
+  },
+  {
+    "EN" : 10,
+    "SN" : 2,
+    "Title" : "The Last Light",
+    "Date" : "Dec 5th, 2021",
+    "Still" : "\/1W9gDILqau7ZLe0vDPVt0HDN7L3.jpg"
+  },
+  {
+    "EN" : 1,
+    "SN" : 1,
+    "Title" : "Brave",
+    "Date" : "Oct 4th, 2020",
+    "Still" : "\/zzpYfCZPRtDC6185QHUAiHfqhb1.jpg"
+  },
+  {
+    "EN" : 2,
+    "SN" : 1,
+    "Title" : "The Blaze of Gory",
+    "Date" : "Oct 11th, 2020",
+    "Still" : "\/gUvq9LjtAgTY2CDksT9qdj5pSaD.jpg"
+  },
+  {
+    "EN" : 3,
+    "SN" : 1,
+    "Title" : "The Tyger and the Lamb",
+    "Date" : "Oct 18th, 2020",
+    "Still" : "\/rOai4WkDOUjDD2QIaxDXBH1Fm1o.jpg"
+  },
+  {
+    "EN" : 4,
+    "SN" : 1,
+    "Title" : "The Wrong End of a Telescope",
+    "Date" : "Oct 25th, 2020",
+    "Still" : "\/gzQWPIe04YR0igHoOwQqIA7EOWh.jpg"
+  },
+  {
+    "EN" : 5,
+    "SN" : 1,
+    "Title" : "Madman Across the Water",
+    "Date" : "Nov 1st, 2020",
+    "Still" : "\/mr2AI9gwtOUJuB9irNZkjXaMNTM.jpg"
+  },
+  {
+    "EN" : 6,
+    "SN" : 1,
+    "Title" : "Shadow Puppets",
+    "Date" : "Nov 8th, 2020",
+    "Still" : "\/e3P93BmzEgkpp7d3XAqWlSFnI4p.jpg"
+  },
+  {
+    "EN" : 7,
+    "SN" : 1,
+    "Title" : "Truth or Dare",
+    "Date" : "Nov 15th, 2020",
+    "Still" : "\/i1Cdgy3w4XSpS4ZlL1eVZ5PhXQl.jpg"
+  },
+  {
+    "EN" : 8,
+    "SN" : 1,
+    "Title" : "The Sky Is a Graveyard",
+    "Date" : "Nov 22nd, 2020",
+    "Still" : "\/gPrl3nj2QcymZZNXNHXZZWsReov.jpg"
+  },
+  {
+    "EN" : 9,
+    "SN" : 1,
+    "Title" : "The Deepest Cut",
+    "Date" : "Nov 29th, 2020",
+    "Still" : "\/cL6sWoUm8kngAPiufXQVcAmgI5w.jpg"
+  },
+  {
+    "EN" : 10,
+    "SN" : 1,
+    "Title" : "In This Life",
+    "Date" : "Nov 29th, 2020",
+    "Still" : "\/6TPb29mOYTrAqHuGYMj0ddoKM1g.jpg"
+  }
+]

@@ -1,1 +1,12 @@
-{"TMDBID": 1003596, "IMDBID": "tt21357150", "Poster": "eO6OdA4RDRWeCVlDMcsoxWYFySD.jpg", "MediaType": 1, "Tagline": "", "Summary": "An upcoming film in the Marvel Cinematic Universe's (MCU) sixth Phase and part of The Multiverse Saga. Plot TBA.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "0 Minutes", "Tile2SubTitle": "Planned"}
+{
+  "TMDBID" : 1003596,
+  "IMDBID" : "tt21357150",
+  "Poster" : "\/eO6OdA4RDRWeCVlDMcsoxWYFySD.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Planned",
+  "MediaType" : 1,
+  "Summary" : "An upcoming film in the Marvel Cinematic Universe's (MCU) sixth Phase and part of The Multiverse Saga. Plot TBA.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "0 Minutes",
+  "Tagline" : ""
+}

@@ -1,1 +1,12 @@
-{"TMDBID": 911916, "IMDBID": "tt16360004", "Poster": "rZ4arzyaDyI8l9Y7VIPPsDGARwh.jpg", "MediaType": 1, "Tagline": "", "Summary": "Plot TBA.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "0 Minutes", "Tile2SubTitle": "In Production"}
+{
+  "TMDBID" : 911916,
+  "IMDBID" : "tt16360004",
+  "Poster" : "\/rZ4arzyaDyI8l9Y7VIPPsDGARwh.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "In Production",
+  "MediaType" : 1,
+  "Summary" : "Plot TBA.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "0 Minutes",
+  "Tagline" : ""
+}

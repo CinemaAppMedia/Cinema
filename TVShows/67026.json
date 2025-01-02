@@ -1,1 +1,15 @@
-{"TMDBID": 67026, "IMDBID": "tt5296406", "Poster": "5R125JAIh1N38pzHp2dRsBpOVNY.jpg", "MediaType": 2, "Tagline": "Declare your independence", "Summary": "Tom Kirkman, a low-level cabinet member is suddenly appointed President of the United States after a catastrophic attack during the State of the Union kills everyone above him in the Presidential line of succession.", "Tile1Title": "Series", "Tile2Title": "Status", "Tile1SubTitle": "3 Seasons 53 Episodes", "Tile2SubTitle": "Canceled", "Backdrop": "9MPw3v6psxq9UZ8Ninwto548pbb.jpg", "SeasonCount": 3, "EpisodeCount": 53}
+{
+  "EpisodeCount" : 53,
+  "Tile2Title" : "Status",
+  "Tile1Title" : "Series",
+  "MediaType" : 2,
+  "Backdrop" : "\/9MPw3v6psxq9UZ8Ninwto548pbb.jpg",
+  "Poster" : "\/5R125JAIh1N38pzHp2dRsBpOVNY.jpg",
+  "IMDBID" : "tt5296406",
+  "TMDBID" : 67026,
+  "Summary" : "Tom Kirkman, a low-level cabinet member is suddenly appointed President of the United States after a catastrophic attack during the State of the Union kills everyone above him in the Presidential line of succession.",
+  "Tagline" : "Declare your independence",
+  "Tile1SubTitle" : "3 Seasons 53 Episodes",
+  "Tile2SubTitle" : "Canceled",
+  "SeasonCount" : 3
+}

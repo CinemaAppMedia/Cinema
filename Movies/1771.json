@@ -1,1 +1,12 @@
-{"TMDBID": 1771, "IMDBID": "tt0458339", "Poster": "vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg", "MediaType": 1, "Tagline": "When patriots become heroes", "Summary": "During World War II, Steve Rogers is a sickly man from Brooklyn who's transformed into super-soldier Captain America to aid in the war effort. Rogers must stop the Red Skull – Adolf Hitler's ruthless head of weaponry, and the leader of an organization that intends to use a mysterious device of untold powers for world domination.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "124 Minutes", "Tile2SubTitle": "Released"}
+{
+  "TMDBID" : 1771,
+  "IMDBID" : "tt0458339",
+  "Poster" : "\/vSNxAJTlD0r02V9sPYpOjqDZXUK.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Released",
+  "MediaType" : 1,
+  "Summary" : "During World War II, Steve Rogers is a sickly man from Brooklyn who's transformed into super-soldier Captain America to aid in the war effort. Rogers must stop the Red Skull – Adolf Hitler's ruthless head of weaponry, and the leader of an organization that intends to use a mysterious device of untold powers for world domination.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "124 Minutes",
+  "Tagline" : "When patriots become heroes"
+}

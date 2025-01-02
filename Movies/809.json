@@ -1,1 +1,12 @@
-{"TMDBID": 809, "IMDBID": "tt0298148", "Poster": "2yYP0PQjG8zVqturh1BAqu2Tixl.jpg", "MediaType": 1, "Tagline": "Once upon another time...", "Summary": "Shrek, Fiona, and Donkey set off to Far, Far Away to meet Fiona's mother and father, the Queen and King. But not everyone is happily ever after. Shrek and the King find it difficult to get along, and there's tension in the marriage. The Fairy Godmother discovers that Fiona has married Shrek instead of her son Prince Charming and plots to destroy their marriage.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "92 Minutes", "Tile2SubTitle": "Released"}
+{
+  "TMDBID" : 809,
+  "IMDBID" : "tt0298148",
+  "Poster" : "\/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Released",
+  "MediaType" : 1,
+  "Summary" : "Shrek, Fiona, and Donkey set off to Far, Far Away to meet Fiona's mother and father, the Queen and King. But not everyone is happily ever after. Shrek and the King find it difficult to get along, and there's tension in the marriage. The Fairy Godmother discovers that Fiona has married Shrek instead of her son Prince Charming and plots to destroy their marriage.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "92 Minutes",
+  "Tagline" : "Once upon another time..."
+}

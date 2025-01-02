@@ -1,1 +1,12 @@
-{"TMDBID": 447200, "IMDBID": "tt5758778", "Poster": "52ml62vClzrlqvXZq2FEW6UF6c1.jpg", "MediaType": 1, "Tagline": "Don't look down", "Summary": "Framed and on the run, a former FBI agent must save his family from a blazing fire in the world's tallest building.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "102 Minutes", "Tile2SubTitle": "Released"}
+{
+  "TMDBID" : 447200,
+  "IMDBID" : "tt5758778",
+  "Poster" : "\/52ml62vClzrlqvXZq2FEW6UF6c1.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Released",
+  "MediaType" : 1,
+  "Summary" : "Framed and on the run, a former FBI agent must save his family from a blazing fire in the world's tallest building.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "102 Minutes",
+  "Tagline" : "Don't look down"
+}

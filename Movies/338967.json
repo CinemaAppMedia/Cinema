@@ -1,1 +1,12 @@
-{"TMDBID": 338967, "IMDBID": "tt1560220", "Poster": "ayds6ZnMCEhgtoDbm0EVtYmzyzk.jpg", "MediaType": 1, "Tagline": "", "Summary": "Columbus, Tallahassee, Wichita, and Little Rock move to the American heartland as they face off against evolved zombies, fellow survivors, and the growing pains of the snarky makeshift family.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "99 Minutes", "Tile2SubTitle": "Released"}
+{
+  "TMDBID" : 338967,
+  "IMDBID" : "tt1560220",
+  "Poster" : "\/ayds6ZnMCEhgtoDbm0EVtYmzyzk.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Released",
+  "MediaType" : 1,
+  "Summary" : "Columbus, Tallahassee, Wichita, and Little Rock move to the American heartland as they face off against evolved zombies, fellow survivors, and the growing pains of the snarky makeshift family.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "99 Minutes",
+  "Tagline" : ""
+}

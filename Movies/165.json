@@ -1,1 +1,12 @@
-{"TMDBID": 165, "IMDBID": "tt0096874", "Poster": "YBawEsTkUZBDajKbd5LiHkmMGf.jpg", "MediaType": 1, "Tagline": "Getting back was only the beginning.", "Summary": "Marty and Doc are at it again in this wacky sequel to the 1985 blockbuster as the time-traveling duo head to 2015 to nip some McFly family woes in the bud. But things go awry thanks to bully Biff Tannen and a pesky sports almanac. In a last-ditch attempt to set things straight, Marty finds himself bound for 1955 and face to face with his teenage parents -- again.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "108 Minutes", "Tile2SubTitle": "Released"}
+{
+  "TMDBID" : 165,
+  "IMDBID" : "tt0096874",
+  "Poster" : "\/YBawEsTkUZBDajKbd5LiHkmMGf.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Released",
+  "MediaType" : 1,
+  "Summary" : "Marty and Doc are at it again in this wacky sequel to the 1985 blockbuster as the time-traveling duo head to 2015 to nip some McFly family woes in the bud. But things go awry thanks to bully Biff Tannen and a pesky sports almanac. In a last-ditch attempt to set things straight, Marty finds himself bound for 1955 and face to face with his teenage parents -- again.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "108 Minutes",
+  "Tagline" : "Getting back was only the beginning."
+}

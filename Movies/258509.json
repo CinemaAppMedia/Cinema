@@ -1,1 +1,12 @@
-{"TMDBID": 258509, "IMDBID": "tt2974918", "Poster": "aQhFoqby8UYq4uGQXOtV7P8JLBl.jpg", "MediaType": 1, "Tagline": "Fast & furry-ous", "Summary": "Through a series of misunderstandings, Alvin, Simon and Theodore come to believe that Dave is going to propose to his new girlfriend in New York City - and dump them. They have three days to get to him and stop the proposal.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "92 Minutes", "Tile2SubTitle": "Released"}
+{
+  "TMDBID" : 258509,
+  "IMDBID" : "tt2974918",
+  "Poster" : "\/aQhFoqby8UYq4uGQXOtV7P8JLBl.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Released",
+  "MediaType" : 1,
+  "Summary" : "Through a series of misunderstandings, Alvin, Simon and Theodore come to believe that Dave is going to propose to his new girlfriend in New York City - and dump them. They have three days to get to him and stop the proposal.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "92 Minutes",
+  "Tagline" : "Fast & furry-ous"
+}

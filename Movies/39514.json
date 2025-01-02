@@ -1,1 +1,12 @@
-{"TMDBID": 39514, "IMDBID": "tt1245526", "Poster": "adHKzS0v29apMxJlKuvAf1ykNnS.jpg", "MediaType": 1, "Tagline": "Still armed. Still dangerous. Still got it.", "Summary": "After surviving an assault from a squad of hit men, retired CIA black ops agent Frank Moses reassembles his old team for an all-out war. Frank reunites with old Joe, crazy Marvin and wily Victoria to uncover a massive conspiracy that threatens their lives. Only their expert training will allow them to survive a near-impossible mission -- breaking into CIA headquarters.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "111 Minutes", "Tile2SubTitle": "Released"}
+{
+  "TMDBID" : 39514,
+  "IMDBID" : "tt1245526",
+  "Poster" : "\/adHKzS0v29apMxJlKuvAf1ykNnS.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Released",
+  "MediaType" : 1,
+  "Summary" : "After surviving an assault from a squad of hit men, retired CIA black ops agent Frank Moses reassembles his old team for an all-out war. Frank reunites with old Joe, crazy Marvin and wily Victoria to uncover a massive conspiracy that threatens their lives. Only their expert training will allow them to survive a near-impossible mission -- breaking into CIA headquarters.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "111 Minutes",
+  "Tagline" : "Still armed. Still dangerous. Still got it."
+}

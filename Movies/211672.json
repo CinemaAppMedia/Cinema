@@ -1,1 +1,12 @@
-{"TMDBID": 211672, "IMDBID": "tt2293640", "Poster": "dr02BdCNAUPVU07aOodwPYv6HCf.jpg", "MediaType": 1, "Tagline": "Before Gru, they had a history of bad bosses", "Summary": "Minions Stuart, Kevin and Bob are recruited by Scarlet Overkill, a super-villain who, alongside her inventor husband Herb, hatches a plot to take over the world.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "91 Minutes", "Tile2SubTitle": "Released"}
+{
+  "TMDBID" : 211672,
+  "IMDBID" : "tt2293640",
+  "Poster" : "\/dr02BdCNAUPVU07aOodwPYv6HCf.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Released",
+  "MediaType" : 1,
+  "Summary" : "Minions Stuart, Kevin and Bob are recruited by Scarlet Overkill, a super-villain who, alongside her inventor husband Herb, hatches a plot to take over the world.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "91 Minutes",
+  "Tagline" : "Before Gru, they had a history of bad bosses"
+}

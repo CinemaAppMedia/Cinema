@@ -1,1 +1,12 @@
-{"TMDBID": 808, "IMDBID": "tt0126029", "Poster": "dyhaB19AICF7TO7CK2aD6KfymnQ.jpg", "MediaType": 1, "Tagline": "The greatest fairy tale never told.", "Summary": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "90 Minutes", "Tile2SubTitle": "Released"}
+{
+  "TMDBID" : 808,
+  "IMDBID" : "tt0126029",
+  "Poster" : "\/dyhaB19AICF7TO7CK2aD6KfymnQ.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Released",
+  "MediaType" : 1,
+  "Summary" : "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "90 Minutes",
+  "Tagline" : "The greatest fairy tale never told."
+}

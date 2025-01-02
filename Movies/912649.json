@@ -1,1 +1,12 @@
-{"TMDBID": 912649, "IMDBID": "tt16366836", "Poster": "aosm8NMQ3UyoBVpSxyimorCQykC.jpg", "MediaType": 1, "Tagline": "'Til death do they part.", "Summary": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "109 Minutes", "Tile2SubTitle": "Released"}
+{
+  "TMDBID" : 912649,
+  "IMDBID" : "tt16366836",
+  "Poster" : "\/aosm8NMQ3UyoBVpSxyimorCQykC.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Released",
+  "MediaType" : 1,
+  "Summary" : "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "109 Minutes",
+  "Tagline" : "'Til death do they part."
+}

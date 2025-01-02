@@ -1,1 +1,15 @@
-{"TMDBID": 71663, "IMDBID": "tt6045840", "Poster": "h1xbvvO6oqchfLe6xh0yLNnQxeM.jpg", "MediaType": 2, "Tagline": "High voltage action", "Summary": "Jefferson Pierce is a man wrestling with a secret. As the father of two daughters and principal of a charter high school that also serves as a safe haven for young people in a New Orleans neighborhood overrun by gang violence, he is a hero to his community.", "Tile1Title": "Series", "Tile2Title": "Status", "Tile1SubTitle": "4 Seasons 58 Episodes", "Tile2SubTitle": "Ended", "Backdrop": "lTQOBwJ67IKCE4x9nk8fOOhEWWy.jpg", "SeasonCount": 4, "EpisodeCount": 58}
+{
+  "EpisodeCount" : 58,
+  "Tile2Title" : "Status",
+  "Tile1Title" : "Series",
+  "MediaType" : 2,
+  "Backdrop" : "\/lTQOBwJ67IKCE4x9nk8fOOhEWWy.jpg",
+  "Poster" : "\/h1xbvvO6oqchfLe6xh0yLNnQxeM.jpg",
+  "IMDBID" : "tt6045840",
+  "TMDBID" : 71663,
+  "Summary" : "Jefferson Pierce is a man wrestling with a secret. As the father of two daughters and principal of a charter high school that also serves as a safe haven for young people in a New Orleans neighborhood overrun by gang violence, he is a hero to his community.",
+  "Tagline" : "High voltage action",
+  "Tile1SubTitle" : "4 Seasons 58 Episodes",
+  "Tile2SubTitle" : "Ended",
+  "SeasonCount" : 4
+}

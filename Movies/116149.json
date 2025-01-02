@@ -1,1 +1,12 @@
-{"TMDBID": 116149, "IMDBID": "tt1109624", "Poster": "y7lFcSKhFrcelocr2VFflJnVzIH.jpg", "MediaType": 1, "Tagline": "Please look after this bear. Thank you.", "Summary": "A young Peruvian bear travels to London in search of a new home. Finding himself lost and alone at Paddington Station, he meets the kindly Brown family.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "96 Minutes", "Tile2SubTitle": "Released"}
+{
+  "TMDBID" : 116149,
+  "IMDBID" : "tt1109624",
+  "Poster" : "\/y7lFcSKhFrcelocr2VFflJnVzIH.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Released",
+  "MediaType" : 1,
+  "Summary" : "A young Peruvian bear travels to London in search of a new home. Finding himself lost and alone at Paddington Station, he meets the kindly Brown family.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "96 Minutes",
+  "Tagline" : "Please look after this bear. Thank you."
+}

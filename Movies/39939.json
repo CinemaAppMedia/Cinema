@@ -1,1 +1,12 @@
-{"TMDBID": 39939, "IMDBID": "tt0247745", "Poster": "yJyxPItcLNVfYr7idOphQTmQ9hK.jpg", "MediaType": 1, "Tagline": "In their town, you don't screw with the law, the law screws with you.", "Summary": "Five bored, occasionally high and always ineffective Vermont state troopers must prove their worth to the governor or lose their jobs. After stumbling on a drug ring, they plan to make a bust, but a rival police force is out to steal the glory.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "103 Minutes", "Tile2SubTitle": "Released"}
+{
+  "TMDBID" : 39939,
+  "IMDBID" : "tt0247745",
+  "Poster" : "\/yJyxPItcLNVfYr7idOphQTmQ9hK.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Released",
+  "MediaType" : 1,
+  "Summary" : "Five bored, occasionally high and always ineffective Vermont state troopers must prove their worth to the governor or lose their jobs. After stumbling on a drug ring, they plan to make a bust, but a rival police force is out to steal the glory.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "103 Minutes",
+  "Tagline" : "In their town, you don't screw with the law, the law screws with you."
+}

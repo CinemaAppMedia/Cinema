@@ -1,1 +1,12 @@
-{"TMDBID": 43074, "IMDBID": "tt1289401", "Poster": "wJmWliwXIgZOCCVOcGRBhce7xPS.jpg", "MediaType": 1, "Tagline": "Who you gonna call?", "Summary": "Following a ghost invasion of Manhattan, paranormal enthusiasts Erin Gilbert and Abby Yates, nuclear engineer Jillian Holtzmann, and subway worker Patty Tolan band together to stop the otherworldly threat.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "117 Minutes", "Tile2SubTitle": "Released"}
+{
+  "TMDBID" : 43074,
+  "IMDBID" : "tt1289401",
+  "Poster" : "\/wJmWliwXIgZOCCVOcGRBhce7xPS.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Released",
+  "MediaType" : 1,
+  "Summary" : "Following a ghost invasion of Manhattan, paranormal enthusiasts Erin Gilbert and Abby Yates, nuclear engineer Jillian Holtzmann, and subway worker Patty Tolan band together to stop the otherworldly threat.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "117 Minutes",
+  "Tagline" : "Who you gonna call?"
+}

@@ -1,1 +1,12 @@
-{"TMDBID": 646385, "IMDBID": "tt11245972", "Poster": "1m3W6cpgwuIyjtg5nSnPx7yFkXW.jpg", "MediaType": 1, "Tagline": "It's always someone you know.", "Summary": "Twenty-five years after a streak of brutal murders shocked the quiet town of Woodsboro, a new killer has donned the Ghostface mask and begins targeting a group of teenagers to resurrect secrets from the town’s deadly past.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "114 Minutes", "Tile2SubTitle": "Released"}
+{
+  "TMDBID" : 646385,
+  "IMDBID" : "tt11245972",
+  "Poster" : "\/1m3W6cpgwuIyjtg5nSnPx7yFkXW.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Released",
+  "MediaType" : 1,
+  "Summary" : "Twenty-five years after a streak of brutal murders shocked the quiet town of Woodsboro, a new killer has donned the Ghostface mask and begins targeting a group of teenagers to resurrect secrets from the town’s deadly past.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "114 Minutes",
+  "Tagline" : "It's always someone you know."
+}

@@ -1,1 +1,12 @@
-{"TMDBID": 512196, "IMDBID": "tt8155288", "Poster": "4tdnePOkOOzwuGPEOAHp8UA4vqx.jpg", "MediaType": 1, "Tagline": "Death makes a killer comeback.", "Summary": "Collegian Tree Gelbman wakes up in horror to learn that she's stuck in a parallel universe. Her boyfriend Carter is now with someone else, and her friends and fellow students seem to be completely different versions of themselves. When Tree discovers that Carter's roommate has been altering time, she finds herself once again the target of a masked killer. When the psychopath starts to go after her inner circle, Tree soon realizes that she must die over and over again to save everyone.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "100 Minutes", "Tile2SubTitle": "Released"}
+{
+  "TMDBID" : 512196,
+  "IMDBID" : "tt8155288",
+  "Poster" : "\/4tdnePOkOOzwuGPEOAHp8UA4vqx.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Released",
+  "MediaType" : 1,
+  "Summary" : "Collegian Tree Gelbman wakes up in horror to learn that she's stuck in a parallel universe. Her boyfriend Carter is now with someone else, and her friends and fellow students seem to be completely different versions of themselves. When Tree discovers that Carter's roommate has been altering time, she finds herself once again the target of a masked killer. When the psychopath starts to go after her inner circle, Tree soon realizes that she must die over and over again to save everyone.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "100 Minutes",
+  "Tagline" : "Death makes a killer comeback."
+}

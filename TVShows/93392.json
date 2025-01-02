@@ -1,1 +1,15 @@
-{"TMDBID": 93392, "IMDBID": "tt7826108", "Poster": "nydKXBiLn4vpL1d5o1utbPKYdii.jpg", "MediaType": 2, "Tagline": "Energy never dies, it just takes a different form.", "Summary": "A widowed mom sets out to solve the mystery surrounding her young son's emerging superpowers while keeping his extraordinary gifts under wraps.", "Tile1Title": "Series", "Tile2Title": "Status", "Tile1SubTitle": "2 Seasons 17 Episodes", "Tile2SubTitle": "Canceled", "Backdrop": "nn37nj8LsJLmhxZIZWhVFzuiwVr.jpg", "SeasonCount": 2, "EpisodeCount": 17}
+{
+  "EpisodeCount" : 17,
+  "Tile2Title" : "Status",
+  "Tile1Title" : "Series",
+  "MediaType" : 2,
+  "Backdrop" : "\/nn37nj8LsJLmhxZIZWhVFzuiwVr.jpg",
+  "Poster" : "\/nydKXBiLn4vpL1d5o1utbPKYdii.jpg",
+  "IMDBID" : "tt7826108",
+  "TMDBID" : 93392,
+  "Summary" : "A widowed mom sets out to solve the mystery surrounding her young son's emerging superpowers while keeping his extraordinary gifts under wraps.",
+  "Tagline" : "Energy never dies, it just takes a different form.",
+  "Tile1SubTitle" : "2 Seasons 17 Episodes",
+  "Tile2SubTitle" : "Canceled",
+  "SeasonCount" : 2
+}

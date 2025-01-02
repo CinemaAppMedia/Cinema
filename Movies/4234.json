@@ -1,1 +1,12 @@
-{"TMDBID": 4234, "IMDBID": "tt0134084", "Poster": "qpH8ToZVlFD1bakL04LkEKodyDI.jpg", "MediaType": 1, "Tagline": "The most terrifying scream is always the last.", "Summary": "While Sidney Prescott and her friends visit the Hollywood set of Stab 3, the third film based on the Woodsboro murders, another Ghostface killer rises to terrorize them.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "116 Minutes", "Tile2SubTitle": "Released"}
+{
+  "TMDBID" : 4234,
+  "IMDBID" : "tt0134084",
+  "Poster" : "\/qpH8ToZVlFD1bakL04LkEKodyDI.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Released",
+  "MediaType" : 1,
+  "Summary" : "While Sidney Prescott and her friends visit the Hollywood set of Stab 3, the third film based on the Woodsboro murders, another Ghostface killer rises to terrorize them.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "116 Minutes",
+  "Tagline" : "The most terrifying scream is always the last."
+}

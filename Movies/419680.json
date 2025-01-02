@@ -1,1 +1,12 @@
-{"TMDBID": 419680, "IMDBID": "tt5657846", "Poster": "rF2IoKL0IFmumEXQFUuB8LajTYP.jpg", "MediaType": 1, "Tagline": "More Daddies. More Problems.", "Summary": "Brad and Dusty must deal with their intrusive fathers during the holidays.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "100 Minutes", "Tile2SubTitle": "Released"}
+{
+  "TMDBID" : 419680,
+  "IMDBID" : "tt5657846",
+  "Poster" : "\/rF2IoKL0IFmumEXQFUuB8LajTYP.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Released",
+  "MediaType" : 1,
+  "Summary" : "Brad and Dusty must deal with their intrusive fathers during the holidays.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "100 Minutes",
+  "Tagline" : "More Daddies. More Problems."
+}

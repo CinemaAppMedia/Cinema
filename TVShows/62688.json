@@ -1,1 +1,15 @@
-{"TMDBID": 62688, "IMDBID": "tt4016454", "Poster": "90mSQajf4STPROA6H7Hh8OvyWdK.jpg", "MediaType": 2, "Tagline": "Better. Stronger. Together.", "Summary": "Twenty-four-year-old Kara Zor-El, who was taken in by the Danvers family when she was 13 after being sent away from Krypton, must learn to embrace her powers after previously hiding them. The Danvers teach her to be careful with her powers, until she has to reveal them during an unexpected disaster, setting her on her journey of heroism.", "Tile1Title": "Series", "Tile2Title": "Status", "Tile1SubTitle": "6 Seasons 126 Episodes", "Tile2SubTitle": "Ended", "Backdrop": "jgb9xICHFX8wTGQ75js4uNbttQs.jpg", "SeasonCount": 6, "EpisodeCount": 126}
+{
+  "EpisodeCount" : 126,
+  "Tile2Title" : "Status",
+  "Tile1Title" : "Series",
+  "MediaType" : 2,
+  "Backdrop" : "\/jgb9xICHFX8wTGQ75js4uNbttQs.jpg",
+  "Poster" : "\/90mSQajf4STPROA6H7Hh8OvyWdK.jpg",
+  "IMDBID" : "tt4016454",
+  "TMDBID" : 62688,
+  "Summary" : "Twenty-four-year-old Kara Zor-El, who was taken in by the Danvers family when she was 13 after being sent away from Krypton, must learn to embrace her powers after previously hiding them. The Danvers teach her to be careful with her powers, until she has to reveal them during an unexpected disaster, setting her on her journey of heroism.",
+  "Tagline" : "Better. Stronger. Together.",
+  "Tile1SubTitle" : "6 Seasons 126 Episodes",
+  "Tile2SubTitle" : "Ended",
+  "SeasonCount" : 6
+}

@@ -1,1 +1,15 @@
-{"TMDBID": 138503, "IMDBID": "tt16027074", "Poster": "kjcsNeqF52YUQ2rUBGLMHwLkxvR.jpg", "MediaType": 2, "Tagline": "Meet the new hero on the block.", "Summary": "Peter Parker is on his way to becoming a hero, but his path to get there is anything but ordinary.", "Tile1Title": "Series", "Tile2Title": "Status", "Tile1SubTitle": "1 Season 10 Episodes", "Tile2SubTitle": "In Production", "Backdrop": "lb3Qc0Qbw9MmdA9gj3znMLgy3Of.jpg", "SeasonCount": 1, "EpisodeCount": 10}
+{
+  "EpisodeCount" : 10,
+  "Tile2Title" : "Status",
+  "Tile1Title" : "Series",
+  "MediaType" : 2,
+  "Backdrop" : "\/lb3Qc0Qbw9MmdA9gj3znMLgy3Of.jpg",
+  "Poster" : "\/kjcsNeqF52YUQ2rUBGLMHwLkxvR.jpg",
+  "IMDBID" : "tt16027074",
+  "TMDBID" : 138503,
+  "Summary" : "Peter Parker is on his way to becoming a hero, but his path to get there is anything but ordinary.",
+  "Tagline" : "Meet the new hero on the block.",
+  "Tile1SubTitle" : "1 Season 10 Episodes",
+  "Tile2SubTitle" : "In Production",
+  "SeasonCount" : 1
+}

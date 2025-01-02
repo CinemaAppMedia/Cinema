@@ -1,1 +1,12 @@
-{"TMDBID": 159824, "IMDBID": "tt2510894", "Poster": "ppTvoDhnOYQ9uiETpbOw8A2hI5k.jpg", "MediaType": 1, "Tagline": "They're back to raise a little terror", "Summary": "When the old-old-old-fashioned vampire Vlad arrives at the hotel for an impromptu family get-together, Hotel Transylvania is in for a collision of supernatural old-school and modern day cool.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "89 Minutes", "Tile2SubTitle": "Released"}
+{
+  "TMDBID" : 159824,
+  "IMDBID" : "tt2510894",
+  "Poster" : "\/ppTvoDhnOYQ9uiETpbOw8A2hI5k.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Released",
+  "MediaType" : 1,
+  "Summary" : "When the old-old-old-fashioned vampire Vlad arrives at the hotel for an impromptu family get-together, Hotel Transylvania is in for a collision of supernatural old-school and modern day cool.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "89 Minutes",
+  "Tagline" : "They're back to raise a little terror"
+}

@@ -1,1 +1,12 @@
-{"TMDBID": 425274, "IMDBID": "tt4712810", "Poster": "dRqjCpqrtNaCT36YBwS9fOHjsHn.jpg", "MediaType": 1, "Tagline": "", "Summary": "A third installment of the 'Now You See Me' franchise. Plot TBA.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "0 Minutes", "Tile2SubTitle": "Post Production"}
+{
+  "TMDBID" : 425274,
+  "IMDBID" : "tt4712810",
+  "Poster" : "\/dRqjCpqrtNaCT36YBwS9fOHjsHn.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Post Production",
+  "MediaType" : 1,
+  "Summary" : "A third installment of the 'Now You See Me' franchise. Plot TBA.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "0 Minutes",
+  "Tagline" : ""
+}

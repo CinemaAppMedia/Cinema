@@ -1,1 +1,12 @@
-{"TMDBID": 378221, "IMDBID": "tt4648586", "Poster": "n9gVLgAhjhaaaAOguhwVDQdH5E4.jpg", "MediaType": 1, "Tagline": "", "Summary": "Manny has moved to a new school, and it's not easy to fit in. After wishing he had more friends, Manny finds a mysterious collar and puts it on Rufus, the family dog. Suddenly, Rufus turns into a boy! Manny's not sure what to do, so he enrolls Rufus in school. When the other students notice Rufus's silly dog antics -- chasing squirrels, eating without utensils, asking for belly rubs, and catching a soccer ball with his mouth -- he immediately becomes the most popular kid around. Manny is jealous of his new best friend but eventually learns that a dog's loyalty to his owner always comes first.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "42 Minutes", "Tile2SubTitle": "Released"}
+{
+  "TMDBID" : 378221,
+  "IMDBID" : "tt4648586",
+  "Poster" : "\/n9gVLgAhjhaaaAOguhwVDQdH5E4.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Released",
+  "MediaType" : 1,
+  "Summary" : "Manny has moved to a new school, and it's not easy to fit in. After wishing he had more friends, Manny finds a mysterious collar and puts it on Rufus, the family dog. Suddenly, Rufus turns into a boy! Manny's not sure what to do, so he enrolls Rufus in school. When the other students notice Rufus's silly dog antics -- chasing squirrels, eating without utensils, asking for belly rubs, and catching a soccer ball with his mouth -- he immediately becomes the most popular kid around. Manny is jealous of his new best friend but eventually learns that a dog's loyalty to his owner always comes first.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "42 Minutes",
+  "Tagline" : ""
+}

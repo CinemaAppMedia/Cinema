@@ -1,1 +1,121 @@
-[{"Title": "ISSUE #201: A Hero Returns", "Date": "Feb 1st, 2022", "Still": "lAX0DGNQ9jWuwycFOEhkmZhGmnX.jpg", "EN": 1, "SN": 2}, {"Title": "ISSUE #202: Sankofa", "Date": "Feb 1st, 2022", "Still": "42sJzrRKoMrwpjlKYxscvV7le67.jpg", "EN": 2, "SN": 2}, {"Title": "ISSUE #203: Monster Problem", "Date": "Feb 1st, 2022", "Still": "hfIhseoWfGfkNhIB0IoSz328ekT.jpg", "EN": 3, "SN": 2}, {"Title": "ISSUE #204: With Friends Like These", "Date": "Feb 1st, 2022", "Still": "ouhX50Q8lOwUVI8UUlpde2ucfqU.jpg", "EN": 4, "SN": 2}, {"Title": "ISSUE #205: You vs. Me", "Date": "Feb 1st, 2022", "Still": "9jctrlcNczBPGT5KHaqQoiT9VFl.jpg", "EN": 5, "SN": 2}, {"Title": "ISSUE #206: 36 Good Hours", "Date": "Feb 1st, 2022", "Still": "cTsGTplHjVHLwHbv4bCShDX3Yne.jpg", "EN": 6, "SN": 2}, {"Title": "ISSUE #207: World Without Mom", "Date": "Feb 1st, 2022", "Still": "aEObF3lMNRjVi01bQNtjAa0d04J.jpg", "EN": 7, "SN": 2}, {"Title": "ISSUE #208: Who You Are", "Date": "Feb 1st, 2022", "Still": "l5tZwN9EMXEL6DAzXc7EnA4Ncv0.jpg", "EN": 8, "SN": 2}, {"Title": "ISSUE #101: How Do You Raise a Superhero?", "Date": "Oct 4th, 2019", "Still": "3eeV9HPK0zx3SgQ24iXBamENFhm.jpg", "EN": 1, "SN": 1}, {"Title": "ISSUE #102: Fortress of Solitude", "Date": "Oct 4th, 2019", "Still": "sN0hJk2b4LzmCseGZ5jW3GmJ1Vd.jpg", "EN": 2, "SN": 1}, {"Title": "ISSUE #103: Watch Man", "Date": "Oct 4th, 2019", "Still": "b2Q359GwJh4wpkgpQRYZo5QPkAj.jpg", "EN": 3, "SN": 1}, {"Title": "ISSUE #104: Welcome to BIONA. Hope You Survive the Experience", "Date": "Oct 4th, 2019", "Still": "pVmJpWIuhVs0trO7cBZNTeyVxjp.jpg", "EN": 4, "SN": 1}, {"Title": "ISSUE #105: Days of Mark's Future Past", "Date": "Oct 4th, 2019", "Still": "yprIKT8NahKtQ8AVtTXicAAH6Kf.jpg", "EN": 5, "SN": 1}, {"Title": "ISSUE #106: Super Friends", "Date": "Oct 4th, 2019", "Still": "icX9QGP3BNxfG2511phsHxUe8cx.jpg", "EN": 6, "SN": 1}, {"Title": "ISSUE #107: Why So Vomity?", "Date": "Oct 4th, 2019", "Still": "eLtVLJTGpSnojN4hFm4W9PDg4Gh.jpg", "EN": 7, "SN": 1}, {"Title": "ISSUE #108: You Won't Like Him When He's Angry", "Date": "Oct 4th, 2019", "Still": "lrLJNYAODgstRimrFYEgmyk8yjr.jpg", "EN": 8, "SN": 1}, {"Title": "ISSUE #109: Storm Killer", "Date": "Oct 4th, 2019", "Still": "2wworVlDoBzAjZ8i83ZWUG4LJIK.jpg", "EN": 9, "SN": 1}]
+[
+  {
+    "EN" : 1,
+    "SN" : 2,
+    "Title" : "ISSUE #201: A Hero Returns",
+    "Date" : "Feb 1st, 2022",
+    "Still" : "\/lAX0DGNQ9jWuwycFOEhkmZhGmnX.jpg"
+  },
+  {
+    "EN" : 2,
+    "SN" : 2,
+    "Title" : "ISSUE #202: Sankofa",
+    "Date" : "Feb 1st, 2022",
+    "Still" : "\/42sJzrRKoMrwpjlKYxscvV7le67.jpg"
+  },
+  {
+    "EN" : 3,
+    "SN" : 2,
+    "Title" : "ISSUE #203: Monster Problem",
+    "Date" : "Feb 1st, 2022",
+    "Still" : "\/hfIhseoWfGfkNhIB0IoSz328ekT.jpg"
+  },
+  {
+    "EN" : 4,
+    "SN" : 2,
+    "Title" : "ISSUE #204: With Friends Like These",
+    "Date" : "Feb 1st, 2022",
+    "Still" : "\/ouhX50Q8lOwUVI8UUlpde2ucfqU.jpg"
+  },
+  {
+    "EN" : 5,
+    "SN" : 2,
+    "Title" : "ISSUE #205: You vs. Me",
+    "Date" : "Feb 1st, 2022",
+    "Still" : "\/9jctrlcNczBPGT5KHaqQoiT9VFl.jpg"
+  },
+  {
+    "EN" : 6,
+    "SN" : 2,
+    "Title" : "ISSUE #206: 36 Good Hours",
+    "Date" : "Feb 1st, 2022",
+    "Still" : "\/cTsGTplHjVHLwHbv4bCShDX3Yne.jpg"
+  },
+  {
+    "EN" : 7,
+    "SN" : 2,
+    "Title" : "ISSUE #207: World Without Mom",
+    "Date" : "Feb 1st, 2022",
+    "Still" : "\/aEObF3lMNRjVi01bQNtjAa0d04J.jpg"
+  },
+  {
+    "EN" : 8,
+    "SN" : 2,
+    "Title" : "ISSUE #208: Who You Are",
+    "Date" : "Feb 1st, 2022",
+    "Still" : "\/l5tZwN9EMXEL6DAzXc7EnA4Ncv0.jpg"
+  },
+  {
+    "EN" : 1,
+    "SN" : 1,
+    "Title" : "ISSUE #101: How Do You Raise a Superhero?",
+    "Date" : "Oct 4th, 2019",
+    "Still" : "\/3eeV9HPK0zx3SgQ24iXBamENFhm.jpg"
+  },
+  {
+    "EN" : 2,
+    "SN" : 1,
+    "Title" : "ISSUE #102: Fortress of Solitude",
+    "Date" : "Oct 4th, 2019",
+    "Still" : "\/sN0hJk2b4LzmCseGZ5jW3GmJ1Vd.jpg"
+  },
+  {
+    "EN" : 3,
+    "SN" : 1,
+    "Title" : "ISSUE #103: Watch Man",
+    "Date" : "Oct 4th, 2019",
+    "Still" : "\/b2Q359GwJh4wpkgpQRYZo5QPkAj.jpg"
+  },
+  {
+    "EN" : 4,
+    "SN" : 1,
+    "Title" : "ISSUE #104: Welcome to BIONA. Hope You Survive the Experience",
+    "Date" : "Oct 4th, 2019",
+    "Still" : "\/pVmJpWIuhVs0trO7cBZNTeyVxjp.jpg"
+  },
+  {
+    "EN" : 5,
+    "SN" : 1,
+    "Title" : "ISSUE #105: Days of Mark's Future Past",
+    "Date" : "Oct 4th, 2019",
+    "Still" : "\/yprIKT8NahKtQ8AVtTXicAAH6Kf.jpg"
+  },
+  {
+    "EN" : 6,
+    "SN" : 1,
+    "Title" : "ISSUE #106: Super Friends",
+    "Date" : "Oct 4th, 2019",
+    "Still" : "\/icX9QGP3BNxfG2511phsHxUe8cx.jpg"
+  },
+  {
+    "EN" : 7,
+    "SN" : 1,
+    "Title" : "ISSUE #107: Why So Vomity?",
+    "Date" : "Oct 4th, 2019",
+    "Still" : "\/eLtVLJTGpSnojN4hFm4W9PDg4Gh.jpg"
+  },
+  {
+    "EN" : 8,
+    "SN" : 1,
+    "Title" : "ISSUE #108: You Won't Like Him When He's Angry",
+    "Date" : "Oct 4th, 2019",
+    "Still" : "\/lrLJNYAODgstRimrFYEgmyk8yjr.jpg"
+  },
+  {
+    "EN" : 9,
+    "SN" : 1,
+    "Title" : "ISSUE #109: Storm Killer",
+    "Date" : "Oct 4th, 2019",
+    "Still" : "\/2wworVlDoBzAjZ8i83ZWUG4LJIK.jpg"
+  }
+]

@@ -1,1 +1,12 @@
-{"TMDBID": 93456, "IMDBID": "tt1690953", "Poster": "oyMPJJZoOpLHgJoFPUOn6DgkbWJ.jpg", "MediaType": 1, "Tagline": "Back 2 Work", "Summary": "Gru is recruited by the Anti-Villain League to help deal with a powerful new super criminal.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "98 Minutes", "Tile2SubTitle": "Released"}
+{
+  "TMDBID" : 93456,
+  "IMDBID" : "tt1690953",
+  "Poster" : "\/oyMPJJZoOpLHgJoFPUOn6DgkbWJ.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Released",
+  "MediaType" : 1,
+  "Summary" : "Gru is recruited by the Anti-Villain League to help deal with a powerful new super criminal.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "98 Minutes",
+  "Tagline" : "Back 2 Work"
+}

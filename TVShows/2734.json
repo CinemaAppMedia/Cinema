@@ -1,1 +1,15 @@
-{"TMDBID": 2734, "IMDBID": "tt0203259", "Poster": "abWOCrIo7bbAORxcQyOFNJdnnmR.jpg", "MediaType": 2, "Tagline": "Hope in the darkness.", "Summary": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.", "Tile1Title": "Series", "Tile2Title": "Status", "Tile1SubTitle": "26 Seasons 564 Episodes", "Tile2SubTitle": "Returning ", "Backdrop": "cD9PxbrdWYgL7MUpD9eOYuiSe2P.jpg", "SeasonCount": 26, "EpisodeCount": 564}
+{
+  "EpisodeCount" : 564,
+  "Tile2Title" : "Status",
+  "Tile1Title" : "Series",
+  "MediaType" : 2,
+  "Backdrop" : "\/cD9PxbrdWYgL7MUpD9eOYuiSe2P.jpg",
+  "Poster" : "\/abWOCrIo7bbAORxcQyOFNJdnnmR.jpg",
+  "IMDBID" : "tt0203259",
+  "TMDBID" : 2734,
+  "Summary" : "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+  "Tagline" : "Hope in the darkness.",
+  "Tile1SubTitle" : "26 Seasons 564 Episodes",
+  "Tile2SubTitle" : "Returning ",
+  "SeasonCount" : 26
+}

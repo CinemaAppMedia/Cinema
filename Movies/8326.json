@@ -1,1 +1,12 @@
-{"TMDBID": 8326, "IMDBID": "tt0311289", "Poster": "o2Dm2mcE1qW8vT0bpsJO5OMBbqa.jpg", "MediaType": 1, "Tagline": "Some secrets are too big to keep hidden.", "Summary": "A wrongfully convicted boy is sent to a brutal desert detention camp where he must dig holes in order to build character. What he doesn't know is that he is digging holes in order to search for a lost treasure hidden somewhere in the camp.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "117 Minutes", "Tile2SubTitle": "Released"}
+{
+  "TMDBID" : 8326,
+  "IMDBID" : "tt0311289",
+  "Poster" : "\/o2Dm2mcE1qW8vT0bpsJO5OMBbqa.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Released",
+  "MediaType" : 1,
+  "Summary" : "A wrongfully convicted boy is sent to a brutal desert detention camp where he must dig holes in order to build character. What he doesn't know is that he is digging holes in order to search for a lost treasure hidden somewhere in the camp.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "117 Minutes",
+  "Tagline" : "Some secrets are too big to keep hidden."
+}

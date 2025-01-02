@@ -1,1 +1,12 @@
-{"TMDBID": 533535, "IMDBID": "tt6263850", "Poster": "8cdWjvZQUExUUTzyp4t6EDMubfO.jpg", "MediaType": 1, "Tagline": "Come together.", "Summary": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "128 Minutes", "Tile2SubTitle": "Released"}
+{
+  "TMDBID" : 533535,
+  "IMDBID" : "tt6263850",
+  "Poster" : "\/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Released",
+  "MediaType" : 1,
+  "Summary" : "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "128 Minutes",
+  "Tagline" : "Come together."
+}

@@ -1,1 +1,12 @@
-{"TMDBID": 24428, "IMDBID": "tt0848228", "Poster": "RYMX2wcKCBAr24UyPD7xwmjaTn.jpg", "MediaType": 1, "Tagline": "Some assembly required.", "Summary": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "143 Minutes", "Tile2SubTitle": "Released"}
+{
+  "TMDBID" : 24428,
+  "IMDBID" : "tt0848228",
+  "Poster" : "\/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Released",
+  "MediaType" : 1,
+  "Summary" : "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "143 Minutes",
+  "Tagline" : "Some assembly required."
+}

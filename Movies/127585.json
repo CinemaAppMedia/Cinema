@@ -1,1 +1,12 @@
-{"TMDBID": 127585, "IMDBID": "tt1877832", "Poster": "tYfijzolzgoMOtegh1Y7j2Enorg.jpg", "MediaType": 1, "Tagline": "To save the future, they must alter the past.", "Summary": "The ultimate X-Men ensemble fights a war for the survival of the species across two time periods as they join forces with their younger selves in an epic battle that must change the past – to save our future.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "132 Minutes", "Tile2SubTitle": "Released"}
+{
+  "TMDBID" : 127585,
+  "IMDBID" : "tt1877832",
+  "Poster" : "\/tYfijzolzgoMOtegh1Y7j2Enorg.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Released",
+  "MediaType" : 1,
+  "Summary" : "The ultimate X-Men ensemble fights a war for the survival of the species across two time periods as they join forces with their younger selves in an epic battle that must change the past – to save our future.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "132 Minutes",
+  "Tagline" : "To save the future, they must alter the past."
+}

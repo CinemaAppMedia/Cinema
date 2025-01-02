@@ -1,1 +1,15 @@
-{"TMDBID": 61889, "IMDBID": "tt3322312", "Poster": "mFg28Xslo8sMMRft7gxqVudCwkj.jpg", "MediaType": 2, "Tagline": "Do not fear the dark. Become it.", "Summary": "Lawyer-by-day Matt Murdock uses his heightened senses from being blinded as a young boy to fight crime at night on the streets of Hell’s Kitchen as Daredevil.", "Tile1Title": "Series", "Tile2Title": "Status", "Tile1SubTitle": "3 Seasons 39 Episodes", "Tile2SubTitle": "Canceled", "Backdrop": "2PrYnQR8YPei5vCVRwJXnwMqMyR.jpg", "SeasonCount": 3, "EpisodeCount": 39}
+{
+  "EpisodeCount" : 39,
+  "Tile2Title" : "Status",
+  "Tile1Title" : "Series",
+  "MediaType" : 2,
+  "Backdrop" : "\/2PrYnQR8YPei5vCVRwJXnwMqMyR.jpg",
+  "Poster" : "\/mFg28Xslo8sMMRft7gxqVudCwkj.jpg",
+  "IMDBID" : "tt3322312",
+  "TMDBID" : 61889,
+  "Summary" : "Lawyer-by-day Matt Murdock uses his heightened senses from being blinded as a young boy to fight crime at night on the streets of Hell’s Kitchen as Daredevil.",
+  "Tagline" : "Do not fear the dark. Become it.",
+  "Tile1SubTitle" : "3 Seasons 39 Episodes",
+  "Tile2SubTitle" : "Canceled",
+  "SeasonCount" : 3
+}

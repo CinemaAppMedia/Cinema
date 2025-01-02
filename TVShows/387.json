@@ -1,1 +1,15 @@
-{"TMDBID": 387, "IMDBID": "tt0206512", "Poster": "amvtZgiTty0GHIgD56gpouBWrcy.jpg", "MediaType": 2, "Tagline": "Be there and be square!", "Summary": "Deep down in the Pacific Ocean in the subterranean city of Bikini Bottom lives a square yellow sponge named SpongeBob SquarePants. SpongeBob lives in a pineapple with his pet snail, Gary, loves his job as a fry cook at the Krusty Krab, and has a knack for getting into all kinds of trouble without really trying. When he's not getting on the nerves of his cranky next door neighbor Squidward, SpongeBob can usually be found smack in the middle of all sorts of strange situations with his best buddy, the simple yet lovable starfish, Patrick, or his thrill-seeking surfer-girl squirrel pal, Sandy Cheeks.", "Tile1Title": "Series", "Tile2Title": "Status", "Tile1SubTitle": "15 Seasons 599 Episodes", "Tile2SubTitle": "Returning ", "Backdrop": "3MY7hMWrJ13Xtb1Y4jd7tztyPaZ.jpg", "SeasonCount": 15, "EpisodeCount": 599}
+{
+  "EpisodeCount" : 599,
+  "Tile2Title" : "Status",
+  "Tile1Title" : "Series",
+  "MediaType" : 2,
+  "Backdrop" : "\/3MY7hMWrJ13Xtb1Y4jd7tztyPaZ.jpg",
+  "Poster" : "\/amvtZgiTty0GHIgD56gpouBWrcy.jpg",
+  "IMDBID" : "tt0206512",
+  "TMDBID" : 387,
+  "Summary" : "Deep down in the Pacific Ocean in the subterranean city of Bikini Bottom lives a square yellow sponge named SpongeBob SquarePants. SpongeBob lives in a pineapple with his pet snail, Gary, loves his job as a fry cook at the Krusty Krab, and has a knack for getting into all kinds of trouble without really trying. When he's not getting on the nerves of his cranky next door neighbor Squidward, SpongeBob can usually be found smack in the middle of all sorts of strange situations with his best buddy, the simple yet lovable starfish, Patrick, or his thrill-seeking surfer-girl squirrel pal, Sandy Cheeks.",
+  "Tagline" : "Be there and be square!",
+  "Tile1SubTitle" : "15 Seasons 599 Episodes",
+  "Tile2SubTitle" : "Returning ",
+  "SeasonCount" : 15
+}

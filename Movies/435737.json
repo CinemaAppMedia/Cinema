@@ -1,1 +1,12 @@
-{"TMDBID": 435737, "IMDBID": "tt5687968", "Poster": "bcAWtUu09ylQDhDKrKkAW9S7lA4.jpg", "MediaType": 1, "Tagline": "Paws meets Claws", "Summary": "Rufus is a dog but turns into a human with a pendant. He meets a girl named Kat who asks him to go out. Kat is a cat who can also turn into a human as well.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "46 Minutes", "Tile2SubTitle": "Released"}
+{
+  "TMDBID" : 435737,
+  "IMDBID" : "tt5687968",
+  "Poster" : "\/bcAWtUu09ylQDhDKrKkAW9S7lA4.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Released",
+  "MediaType" : 1,
+  "Summary" : "Rufus is a dog but turns into a human with a pendant. He meets a girl named Kat who asks him to go out. Kat is a cat who can also turn into a human as well.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "46 Minutes",
+  "Tagline" : "Paws meets Claws"
+}

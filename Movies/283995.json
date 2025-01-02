@@ -1,1 +1,12 @@
-{"TMDBID": 283995, "IMDBID": "tt3896198", "Poster": "y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg", "MediaType": 1, "Tagline": "Obviously.", "Summary": "The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "137 Minutes", "Tile2SubTitle": "Released"}
+{
+  "TMDBID" : 283995,
+  "IMDBID" : "tt3896198",
+  "Poster" : "\/y4MBh0EjBlMuOzv9axM4qJlmhzz.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Released",
+  "MediaType" : 1,
+  "Summary" : "The Guardians must fight to keep their newfound family together as they unravel the mysteries of Peter Quill's true parentage.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "137 Minutes",
+  "Tagline" : "Obviously."
+}

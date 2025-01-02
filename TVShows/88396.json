@@ -1,1 +1,15 @@
-{"TMDBID": 88396, "IMDBID": "tt9208876", "Poster": "6kbAMLteGO8yyewYau6bJ683sw7.jpg", "MediaType": 2, "Tagline": "Honor the shield.", "Summary": "Following the events of “Avengers: Endgame”, the Falcon, Sam Wilson and the Winter Soldier, Bucky Barnes team up in a global adventure that tests their abilities, and their patience.", "Tile1Title": "Series", "Tile2Title": "Status", "Tile1SubTitle": "1 Season 6 Episodes", "Tile2SubTitle": "Ended", "Backdrop": "aTjbqMONy77fHJrIYu14g1F0d5h.jpg", "SeasonCount": 1, "EpisodeCount": 6}
+{
+  "EpisodeCount" : 6,
+  "Tile2Title" : "Status",
+  "Tile1Title" : "Series",
+  "MediaType" : 2,
+  "Backdrop" : "\/aTjbqMONy77fHJrIYu14g1F0d5h.jpg",
+  "Poster" : "\/6kbAMLteGO8yyewYau6bJ683sw7.jpg",
+  "IMDBID" : "tt9208876",
+  "TMDBID" : 88396,
+  "Summary" : "Following the events of “Avengers: Endgame”, the Falcon, Sam Wilson and the Winter Soldier, Bucky Barnes team up in a global adventure that tests their abilities, and their patience.",
+  "Tagline" : "Honor the shield.",
+  "Tile1SubTitle" : "1 Season 6 Episodes",
+  "Tile2SubTitle" : "Ended",
+  "SeasonCount" : 1
+}

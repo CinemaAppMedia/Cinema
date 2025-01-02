@@ -1,1 +1,15 @@
-{"TMDBID": 92782, "IMDBID": "tt10857164", "Poster": "3HWWh92kZbD7odwJX7nKmXNZsYo.jpg", "MediaType": 2, "Tagline": "The future is in her hands.", "Summary": "A great student, avid gamer, and voracious fan-fic scribe, Kamala Khan has a special affinity for superheroes, particularly Captain Marvel. However, she struggles to fit in at home and at school — that is, until she gets superpowers like the heroes she’s always looked up to. Life is easier with superpowers, right?", "Tile1Title": "Series", "Tile2Title": "Status", "Tile1SubTitle": "1 Season 6 Episodes", "Tile2SubTitle": "Ended", "Backdrop": "mfcLUWASJghU8MTNK38eYktfE83.jpg", "SeasonCount": 1, "EpisodeCount": 6}
+{
+  "EpisodeCount" : 6,
+  "Tile2Title" : "Status",
+  "Tile1Title" : "Series",
+  "MediaType" : 2,
+  "Backdrop" : "\/mfcLUWASJghU8MTNK38eYktfE83.jpg",
+  "Poster" : "\/3HWWh92kZbD7odwJX7nKmXNZsYo.jpg",
+  "IMDBID" : "tt10857164",
+  "TMDBID" : 92782,
+  "Summary" : "A great student, avid gamer, and voracious fan-fic scribe, Kamala Khan has a special affinity for superheroes, particularly Captain Marvel. However, she struggles to fit in at home and at school — that is, until she gets superpowers like the heroes she’s always looked up to. Life is easier with superpowers, right?",
+  "Tagline" : "The future is in her hands.",
+  "Tile1SubTitle" : "1 Season 6 Episodes",
+  "Tile2SubTitle" : "Ended",
+  "SeasonCount" : 1
+}

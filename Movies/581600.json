@@ -1,1 +1,12 @@
-{"TMDBID": 581600, "IMDBID": "tt8629748", "Poster": "fePczipv6ZzDO2uoww4vTAu2Sq3.jpg", "MediaType": 1, "Tagline": "The law has limits. They don't.", "Summary": "Spenser, a former Boston patrolman who just got out from prison, teams up with Hawk, an aspiring fighter, to unravel the truth behind the death of two police officers.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "110 Minutes", "Tile2SubTitle": "Released"}
+{
+  "TMDBID" : 581600,
+  "IMDBID" : "tt8629748",
+  "Poster" : "\/fePczipv6ZzDO2uoww4vTAu2Sq3.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Released",
+  "MediaType" : 1,
+  "Summary" : "Spenser, a former Boston patrolman who just got out from prison, teams up with Hawk, an aspiring fighter, to unravel the truth behind the death of two police officers.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "110 Minutes",
+  "Tagline" : "The law has limits. They don't."
+}

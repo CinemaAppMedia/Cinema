@@ -1,1 +1,12 @@
-{"TMDBID": 41446, "IMDBID": "tt1262416", "Poster": "tcrI37K98TVopLbcZBa55mWhLT1.jpg", "MediaType": 1, "Tagline": "New decade. New rules.", "Summary": "Ten years have passed, and Sidney Prescott has put herself back together thanks to her writing. However, her return to Woodsboro sparks the return of the Ghostface Killer.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "111 Minutes", "Tile2SubTitle": "Released"}
+{
+  "TMDBID" : 41446,
+  "IMDBID" : "tt1262416",
+  "Poster" : "\/tcrI37K98TVopLbcZBa55mWhLT1.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Released",
+  "MediaType" : 1,
+  "Summary" : "Ten years have passed, and Sidney Prescott has put herself back together thanks to her writing. However, her return to Woodsboro sparks the return of the Ghostface Killer.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "111 Minutes",
+  "Tagline" : "New decade. New rules."
+}

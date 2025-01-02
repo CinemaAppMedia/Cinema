@@ -1,1 +1,12 @@
-{"TMDBID": 421892, "IMDBID": "tt6113186", "Poster": "8XwmMjwiQ91Rm0eU4AcxyFA3XUZ.jpg", "MediaType": 1, "Tagline": "The All-Star returns.", "Summary": "The next film in the Shrek franchise. Plot TBA.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "0 Minutes", "Tile2SubTitle": "In Production"}
+{
+  "TMDBID" : 421892,
+  "IMDBID" : "tt6113186",
+  "Poster" : "\/8XwmMjwiQ91Rm0eU4AcxyFA3XUZ.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "In Production",
+  "MediaType" : 1,
+  "Summary" : "The next film in the Shrek franchise. Plot TBA.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "0 Minutes",
+  "Tagline" : "The All-Star returns."
+}

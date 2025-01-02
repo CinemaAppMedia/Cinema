@@ -1,1 +1,12 @@
-{"TMDBID": 18785, "IMDBID": "tt1119646", "Poster": "wTt2BoyAGhr0M00eR1ewVZyQoUq.jpg", "MediaType": 1, "Tagline": "Some guys just can't handle Vegas.", "Summary": "When three friends finally come to after a raucous night of bachelor-party revelry, they find a baby in the closet and a tiger in the bathroom. But they can't seem to locate their best friend, Doug – who's supposed to be tying the knot. Launching a frantic search for Doug, the trio perseveres through a nasty hangover to try to make it to the church on time.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "100 Minutes", "Tile2SubTitle": "Released"}
+{
+  "TMDBID" : 18785,
+  "IMDBID" : "tt1119646",
+  "Poster" : "\/wTt2BoyAGhr0M00eR1ewVZyQoUq.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Released",
+  "MediaType" : 1,
+  "Summary" : "When three friends finally come to after a raucous night of bachelor-party revelry, they find a baby in the closet and a tiger in the bathroom. But they can't seem to locate their best friend, Doug – who's supposed to be tying the knot. Launching a frantic search for Doug, the trio perseveres through a nasty hangover to try to make it to the church on time.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "100 Minutes",
+  "Tagline" : "Some guys just can't handle Vegas."
+}

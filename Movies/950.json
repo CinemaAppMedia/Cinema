@@ -1,1 +1,12 @@
-{"TMDBID": 950, "IMDBID": "tt0438097", "Poster": "zDduhCHasKQ9YOTvlOreHem7Wbi.jpg", "MediaType": 1, "Tagline": "Kiss Your Nuts Goodbye", "Summary": "Diego, Manny and Sid return in this sequel to the hit animated movie Ice Age. This time around, the deep freeze is over, and the ice-covered earth is starting to melt, which will destroy the trio's cherished valley. The impending disaster prompts them to reunite and warn all the other beasts about the desperate situation.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "91 Minutes", "Tile2SubTitle": "Released"}
+{
+  "TMDBID" : 950,
+  "IMDBID" : "tt0438097",
+  "Poster" : "\/zDduhCHasKQ9YOTvlOreHem7Wbi.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Released",
+  "MediaType" : 1,
+  "Summary" : "Diego, Manny and Sid return in this sequel to the hit animated movie Ice Age. This time around, the deep freeze is over, and the ice-covered earth is starting to melt, which will destroy the trio's cherished valley. The impending disaster prompts them to reunite and warn all the other beasts about the desperate situation.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "91 Minutes",
+  "Tagline" : "Kiss Your Nuts Goodbye"
+}

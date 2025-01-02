@@ -1,1 +1,15 @@
-{"TMDBID": 114472, "IMDBID": "tt13157618", "Poster": "f5ZMzzCvt2IzVDxr54gHPv9jlC9.jpg", "MediaType": 2, "Tagline": "Who do you trust?", "Summary": "Nick Fury and Talos discover a faction of shapeshifting Skrulls who have been infiltrating Earth for years.", "Tile1Title": "Series", "Tile2Title": "Status", "Tile1SubTitle": "1 Season 6 Episodes", "Tile2SubTitle": "Ended", "Backdrop": "6mOK9j99OFlxGc3ird2jWUeUha9.jpg", "SeasonCount": 1, "EpisodeCount": 6}
+{
+  "EpisodeCount" : 6,
+  "Tile2Title" : "Status",
+  "Tile1Title" : "Series",
+  "MediaType" : 2,
+  "Backdrop" : "\/6mOK9j99OFlxGc3ird2jWUeUha9.jpg",
+  "Poster" : "\/f5ZMzzCvt2IzVDxr54gHPv9jlC9.jpg",
+  "IMDBID" : "tt13157618",
+  "TMDBID" : 114472,
+  "Summary" : "Nick Fury and Talos discover a faction of shapeshifting Skrulls who have been infiltrating Earth for years.",
+  "Tagline" : "Who do you trust?",
+  "Tile1SubTitle" : "1 Season 6 Episodes",
+  "Tile2SubTitle" : "Ended",
+  "SeasonCount" : 1
+}

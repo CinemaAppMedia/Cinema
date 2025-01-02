@@ -1,1 +1,12 @@
-{"TMDBID": 4233, "IMDBID": "tt0120082", "Poster": "dORlVasiaDkJXTqt9bdH7nFNs6C.jpg", "MediaType": 1, "Tagline": "Someone has taken their love of sequels one step too far.", "Summary": "Two years after the first series of murders, as Sidney Prescott acclimates to college life, someone donning the Ghostface costume begins a new string of killings.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "120 Minutes", "Tile2SubTitle": "Released"}
+{
+  "TMDBID" : 4233,
+  "IMDBID" : "tt0120082",
+  "Poster" : "\/dORlVasiaDkJXTqt9bdH7nFNs6C.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Released",
+  "MediaType" : 1,
+  "Summary" : "Two years after the first series of murders, as Sidney Prescott acclimates to college life, someone donning the Ghostface costume begins a new string of killings.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "120 Minutes",
+  "Tagline" : "Someone has taken their love of sequels one step too far."
+}

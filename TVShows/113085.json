@@ -1,1 +1,15 @@
-{"TMDBID": 113085, "IMDBID": "tt11947238", "Poster": "tld3acb4DuRjYwXgqVGwAG3Jocw.jpg", "MediaType": 2, "Tagline": "Where answers come to light.", "Summary": "Investigates a wide range of historically compelling topics and the mysteries surrounding each including the Titanic, D.B. Cooper, Roswell, John Wilkes Booth, and more. Fresh, new evidence and perspectives will be showcased, such as never-before-released documents, personal diaries and DNA evidence.", "Tile1Title": "Series", "Tile2Title": "Status", "Tile1SubTitle": "5 Seasons 63 Episodes", "Tile2SubTitle": "Returning ", "Backdrop": "zuHD7KohvVhYOEp3AhL1B7jMSvy.jpg", "SeasonCount": 5, "EpisodeCount": 63}
+{
+  "EpisodeCount" : 63,
+  "Tile2Title" : "Status",
+  "Tile1Title" : "Series",
+  "MediaType" : 2,
+  "Backdrop" : "\/zuHD7KohvVhYOEp3AhL1B7jMSvy.jpg",
+  "Poster" : "\/tld3acb4DuRjYwXgqVGwAG3Jocw.jpg",
+  "IMDBID" : "tt11947238",
+  "TMDBID" : 113085,
+  "Summary" : "Investigates a wide range of historically compelling topics and the mysteries surrounding each including the Titanic, D.B. Cooper, Roswell, John Wilkes Booth, and more. Fresh, new evidence and perspectives will be showcased, such as never-before-released documents, personal diaries and DNA evidence.",
+  "Tagline" : "Where answers come to light.",
+  "Tile1SubTitle" : "5 Seasons 63 Episodes",
+  "Tile2SubTitle" : "Returning ",
+  "SeasonCount" : 5
+}

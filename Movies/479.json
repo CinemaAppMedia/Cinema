@@ -1,1 +1,12 @@
-{"TMDBID": 479, "IMDBID": "tt0162650", "Poster": "5ncvnNPaN73cOqD4muE413sSOyY.jpg", "MediaType": 1, "Tagline": "Still the man, any questions?", "Summary": "New York police detective John Shaft arrests Walter Wade Jr. for a racially motivated slaying. But the only eyewitness disappears, and Wade jumps bail for Switzerland. Two years later Wade returns to face trial, confident his money and influence will get him acquitted -- especially since he's paid a drug kingpin to kill the witness.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "99 Minutes", "Tile2SubTitle": "Released"}
+{
+  "TMDBID" : 479,
+  "IMDBID" : "tt0162650",
+  "Poster" : "\/5ncvnNPaN73cOqD4muE413sSOyY.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Released",
+  "MediaType" : 1,
+  "Summary" : "New York police detective John Shaft arrests Walter Wade Jr. for a racially motivated slaying. But the only eyewitness disappears, and Wade jumps bail for Switzerland. Two years later Wade returns to face trial, confident his money and influence will get him acquitted -- especially since he's paid a drug kingpin to kill the witness.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "99 Minutes",
+  "Tagline" : "Still the man, any questions?"
+}

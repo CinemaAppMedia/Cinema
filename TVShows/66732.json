@@ -1,1 +1,15 @@
-{"TMDBID": 66732, "IMDBID": "tt4574334", "Poster": "uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg", "MediaType": 2, "Tagline": "Every ending has a beginning.", "Summary": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.", "Tile1Title": "Series", "Tile2Title": "Status", "Tile1SubTitle": "5 Seasons 42 Episodes", "Tile2SubTitle": "Returning ", "Backdrop": "2MaumbgBlW1NoPo3ZJO38A6v7OS.jpg", "SeasonCount": 5, "EpisodeCount": 42}
+{
+  "EpisodeCount" : 42,
+  "Tile2Title" : "Status",
+  "Tile1Title" : "Series",
+  "MediaType" : 2,
+  "Backdrop" : "\/2MaumbgBlW1NoPo3ZJO38A6v7OS.jpg",
+  "Poster" : "\/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+  "IMDBID" : "tt4574334",
+  "TMDBID" : 66732,
+  "Summary" : "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+  "Tagline" : "Every ending has a beginning.",
+  "Tile1SubTitle" : "5 Seasons 42 Episodes",
+  "Tile2SubTitle" : "Returning ",
+  "SeasonCount" : 5
+}

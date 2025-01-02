@@ -1,1 +1,12 @@
-{"TMDBID": 438148, "IMDBID": "tt5113044", "Poster": "wKiOkZTN9lUUUNZLmtnwubZYONg.jpg", "MediaType": 1, "Tagline": "A villain will rise.", "Summary": "A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "87 Minutes", "Tile2SubTitle": "Released"}
+{
+  "TMDBID" : 438148,
+  "IMDBID" : "tt5113044",
+  "Poster" : "\/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Released",
+  "MediaType" : 1,
+  "Summary" : "A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "87 Minutes",
+  "Tagline" : "A villain will rise."
+}

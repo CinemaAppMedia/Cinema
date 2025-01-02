@@ -1,1 +1,12 @@
-{"TMDBID": 2080, "IMDBID": "tt0458525", "Poster": "yj8LbTju1p7CUJg7US2unSBk33s.jpg", "MediaType": 1, "Tagline": "Witness the origin.", "Summary": "After seeking to live a normal life, Logan sets out to avenge the death of his girlfriend by undergoing the mutant Weapon X program and becoming Wolverine.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "107 Minutes", "Tile2SubTitle": "Released"}
+{
+  "TMDBID" : 2080,
+  "IMDBID" : "tt0458525",
+  "Poster" : "\/yj8LbTju1p7CUJg7US2unSBk33s.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Released",
+  "MediaType" : 1,
+  "Summary" : "After seeking to live a normal life, Logan sets out to avenge the death of his girlfriend by undergoing the mutant Weapon X program and becoming Wolverine.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "107 Minutes",
+  "Tagline" : "Witness the origin."
+}

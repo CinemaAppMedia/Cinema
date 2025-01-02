@@ -1,1 +1,12 @@
-{"TMDBID": 6477, "IMDBID": "tt0952640", "Poster": "wEssFe5LCywsLfAcwELVXE38Fbj.jpg", "MediaType": 1, "Tagline": "The Original Entourage", "Summary": "A struggling songwriter named Dave Seville finds success when he comes across a trio of singing chipmunks: mischievous leader Alvin, brainy Simon, and chubby, impressionable Theodore.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "92 Minutes", "Tile2SubTitle": "Released"}
+{
+  "TMDBID" : 6477,
+  "IMDBID" : "tt0952640",
+  "Poster" : "\/wEssFe5LCywsLfAcwELVXE38Fbj.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Released",
+  "MediaType" : 1,
+  "Summary" : "A struggling songwriter named Dave Seville finds success when he comes across a trio of singing chipmunks: mischievous leader Alvin, brainy Simon, and chubby, impressionable Theodore.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "92 Minutes",
+  "Tagline" : "The Original Entourage"
+}

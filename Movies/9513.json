@@ -1,1 +1,12 @@
-{"TMDBID": 9513, "IMDBID": "tt0455499", "Poster": "osfMaHucgLtHtsMa6TQLTooE3G7.jpg", "MediaType": 1, "Tagline": "The Ego has landed.", "Summary": "Jon and Garfield visit the United Kingdom, where a case of mistaken cat identity finds Garfield ruling over a castle. His reign is soon jeopardized by the nefarious Lord Dargis, who has designs on the estate.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "86 Minutes", "Tile2SubTitle": "Released"}
+{
+  "TMDBID" : 9513,
+  "IMDBID" : "tt0455499",
+  "Poster" : "\/osfMaHucgLtHtsMa6TQLTooE3G7.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Released",
+  "MediaType" : 1,
+  "Summary" : "Jon and Garfield visit the United Kingdom, where a case of mistaken cat identity finds Garfield ruling over a castle. His reign is soon jeopardized by the nefarious Lord Dargis, who has designs on the estate.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "86 Minutes",
+  "Tagline" : "The Ego has landed."
+}

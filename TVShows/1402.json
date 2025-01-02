@@ -1,1 +1,15 @@
-{"TMDBID": 1402, "IMDBID": "tt1520211", "Poster": "yTNP9UOdUbGBUZ7SSVng75IwAaY.jpg", "MediaType": 2, "Tagline": "Fight the dead. Fear the living.", "Summary": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.", "Tile1Title": "Series", "Tile2Title": "Status", "Tile1SubTitle": "11 Seasons 177 Episodes", "Tile2SubTitle": "Ended", "Backdrop": "rAOjnEFTuNysY7bot8zonhImGMh.jpg", "SeasonCount": 11, "EpisodeCount": 177}
+{
+  "EpisodeCount" : 177,
+  "Tile2Title" : "Status",
+  "Tile1Title" : "Series",
+  "MediaType" : 2,
+  "Backdrop" : "\/rAOjnEFTuNysY7bot8zonhImGMh.jpg",
+  "Poster" : "\/yTNP9UOdUbGBUZ7SSVng75IwAaY.jpg",
+  "IMDBID" : "tt1520211",
+  "TMDBID" : 1402,
+  "Summary" : "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.",
+  "Tagline" : "Fight the dead. Fear the living.",
+  "Tile1SubTitle" : "11 Seasons 177 Episodes",
+  "Tile2SubTitle" : "Ended",
+  "SeasonCount" : 11
+}

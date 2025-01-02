@@ -1,1 +1,15 @@
-{"TMDBID": 38974, "IMDBID": "tt1865769", "Poster": "tspQe0FuiaUj0U1R1norNbiYTe4.jpg", "MediaType": 2, "Tagline": "", "Summary": "An idealistic teen from rural Texas embarks on the adventure of a lifetime when she decides to leave behind starry nights for big city lights. Thrilled to be on her own and determined not to be intimidated by New York City, she accepts a job as nanny for a high-profile couple with four kids. Helping to keep her moral compass in check are Bertram, the family's butler, and Tony, the building's 20-year-old doorman.", "Tile1Title": "Series", "Tile2Title": "Status", "Tile1SubTitle": "4 Seasons 98 Episodes", "Tile2SubTitle": "Ended", "Backdrop": "jDEvpKn1Ry8U7KM4kgC2Iw6ZCJ1.jpg", "SeasonCount": 4, "EpisodeCount": 98}
+{
+  "EpisodeCount" : 98,
+  "Tile2Title" : "Status",
+  "Tile1Title" : "Series",
+  "MediaType" : 2,
+  "Backdrop" : "\/jDEvpKn1Ry8U7KM4kgC2Iw6ZCJ1.jpg",
+  "Poster" : "\/tspQe0FuiaUj0U1R1norNbiYTe4.jpg",
+  "IMDBID" : "tt1865769",
+  "TMDBID" : 38974,
+  "Summary" : "An idealistic teen from rural Texas embarks on the adventure of a lifetime when she decides to leave behind starry nights for big city lights. Thrilled to be on her own and determined not to be intimidated by New York City, she accepts a job as nanny for a high-profile couple with four kids. Helping to keep her moral compass in check are Bertram, the family's butler, and Tony, the building's 20-year-old doorman.",
+  "Tagline" : "",
+  "Tile1SubTitle" : "4 Seasons 98 Episodes",
+  "Tile2SubTitle" : "Ended",
+  "SeasonCount" : 4
+}

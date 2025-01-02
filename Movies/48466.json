@@ -1,1 +1,12 @@
-{"TMDBID": 48466, "IMDBID": "tt1725156", "Poster": "iSl2JglSsOl0qUkqlmfor9h6U23.jpg", "MediaType": 1, "Tagline": "", "Summary": "Shrek challenges Donkey, Puss in Boots and his other fairy tale character friends to spend the night in Lord Farquaad's haunted castle, telling scary stories to see who can resist becoming scared and stay the longest.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "21 Minutes", "Tile2SubTitle": "Released"}
+{
+  "TMDBID" : 48466,
+  "IMDBID" : "tt1725156",
+  "Poster" : "\/iSl2JglSsOl0qUkqlmfor9h6U23.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Released",
+  "MediaType" : 1,
+  "Summary" : "Shrek challenges Donkey, Puss in Boots and his other fairy tale character friends to spend the night in Lord Farquaad's haunted castle, telling scary stories to see who can resist becoming scared and stay the longest.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "21 Minutes",
+  "Tagline" : ""
+}

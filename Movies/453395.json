@@ -1,1 +1,12 @@
-{"TMDBID": 453395, "IMDBID": "tt9419884", "Poster": "ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg", "MediaType": 1, "Tagline": "Enter a new dimension of Strange.", "Summary": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.", "Tile1Title": "Runtime", "Tile2Title": "Status", "Tile1SubTitle": "126 Minutes", "Tile2SubTitle": "Released"}
+{
+  "TMDBID" : 453395,
+  "IMDBID" : "tt9419884",
+  "Poster" : "\/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
+  "Tile2Title" : "Status",
+  "Tile2SubTitle" : "Released",
+  "MediaType" : 1,
+  "Summary" : "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
+  "Tile1Title" : "Runtime",
+  "Tile1SubTitle" : "126 Minutes",
+  "Tagline" : "Enter a new dimension of Strange."
+}

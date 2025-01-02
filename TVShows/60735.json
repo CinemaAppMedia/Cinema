@@ -1,1 +1,15 @@
-{"TMDBID": 60735, "IMDBID": "tt3107288", "Poster": "yZevl2vHQgmosfwUdVNzviIfaWS.jpg", "MediaType": 2, "Tagline": "The fastest man alive.", "Summary": "After being struck by lightning, CSI investigator Barry Allen awakens from a nine-month coma to discover he has been  granted the gift of super speed.  Teaming up with S.T.A.R. Labs, Barry takes on the persona of The Flash, the Fastest  Man Alive, to protect his city.", "Tile1Title": "Series", "Tile2Title": "Status", "Tile1SubTitle": "9 Seasons 184 Episodes", "Tile2SubTitle": "Ended", "Backdrop": "gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg", "SeasonCount": 9, "EpisodeCount": 184}
+{
+  "EpisodeCount" : 184,
+  "Tile2Title" : "Status",
+  "Tile1Title" : "Series",
+  "MediaType" : 2,
+  "Backdrop" : "\/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
+  "Poster" : "\/yZevl2vHQgmosfwUdVNzviIfaWS.jpg",
+  "IMDBID" : "tt3107288",
+  "TMDBID" : 60735,
+  "Summary" : "After being struck by lightning, CSI investigator Barry Allen awakens from a nine-month coma to discover he has been  granted the gift of super speed.  Teaming up with S.T.A.R. Labs, Barry takes on the persona of The Flash, the Fastest  Man Alive, to protect his city.",
+  "Tagline" : "The fastest man alive.",
+  "Tile1SubTitle" : "9 Seasons 184 Episodes",
+  "Tile2SubTitle" : "Ended",
+  "SeasonCount" : 9
+}
