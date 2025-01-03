@@ -1,5 +1,11 @@
 [
   {
+    "SN" : 3,
+    "Title" : "Episode 1",
+    "Date" : "June 27th, 2025",
+    "EN" : 1
+  },
+  {
     "EN" : 1,
     "SN" : 2,
     "Title" : "Bread and Lottery",
