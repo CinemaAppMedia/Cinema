@@ -1,9 +1,10 @@
 [
   {
+    "EN" : 1,
     "SN" : 1,
     "Title" : "Episode 1",
     "Date" : "Mar 4th, 2025",
-    "EN" : 1
+    "Still" : "\/pkXEMZ7Atowwd4R2lZe1jMQrO11.jpg"
   },
   {
     "SN" : 1,
@@ -30,10 +31,11 @@
     "EN" : 5
   },
   {
+    "EN" : 6,
     "SN" : 1,
     "Title" : "Episode 6",
     "Date" : "Apr 8th, 2025",
-    "EN" : 6
+    "Still" : "\/m4zAmcqMF9RpKNQNYpIYcNErJQ2.jpg"
   },
   {
     "SN" : 1,
