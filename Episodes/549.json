@@ -56,16 +56,23 @@
     "Still" : "\/1T3VNSYnxrvpQ7SnyXSNEWvJZbn.jpg"
   },
   {
+    "EN" : 9,
     "SN" : 24,
     "Title" : "Enemy of the State",
     "Date" : "Jan 16th, 2025",
-    "EN" : 9
+    "Still" : "\/jek515TK6Gy3Xc9MkuUuvdgN5sx.jpg"
   },
   {
     "SN" : 24,
     "Title" : "Greater Good",
     "Date" : "Jan 23rd, 2025",
     "EN" : 10
+  },
+  {
+    "SN" : 24,
+    "Title" : "The Hardest Thing",
+    "Date" : "Jan 30th, 2025",
+    "EN" : 11
   },
   {
     "EN" : 1,
