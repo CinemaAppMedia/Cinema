@@ -2,62 +2,63 @@
   {
     "EN" : 1,
     "SN" : 1,
-    "Title" : "Episode 1",
+    "Title" : "Amazing Fantasy",
     "Date" : "Jan 29th, 2025",
-    "Still" : "\/pp2Zib235HfqYBt80eOPZxE6fnV.jpg"
+    "Still" : "\/fMUCJEEpAGWydtTDT9OkWXRXP8p.jpg"
+  },
+  {
+    "EN" : 2,
+    "SN" : 1,
+    "Title" : "The Parker Luck",
+    "Date" : "Jan 29th, 2025",
+    "Still" : "\/4yeCexOZGijSmjkfBsW5JkqhtX7.jpg"
   },
   {
     "SN" : 1,
-    "Title" : "Episode 2",
-    "Date" : "Jan 29th, 2025",
-    "EN" : 2
-  },
-  {
-    "SN" : 1,
-    "Title" : "Episode 3",
+    "Title" : "Secret Identity Crisis",
     "Date" : "Feb 5th, 2025",
     "EN" : 3
   },
   {
     "EN" : 4,
     "SN" : 1,
-    "Title" : "Episode 4",
+    "Title" : "Hitting the Big Time",
     "Date" : "Feb 5th, 2025",
     "Still" : "\/lrb2M5Ny0mcLR3LcO2Un6eDRFWz.jpg"
   },
   {
     "SN" : 1,
-    "Title" : "Episode 5",
+    "Title" : "The Unicorn Unleashed",
     "Date" : "Feb 5th, 2025",
     "EN" : 5
   },
   {
     "SN" : 1,
-    "Title" : "Episode 6",
+    "Title" : "Duel with the Devil",
     "Date" : "Feb 12th, 2025",
     "EN" : 6
   },
   {
     "SN" : 1,
-    "Title" : "Episode 7",
+    "Title" : "Scorpion Rising",
     "Date" : "Feb 12th, 2025",
     "EN" : 7
   },
   {
     "SN" : 1,
-    "Title" : "Episode 8",
+    "Title" : "Tangled Web",
     "Date" : "Feb 12th, 2025",
     "EN" : 8
   },
   {
     "SN" : 1,
-    "Title" : "Episode 9",
+    "Title" : "Hero or Menace",
     "Date" : "Feb 19th, 2025",
     "EN" : 9
   },
   {
     "SN" : 1,
-    "Title" : "Episode 10",
+    "Title" : "If This Be My Destiny...",
     "Date" : "Feb 19th, 2025",
     "EN" : 10
   }
