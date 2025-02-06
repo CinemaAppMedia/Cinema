@@ -86,21 +86,51 @@
   {
     "SN" : 15,
     "Title" : "Jeffy T's Prankwell Emporium",
-    "Date" : "Unknown",
+    "Date" : "Feb 28th, 2025",
     "EN" : 13
   },
   {
     "SN" : 15,
     "Title" : "A Taste of Plankton",
-    "Date" : "Unknown",
+    "Date" : "Feb 28th, 2025",
     "EN" : 14
   },
   {
     "EN" : 15,
     "SN" : 15,
-    "Title" : "Episode 15",
+    "Title" : "Smartificial Intelligence",
     "Date" : "Unknown",
     "Still" : "\/cRsRUWg2zEX9C2WSuNqTjeV52FS.jpg"
+  },
+  {
+    "SN" : 15,
+    "Title" : "Firehouse Bob",
+    "Date" : "Unknown",
+    "EN" : 16
+  },
+  {
+    "SN" : 15,
+    "Title" : "Pablum Plankton",
+    "Date" : "Unknown",
+    "EN" : 17
+  },
+  {
+    "SN" : 15,
+    "Title" : "MuseBob ModelPants",
+    "Date" : "Unknown",
+    "EN" : 18
+  },
+  {
+    "SN" : 15,
+    "Title" : "Delivery of DOOM!",
+    "Date" : "Unknown",
+    "EN" : 19
+  },
+  {
+    "SN" : 15,
+    "Title" : "My Father, the Boat",
+    "Date" : "Unknown",
+    "EN" : 20
   },
   {
     "EN" : 1,
