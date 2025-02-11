@@ -89,6 +89,12 @@
     "EN" : 13
   },
   {
+    "SN" : 26,
+    "Title" : "The Grid Plan",
+    "Date" : "Feb 27th, 2025",
+    "EN" : 14
+  },
+  {
     "EN" : 1,
     "SN" : 25,
     "Title" : "Tunnel Blind",
@@ -181,7 +187,7 @@
   },
   {
     "SN" : 24,
-    "Title" : "Episode 1",
+    "Title" : "Gimme Shelter – Part Two",
     "Date" : "Sept 22nd, 2022",
     "EN" : 1
   },
