@@ -817,7 +817,7 @@
   },
   {
     "TMDBID" : 1573,
-    "Poster" : "\/wUEizkONxPZmIWQ2lnMttW0suXH.jpg",
+    "Poster" : "\/lDFO7D4MdbhjOwaPwe18QG69Rt0.jpg",
     "MediaType" : 1,
     "IMDBID" : "tt0099423",
     "Title" : "Die Hard 2",
@@ -1721,7 +1721,7 @@
   },
   {
     "TMDBID" : 516729,
-    "Poster" : "\/rzfqeLdHIysJGrspMICyedpqDqt.jpg",
+    "Poster" : "\/eaV4dZlLz9eOwWJf3q52onTIXTJ.jpg",
     "MediaType" : 1,
     "IMDBID" : "tt5822536",
     "Title" : "Paddington in Peru",
@@ -2174,5 +2174,13 @@
     "IMDBID" : "tt0206512",
     "Title" : "SpongeBob SquarePants",
     "Date" : "May 1st, 1999"
+  },
+  {
+    "TMDBID" : 254653,
+    "Poster" : "\/eckKG7aVS9atbhRb0XNTaOZxBMv.jpg",
+    "MediaType" : 2,
+    "IMDBID" : "tt32384391",
+    "Title" : "The Thundermans: Undercover",
+    "Date" : "Jan 22nd, 2025"
   }
 ]
