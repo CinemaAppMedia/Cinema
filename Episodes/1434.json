@@ -1,15 +1,46 @@
 [
   {
+    "EN" : 1,
     "SN" : 23,
     "Title" : "Fat Gun",
     "Date" : "Feb 16th, 2025",
-    "EN" : 1
+    "Still" : "\/xJkEf2HpA3ZYb6ehlDJUrKJFCBS.jpg"
   },
   {
     "SN" : 23,
     "Title" : "Live, Laugh, Love",
     "Date" : "Feb 23rd, 2025",
     "EN" : 2
+  },
+  {
+    "SN" : 23,
+    "Title" : "Drunk With Power",
+    "Date" : "Mar 2nd, 2025",
+    "EN" : 3
+  },
+  {
+    "SN" : 23,
+    "Title" : "Episode 4",
+    "Date" : "Mar 9th, 2025",
+    "EN" : 4
+  },
+  {
+    "SN" : 23,
+    "Title" : "Episode 5",
+    "Date" : "Mar 16th, 2025",
+    "EN" : 5
+  },
+  {
+    "SN" : 23,
+    "Title" : "Episode 6",
+    "Date" : "Mar 23rd, 2025",
+    "EN" : 6
+  },
+  {
+    "SN" : 23,
+    "Title" : "Episode 7",
+    "Date" : "Mar 30th, 2025",
+    "EN" : 7
   },
   {
     "EN" : 1,
