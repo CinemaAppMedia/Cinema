@@ -9,50 +9,50 @@
   {
     "SN" : 1,
     "Title" : "Episode 2",
-    "Date" : "Mar 11th, 2025",
+    "Date" : "Mar 4th, 2025",
     "EN" : 2
   },
   {
     "SN" : 1,
     "Title" : "Episode 3",
-    "Date" : "Mar 18th, 2025",
+    "Date" : "Mar 11th, 2025",
     "EN" : 3
   },
   {
     "SN" : 1,
     "Title" : "Episode 4",
-    "Date" : "Mar 25th, 2025",
+    "Date" : "Mar 18th, 2025",
     "EN" : 4
   },
   {
     "SN" : 1,
     "Title" : "Episode 5",
-    "Date" : "Apr 1st, 2025",
+    "Date" : "Mar 25th, 2025",
     "EN" : 5
   },
   {
     "EN" : 6,
     "SN" : 1,
     "Title" : "Episode 6",
-    "Date" : "Apr 8th, 2025",
+    "Date" : "Apr 1st, 2025",
     "Still" : "\/m4zAmcqMF9RpKNQNYpIYcNErJQ2.jpg"
   },
   {
     "SN" : 1,
     "Title" : "Episode 7",
-    "Date" : "Apr 15th, 2025",
+    "Date" : "Apr 8th, 2025",
     "EN" : 7
   },
   {
     "SN" : 1,
     "Title" : "Episode 8",
-    "Date" : "Apr 22nd, 2025",
+    "Date" : "Apr 15th, 2025",
     "EN" : 8
   },
   {
     "SN" : 1,
     "Title" : "Episode 9",
-    "Date" : "Apr 29th, 2025",
+    "Date" : "Apr 22nd, 2025",
     "EN" : 9
   }
 ]
