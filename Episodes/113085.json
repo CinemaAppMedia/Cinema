@@ -1,27 +1,31 @@
 [
   {
+    "EN" : 1,
     "SN" : 6,
     "Title" : "Roswell",
     "Date" : "Jan 27th, 2025",
-    "EN" : 1
+    "Still" : "\/2m27068DTHGzu2pOS0SmkrmgA4c.jpg"
   },
   {
+    "EN" : 2,
     "SN" : 6,
     "Title" : "The Franklin Expedition",
     "Date" : "Feb 3rd, 2025",
-    "EN" : 2
+    "Still" : "\/aaPgmG6B2BqPtB11Mcf74mZNkuB.jpg"
   },
   {
+    "EN" : 3,
     "SN" : 6,
     "Title" : "The Valentine's Day Massacre",
     "Date" : "Feb 10th, 2025",
-    "EN" : 3
+    "Still" : "\/j2ZcwZ1YHVGPODbFwAiaxlC7qMk.jpg"
   },
   {
+    "EN" : 4,
     "SN" : 6,
     "Title" : "What is the Yeti?",
     "Date" : "Feb 24th, 2025",
-    "EN" : 4
+    "Still" : "\/4jxh3vzwc5z8BTyZTiqwc7ylphe.jpg"
   },
   {
     "SN" : 6,

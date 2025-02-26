@@ -84,16 +84,23 @@
     "Still" : "\/4EOmLihTRudhHeCa1FPA75GQzZu.jpg"
   },
   {
+    "EN" : 13,
     "SN" : 26,
     "Title" : "Extinguished",
     "Date" : "Feb 20th, 2025",
-    "EN" : 13
+    "Still" : "\/bqcyctoWKYvxXiOlpNBv617ACUt.jpg"
   },
   {
     "SN" : 26,
     "Title" : "The Grid Plan",
     "Date" : "Feb 27th, 2025",
     "EN" : 14
+  },
+  {
+    "SN" : 26,
+    "Title" : "Undertow",
+    "Date" : "Mar 13th, 2025",
+    "EN" : 15
   },
   {
     "EN" : 1,
