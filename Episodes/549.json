@@ -97,6 +97,12 @@
     "EN" : 14
   },
   {
+    "SN" : 24,
+    "Title" : "Episode 15",
+    "Date" : "Mar 13th, 2025",
+    "EN" : 15
+  },
+  {
     "EN" : 1,
     "SN" : 23,
     "Title" : "Freedom of Expression",
@@ -190,7 +196,7 @@
   {
     "EN" : 1,
     "SN" : 22,
-    "Title" : "Gimme Shelter (3)",
+    "Title" : "Gimme Shelter (III)",
     "Date" : "Sept 22nd, 2022",
     "Still" : "\/1qZwpgVHiOoJv4xoviJtOYpviQ1.jpg"
   },

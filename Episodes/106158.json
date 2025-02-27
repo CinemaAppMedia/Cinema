@@ -2,14 +2,62 @@
   {
     "SN" : 5,
     "Title" : "Lost Highway",
-    "Date" : "Unknown",
+    "Date" : "Apr 17th, 2025",
     "EN" : 1
   },
   {
     "SN" : 5,
     "Title" : "Dante's Inferno",
-    "Date" : "Unknown",
+    "Date" : "Apr 17th, 2025",
     "EN" : 2
+  },
+  {
+    "SN" : 5,
+    "Title" : "Paranza Del Bambini",
+    "Date" : "Apr 24th, 2025",
+    "EN" : 3
+  },
+  {
+    "SN" : 5,
+    "Title" : "Promese Infrante",
+    "Date" : "May 1st, 2025",
+    "EN" : 4
+  },
+  {
+    "SN" : 5,
+    "Title" : "Lago D'Averno",
+    "Date" : "May 8th, 2025",
+    "EN" : 5
+  },
+  {
+    "SN" : 5,
+    "Title" : "Beautiful Disaster",
+    "Date" : "May 15th, 2025",
+    "EN" : 6
+  },
+  {
+    "SN" : 5,
+    "Title" : "Off The Books",
+    "Date" : "May 22nd, 2025",
+    "EN" : 7
+  },
+  {
+    "SN" : 5,
+    "Title" : "Fail Safe",
+    "Date" : "May 29th, 2025",
+    "EN" : 8
+  },
+  {
+    "SN" : 5,
+    "Title" : "Against The World",
+    "Date" : "June 5th, 2025",
+    "EN" : 9
+  },
+  {
+    "SN" : 5,
+    "Title" : "He Was A Stabler",
+    "Date" : "June 12th, 2025",
+    "EN" : 10
   },
   {
     "EN" : 1,
