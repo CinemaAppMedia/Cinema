@@ -592,14 +592,6 @@
     "Date" : "Mar 20th, 2024"
   },
   {
-    "TMDBID" : 771,
-    "Poster" : "\/onTSipZ8R3bliBdKfPtsDuHTdlL.jpg",
-    "MediaType" : 1,
-    "IMDBID" : "tt0099785",
-    "Title" : "Home Alone",
-    "Date" : "Nov 16th, 1990"
-  },
-  {
     "TMDBID" : 772,
     "Poster" : "\/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg",
     "MediaType" : 1,
@@ -2169,7 +2161,7 @@
   },
   {
     "TMDBID" : 387,
-    "Poster" : "\/amvtZgiTty0GHIgD56gpouBWrcy.jpg",
+    "Poster" : "\/zDuKxQkG8EemvLdBn43ChdM0MJL.jpg",
     "MediaType" : 2,
     "IMDBID" : "tt0206512",
     "Title" : "SpongeBob SquarePants",
