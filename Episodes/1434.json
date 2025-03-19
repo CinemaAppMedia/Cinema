@@ -28,10 +28,11 @@
     "Still" : "\/fSWRILqqr4MT1XOF2CC8YL7sXOQ.jpg"
   },
   {
+    "EN" : 5,
     "SN" : 23,
     "Title" : "The Chicken or the Meg",
     "Date" : "Mar 16th, 2025",
-    "EN" : 5
+    "Still" : "\/yQ3pa41BoOFtORTWSeBH8hhD2fE.jpg"
   },
   {
     "SN" : 23,
@@ -44,6 +45,18 @@
     "Title" : "Pitch Imperfect",
     "Date" : "Mar 30th, 2025",
     "EN" : 7
+  },
+  {
+    "SN" : 23,
+    "Title" : "Hard Times at Adam West High",
+    "Date" : "Apr 6th, 2025",
+    "EN" : 8
+  },
+  {
+    "SN" : 23,
+    "Title" : "The Elle Word",
+    "Date" : "Apr 13th, 2025",
+    "EN" : 9
   },
   {
     "EN" : 1,
