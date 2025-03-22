@@ -112,9 +112,27 @@
   },
   {
     "SN" : 24,
-    "Title" : "Episode 17",
+    "Title" : "A Perfect Family",
     "Date" : "Apr 3rd, 2025",
     "EN" : 17
+  },
+  {
+    "SN" : 24,
+    "Title" : "Inherent Bias",
+    "Date" : "Apr 10th, 2025",
+    "EN" : 18
+  },
+  {
+    "SN" : 24,
+    "Title" : "Episode 19",
+    "Date" : "Apr 17th, 2025",
+    "EN" : 19
+  },
+  {
+    "SN" : 24,
+    "Title" : "Episode 20",
+    "Date" : "Apr 24th, 2025",
+    "EN" : 20
   },
   {
     "EN" : 1,

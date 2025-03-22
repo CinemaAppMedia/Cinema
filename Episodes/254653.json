@@ -72,14 +72,92 @@
   },
   {
     "SN" : 1,
+    "Title" : "Prank You Next",
+    "Date" : "Apr 9th, 2025",
+    "EN" : 12
+  },
+  {
+    "SN" : 1,
     "Title" : "Episode 13",
     "Date" : "Apr 16th, 2025",
     "EN" : 13
   },
   {
     "SN" : 1,
-    "Title" : "Prank You Next",
-    "Date" : "Apr 9th, 2025",
-    "EN" : 12
+    "Title" : "Episode 24",
+    "Date" : "Apr 23rd, 2025",
+    "EN" : 14
+  },
+  {
+    "SN" : 1,
+    "Title" : "Episode 15",
+    "Date" : "Apr 30th, 2025",
+    "EN" : 15
+  },
+  {
+    "SN" : 1,
+    "Title" : "Episode 16",
+    "Date" : "May 7th, 2025",
+    "EN" : 16
+  },
+  {
+    "SN" : 1,
+    "Title" : "Episode 17",
+    "Date" : "May 14th, 2025",
+    "EN" : 17
+  },
+  {
+    "SN" : 1,
+    "Title" : "Episode 18",
+    "Date" : "May 21st, 2025",
+    "EN" : 18
+  },
+  {
+    "SN" : 1,
+    "Title" : "Episode 19",
+    "Date" : "May 28th, 2025",
+    "EN" : 19
+  },
+  {
+    "SN" : 1,
+    "Title" : "Episode 20",
+    "Date" : "June 4th, 2025",
+    "EN" : 20
+  },
+  {
+    "SN" : 1,
+    "Title" : "Episode 21",
+    "Date" : "June 11th, 2025",
+    "EN" : 21
+  },
+  {
+    "SN" : 1,
+    "Title" : "Episode 22",
+    "Date" : "June 18th, 2025",
+    "EN" : 22
+  },
+  {
+    "SN" : 1,
+    "Title" : "Episode 23",
+    "Date" : "June 25th, 2025",
+    "EN" : 23
+  },
+  {
+    "SN" : 1,
+    "Title" : "Episode 24",
+    "Date" : "July 2nd, 2025",
+    "EN" : 24
+  },
+  {
+    "SN" : 1,
+    "Title" : "Episode 25",
+    "Date" : "July 9th, 2025",
+    "EN" : 25
+  },
+  {
+    "SN" : 1,
+    "Title" : "Episode 26",
+    "Date" : "July 16th, 2025",
+    "EN" : 26
   }
 ]
