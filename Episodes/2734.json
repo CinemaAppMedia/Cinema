@@ -139,8 +139,14 @@
   {
     "SN" : 26,
     "Title" : "Lost Wanderer",
-    "Date" : "Unknown",
+    "Date" : "May 8th, 2025",
     "EN" : 21
+  },
+  {
+    "SN" : 26,
+    "Title" : "Post-Rage",
+    "Date" : "May 15th, 2025",
+    "EN" : 22
   },
   {
     "EN" : 1,
