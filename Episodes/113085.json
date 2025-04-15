@@ -49,16 +49,36 @@
     "Still" : "\/z4u5hqxRfYGfNnULiwDHTgr1afV.jpg"
   },
   {
+    "EN" : 8,
     "SN" : 6,
     "Title" : "The Rendlesham Forest Incident",
     "Date" : "Mar 24th, 2025",
-    "EN" : 8
+    "Still" : "\/2eYbYqsACkn4yMptJNFrBzxzAep.jpg"
+  },
+  {
+    "EN" : 9,
+    "SN" : 6,
+    "Title" : "The Amazing Events of the Book of Exodus",
+    "Date" : "Apr 14th, 2025",
+    "Still" : "\/a8ofyUWpqv5tU8IbE3epHQRyQe7.jpg"
+  },
+  {
+    "SN" : 6,
+    "Title" : "The Search for Atlantis",
+    "Date" : "Apr 21st, 2025",
+    "EN" : 10
+  },
+  {
+    "SN" : 6,
+    "Title" : "The Death of Dillinger",
+    "Date" : "Apr 28th, 2025",
+    "EN" : 11
   },
   {
     "SN" : 6,
     "Title" : "The Missing Riches of Genghis Khan",
-    "Date" : "Apr 14th, 2025",
-    "EN" : 9
+    "Date" : "May 5th, 2025",
+    "EN" : 12
   },
   {
     "EN" : 1,
