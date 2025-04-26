@@ -140,7 +140,7 @@
   },
   {
     "SN" : 26,
-    "Title" : "Lost Wanderer",
+    "Title" : "Aperture",
     "Date" : "May 8th, 2025",
     "EN" : 21
   },
@@ -149,6 +149,12 @@
     "Title" : "Post-Rage",
     "Date" : "May 15th, 2025",
     "EN" : 22
+  },
+  {
+    "SN" : 26,
+    "Title" : "Episode 23",
+    "Date" : "May 22nd, 2025",
+    "EN" : 23
   },
   {
     "EN" : 1,
