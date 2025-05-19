@@ -1,5 +1,17 @@
 [
   {
+    "SN" : 16,
+    "Title" : "Bizarro Bottom",
+    "Date" : "June 27th, 2025",
+    "EN" : 1
+  },
+  {
+    "SN" : 16,
+    "Title" : "Squidward's Tough Break",
+    "Date" : "June 27th, 2025",
+    "EN" : 2
+  },
+  {
     "EN" : 1,
     "SN" : 15,
     "Title" : "UpWard",
@@ -129,41 +141,43 @@
     "EN" : 19,
     "SN" : 15,
     "Title" : "Delivery of Doom",
-    "Date" : "Unknown",
+    "Date" : "June 6th, 2025",
     "Still" : "\/d7zcek0DpgvCp5bcizh9tPaLO5v.jpg"
   },
   {
     "EN" : 20,
     "SN" : 15,
     "Title" : "My Father the Boat",
-    "Date" : "Unknown",
+    "Date" : "June 6th, 2025",
     "Still" : "\/sBX0wxoPPpdy8gtuvnQSjFqxA4U.jpg"
   },
   {
     "EN" : 21,
     "SN" : 15,
     "Title" : "Who's Afraid of Mr. Snippers?",
-    "Date" : "Unknown",
+    "Date" : "June 13th, 2025",
     "Still" : "\/vNGkjFUYOXAhJ2Mg6rci9swc8lc.jpg"
   },
   {
     "EN" : 22,
     "SN" : 15,
     "Title" : "A Fish Called Sandy",
-    "Date" : "Unknown",
+    "Date" : "June 13th, 2025",
     "Still" : "\/zxbJXBIC2pmK557N9NMNJLq8qvK.jpg"
   },
   {
+    "EN" : 23,
     "SN" : 15,
     "Title" : "Making Waves",
-    "Date" : "Unknown",
-    "EN" : 23
+    "Date" : "June 20th, 2025",
+    "Still" : "\/caXY1j0tRWeVVU7z0MtqdXJzg7G.jpg"
   },
   {
+    "EN" : 24,
     "SN" : 15,
     "Title" : "Captain Quasar: The Next Iteration",
-    "Date" : "Unknown",
-    "EN" : 24
+    "Date" : "June 20th, 2025",
+    "Still" : "\/tAC29DZYu0J02dJv1YH0kwTXw5r.jpg"
   },
   {
     "EN" : 1,
