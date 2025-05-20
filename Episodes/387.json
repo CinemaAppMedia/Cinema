@@ -1,15 +1,21 @@
 [
   {
     "SN" : 16,
-    "Title" : "Bizarro Bottom",
+    "Title" : "SpongeBob & Patrick's Timeline Twist-Up",
     "Date" : "June 27th, 2025",
     "EN" : 1
   },
   {
     "SN" : 16,
-    "Title" : "Squidward's Tough Break",
-    "Date" : "June 27th, 2025",
+    "Title" : "Bizarro Bottom",
+    "Date" : "Unknown",
     "EN" : 2
+  },
+  {
+    "SN" : 16,
+    "Title" : "Squidward's Tough Break",
+    "Date" : "Unknown",
+    "EN" : 3
   },
   {
     "EN" : 1,

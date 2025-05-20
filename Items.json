@@ -1169,7 +1169,7 @@
   },
   {
     "TMDBID" : 258509,
-    "Poster" : "\/16OcuuW5z509WILR6BmscNdXgw0.jpg",
+    "Poster" : "\/8Xrc8Mh6UNhI0HNWudLA3yHPAV1.jpg",
     "MediaType" : 1,
     "IMDBID" : "tt2974918",
     "Title" : "Alvin and the Chipmunks: The Road Chip",
@@ -1753,7 +1753,7 @@
   },
   {
     "TMDBID" : 39513,
-    "Poster" : "\/y3fEPKUbpO1Yym1UyyPbwpp0XhO.jpg",
+    "Poster" : "\/bX8TP2qRWh2OcmeUHGn1ENDkCu6.jpg",
     "MediaType" : 1,
     "IMDBID" : "tt1092026",
     "Title" : "Paul",
@@ -2190,5 +2190,13 @@
     "IMDBID" : "tt32384391",
     "Title" : "The Thundermans: Undercover",
     "Date" : "Jan 22nd, 2025"
+  },
+  {
+    "TMDBID" : 456,
+    "Poster" : "\/vHqeLzYl3dEAutojCO26g0LIkom.jpg",
+    "MediaType" : 2,
+    "IMDBID" : "tt0096697",
+    "Title" : "The Simpsons",
+    "Date" : "Dec 17th, 1989"
   }
 ]
