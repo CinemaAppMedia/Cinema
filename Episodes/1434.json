@@ -91,10 +91,11 @@
     "Still" : "\/50v8NzzdN0AtlClgbgBdsfJfpcF.jpg"
   },
   {
+    "EN" : 14,
     "SN" : 23,
     "Title" : "Cool Hand Lois",
     "Date" : "May 29th, 2025",
-    "EN" : 14
+    "Still" : "\/z4t31RLdWp0Kg8cOVXVot1AMkhn.jpg"
   },
   {
     "SN" : 23,
@@ -107,6 +108,18 @@
     "Title" : "Row v. Wade",
     "Date" : "Unknown",
     "EN" : 16
+  },
+  {
+    "SN" : 23,
+    "Title" : "The Edible Arrangement",
+    "Date" : "Unknown",
+    "EN" : 17
+  },
+  {
+    "SN" : 23,
+    "Title" : "Twain's World",
+    "Date" : "Unknown",
+    "EN" : 18
   },
   {
     "EN" : 1,
