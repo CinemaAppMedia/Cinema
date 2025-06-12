@@ -98,10 +98,11 @@
     "Still" : "\/z4t31RLdWp0Kg8cOVXVot1AMkhn.jpg"
   },
   {
+    "EN" : 15,
     "SN" : 23,
     "Title" : "Martian Meg",
     "Date" : "June 5th, 2025",
-    "EN" : 15
+    "Still" : "\/dm9zRfehq6B7ufcIZ6Ic3rGpsuF.jpg"
   },
   {
     "SN" : 23,
@@ -120,6 +121,12 @@
     "Title" : "Twain's World",
     "Date" : "Unknown",
     "EN" : 18
+  },
+  {
+    "SN" : 23,
+    "Title" : "Karenheit 451",
+    "Date" : "Unknown",
+    "EN" : 19
   },
   {
     "EN" : 1,
