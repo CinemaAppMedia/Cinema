@@ -1,38 +1,38 @@
 [
   {
     "SN" : 1,
-    "Title" : "Episode 1",
+    "Title" : "Take Me Home",
     "Date" : "June 24th, 2025",
     "EN" : 1
   },
   {
     "SN" : 1,
-    "Title" : "Episode 2",
+    "Title" : "Will the Real Natalie Please Stand Up?",
     "Date" : "June 24th, 2025",
     "EN" : 2
   },
   {
     "SN" : 1,
-    "Title" : "Episode 3",
+    "Title" : "We in Danger, Girl",
     "Date" : "June 24th, 2025",
     "EN" : 3
   },
   {
     "SN" : 1,
-    "Title" : "Episode 4",
+    "Title" : "Bad Magic",
     "Date" : "July 1st, 2025",
     "EN" : 4
   },
   {
     "SN" : 1,
-    "Title" : "Episode 5",
-    "Date" : "July 8th, 2025",
+    "Title" : "Karma's a Glitch",
+    "Date" : "July 1st, 2025",
     "EN" : 5
   },
   {
     "SN" : 1,
-    "Title" : "Episode 6",
-    "Date" : "July 15th, 2025",
+    "Title" : "The Past Is the Past",
+    "Date" : "July 1st, 2025",
     "EN" : 6
   }
 ]
