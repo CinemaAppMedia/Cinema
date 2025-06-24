@@ -1,33 +1,38 @@
 [
   {
+    "EN" : 1,
     "SN" : 3,
-    "Title" : "Episode 1",
+    "Title" : "Keys and Knives",
     "Date" : "June 27th, 2025",
-    "EN" : 1
+    "Still" : "\/uqcKH3ygfvIfibSprm7iGNsNjhq.jpg"
   },
   {
+    "EN" : 2,
     "SN" : 3,
     "Title" : "Episode 2",
     "Date" : "June 27th, 2025",
-    "EN" : 2
+    "Still" : "\/qOrlBPdwwgAL1MDcoHxToRg6xSE.jpg"
   },
   {
+    "EN" : 3,
     "SN" : 3,
     "Title" : "Episode 3",
     "Date" : "June 27th, 2025",
-    "EN" : 3
+    "Still" : "\/4IpD07dAm1PXDEI5DmABGzxr6IP.jpg"
   },
   {
+    "EN" : 4,
     "SN" : 3,
     "Title" : "Episode 4",
     "Date" : "June 27th, 2025",
-    "EN" : 4
+    "Still" : "\/bskakiMUIwL7j5BafAHjxylEwlp.jpg"
   },
   {
+    "EN" : 5,
     "SN" : 3,
     "Title" : "Episode 5",
     "Date" : "June 27th, 2025",
-    "EN" : 5
+    "Still" : "\/5Lc3xf3lCJzIjZxLwzEA0Ky6afq.jpg"
   },
   {
     "SN" : 3,
