@@ -1,9 +1,10 @@
 [
   {
+    "EN" : 1,
     "SN" : 5,
     "Title" : "Chapter One: The Crawl",
     "Date" : "Nov 26th, 2025",
-    "EN" : 1
+    "Still" : "\/jBYJOxq6LxrAxENqcQH5qGTgkkU.jpg"
   },
   {
     "SN" : 5,
@@ -12,16 +13,18 @@
     "EN" : 2
   },
   {
+    "EN" : 3,
     "SN" : 5,
     "Title" : "Chapter Three: The Turnbow Trap",
     "Date" : "Nov 26th, 2025",
-    "EN" : 3
+    "Still" : "\/dXM7A2FmURWSVu0kPCeP4GSPO4c.jpg"
   },
   {
+    "EN" : 4,
     "SN" : 5,
     "Title" : "Chapter Four: Sorcerer",
     "Date" : "Nov 26th, 2025",
-    "EN" : 4
+    "Still" : "\/xHbu416xVCJKyIlTzK6u54siPQk.jpg"
   },
   {
     "SN" : 5,
