@@ -95,6 +95,24 @@
     "EN" : 14
   },
   {
+    "SN" : 6,
+    "Title" : "The Killing of Bugsy Siegel",
+    "Date" : "July 14th, 2025",
+    "EN" : 15
+  },
+  {
+    "SN" : 6,
+    "Title" : "Percy Fawcett and the Lost City of Z",
+    "Date" : "July 21st, 2025",
+    "EN" : 16
+  },
+  {
+    "SN" : 6,
+    "Title" : "Secret of the Sphinx",
+    "Date" : "July 28th, 2025",
+    "EN" : 17
+  },
+  {
     "EN" : 1,
     "SN" : 5,
     "Title" : "Montezuma's Lost Treasure",
