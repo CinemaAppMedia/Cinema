@@ -372,7 +372,7 @@
     "Poster" : "\/x26MtUlwtWD26d0G0FXcppxCJio.jpg",
     "MediaType" : 1,
     "IMDBID" : "tt10676052",
-    "Title" : "The Fantastic Four: First Steps",
+    "Title" : "The Fantastic 4: First Steps",
     "Date" : "July 23rd, 2025"
   },
   {
@@ -1784,6 +1784,14 @@
     "Date" : "July 10th, 2025"
   },
   {
+    "TMDBID" : 68718,
+    "Poster" : "\/7oWY8VDWW7thTzWh3OKYRkWUlD5.jpg",
+    "MediaType" : 1,
+    "IMDBID" : "tt1853728",
+    "Title" : "Django Unchained",
+    "Date" : "Dec 25th, 2012"
+  },
+  {
     "TMDBID" : 201834,
     "Poster" : "\/cPn71YFDENH0JkWUezlsLyWmLfN.jpg",
     "MediaType" : 2,
@@ -1809,7 +1817,7 @@
   },
   {
     "TMDBID" : 1402,
-    "Poster" : "\/ng3cMtxYKt1OSQYqFlnKWnVsqNO.jpg",
+    "Poster" : "\/aN29llVoCFtBTwDZFtqdD9d8dHb.jpg",
     "MediaType" : 2,
     "IMDBID" : "tt1520211",
     "Title" : "The Walking Dead",
