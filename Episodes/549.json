@@ -1,5 +1,11 @@
 [
   {
+    "SN" : 25,
+    "Title" : "Episode 1",
+    "Date" : "Sept 25th, 2025",
+    "EN" : 1
+  },
+  {
     "EN" : 1,
     "SN" : 24,
     "Title" : "Catch and Kill",
