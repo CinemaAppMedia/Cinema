@@ -1,9 +1,27 @@
 [
   {
     "SN" : 3,
-    "Title" : "Episode 1",
+    "Title" : "Costa Da Morte",
     "Date" : "Sept 7th, 2025",
     "EN" : 1
+  },
+  {
+    "SN" : 3,
+    "Title" : "La Ofrenda",
+    "Date" : "Sept 14th, 2025",
+    "EN" : 2
+  },
+  {
+    "SN" : 3,
+    "Title" : "El Sacrificio",
+    "Date" : "Sept 21st, 2025",
+    "EN" : 3
+  },
+  {
+    "SN" : 3,
+    "Title" : "La Justicia Fronteriza",
+    "Date" : "Sept 28th, 2025",
+    "EN" : 4
   },
   {
     "EN" : 1,
