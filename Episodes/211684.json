@@ -24,6 +24,24 @@
     "EN" : 4
   },
   {
+    "SN" : 3,
+    "Title" : "Limbo",
+    "Date" : "Oct 5th, 2025",
+    "EN" : 5
+  },
+  {
+    "SN" : 3,
+    "Title" : "Contrabando",
+    "Date" : "Oct 12th, 2025",
+    "EN" : 6
+  },
+  {
+    "SN" : 3,
+    "Title" : "Solaz del Mar",
+    "Date" : "Oct 19th, 2025",
+    "EN" : 7
+  },
+  {
     "EN" : 1,
     "SN" : 2,
     "Title" : "The Book of Carol: La gentillesse des étrangers",
