@@ -51,49 +51,49 @@
   {
     "SN" : 16,
     "Title" : "Laundro-Madness",
-    "Date" : "Unknown",
-    "EN" : 8
-  },
-  {
-    "SN" : 16,
-    "Title" : "Hog Huntin",
-    "Date" : "Unknown",
-    "EN" : 9
-  },
-  {
-    "SN" : 16,
-    "Title" : "SpongeBob TrashPants",
-    "Date" : "Unknown",
+    "Date" : "Oct 10th, 2025",
     "EN" : 10
   },
   {
     "SN" : 16,
-    "Title" : "Krusty Kafeteria",
-    "Date" : "Unknown",
+    "Title" : "Hog Huntin",
+    "Date" : "Oct 10th, 2025",
     "EN" : 11
   },
   {
     "SN" : 16,
-    "Title" : "The Haunted Bucket",
-    "Date" : "Unknown",
+    "Title" : "SpongeBob TrashPants",
+    "Date" : "Oct 17th, 2025",
     "EN" : 12
   },
   {
     "SN" : 16,
-    "Title" : "Go Fetch",
-    "Date" : "Unknown",
+    "Title" : "Krusty Kafeteria",
+    "Date" : "Oct 17th, 2025",
     "EN" : 13
   },
   {
     "SN" : 16,
+    "Title" : "The Haunted Bucket",
+    "Date" : "Oct 3rd, 2025",
+    "EN" : 8
+  },
+  {
+    "SN" : 16,
+    "Title" : "Go Fetch",
+    "Date" : "Oct 3rd, 2025",
+    "EN" : 9
+  },
+  {
+    "SN" : 16,
     "Title" : "Heart of Garbage",
-    "Date" : "Unknown",
+    "Date" : "Oct 24th, 2025",
     "EN" : 14
   },
   {
     "SN" : 16,
     "Title" : "Near-Mint Plankton",
-    "Date" : "Unknown",
+    "Date" : "Oct 24th, 2025",
     "EN" : 15
   },
   {
@@ -4245,7 +4245,7 @@
     "SN" : 1,
     "Title" : "Culture Shock",
     "Date" : "Sept 18th, 1999",
-    "Still" : "\/3GC6yHKd73jOULFkp9qxZYeRWxi.jpg"
+    "Still" : "\/nJezCReeGmHMsehtlXROM4Q2ZJ8.jpg"
   },
   {
     "EN" : 21,
