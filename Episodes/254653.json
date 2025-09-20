@@ -18,21 +18,21 @@
     "SN" : 1,
     "Title" : "Bummer School",
     "Date" : "Jan 29th, 2025",
-    "Still" : "\/arorI3OCa82ZeTq4a1QYQ6EADWt.jpg"
+    "Still" : "\/q069hSwjQnO9zcdlyuJDDxkMBFX.jpg"
   },
   {
     "EN" : 4,
     "SN" : 1,
     "Title" : "The Parent Zap",
     "Date" : "Feb 5th, 2025",
-    "Still" : "\/nEmJQkVrgkHbFCGsGVz7vvZtYcO.jpg"
+    "Still" : "\/cYcU0bczO7KljMLMs3ZRQF2Lu9z.jpg"
   },
   {
     "EN" : 5,
     "SN" : 1,
     "Title" : "Save the Date",
     "Date" : "Feb 12th, 2025",
-    "Still" : "\/tYVHdpyYiruMu2nQA84IfVeeAsH.jpg"
+    "Still" : "\/yUQxRmhuQV7613R444uVXO8OZxp.jpg"
   },
   {
     "EN" : 6,
@@ -79,7 +79,7 @@
   {
     "EN" : 12,
     "SN" : 1,
-    "Title" : "Prank You Next",
+    "Title" : "Prank You, Next",
     "Date" : "Apr 9th, 2025",
     "Still" : "\/6LSioKjATC5JDpQ8jT3k1FIyDKB.jpg"
   },
@@ -95,49 +95,56 @@
     "SN" : 1,
     "Title" : "Summer of Secrets",
     "Date" : "July 17th, 2025",
-    "Still" : "\/3WC7U7QjqCSsGVA9n12fyI4FGAG.jpg"
+    "Still" : "\/c5OjQnthapiqVPlws5D0Zn0M2In.jpg"
   },
   {
+    "EN" : 15,
     "SN" : 1,
     "Title" : "I Know What You Did This Summer",
     "Date" : "July 17th, 2025",
-    "EN" : 15
+    "Still" : "\/gR6L6Jp8y50hEfYrQn243fS7lHe.jpg"
   },
   {
+    "EN" : 16,
     "SN" : 1,
     "Title" : "The Summer I Turned Giddy",
     "Date" : "July 24th, 2025",
-    "EN" : 16
+    "Still" : "\/m8lTIdLJGWS47yPJjZdclWo4tKQ.jpg"
   },
   {
+    "EN" : 17,
     "SN" : 1,
     "Title" : "A Midsummer Knight's Scheme",
     "Date" : "July 24th, 2025",
-    "EN" : 17
+    "Still" : "\/kiTkvjOtUb3ao0oadNcq5qtTVwi.jpg"
   },
   {
+    "EN" : 18,
     "SN" : 1,
     "Title" : "Cruel Summer",
     "Date" : "July 31st, 2025",
-    "EN" : 18
+    "Still" : "\/AhVPYr66PS4dkks6pzjBaFNFxcw.jpg"
   },
   {
+    "EN" : 19,
     "SN" : 1,
     "Title" : "Endless Summer",
     "Date" : "July 31st, 2025",
-    "EN" : 19
+    "Still" : "\/m1Hlr6esjx54gfkYjBcEYGnDsyt.jpg"
   },
   {
+    "EN" : 20,
     "SN" : 1,
     "Title" : "The Max of Life",
     "Date" : "Sept 10th, 2025",
-    "EN" : 20
+    "Still" : "\/6qQv3EkdAzuNWaKU5M2VQ5Mu2yQ.jpg"
   },
   {
+    "EN" : 21,
     "SN" : 1,
-    "Title" : "Love Is in the Lair",
+    "Title" : "Love is in the Lair",
     "Date" : "Sept 17th, 2025",
-    "EN" : 21
+    "Still" : "\/6ZMkaRZzNp0BOqjttrf1eO7WtrT.jpg"
   },
   {
     "SN" : 1,
@@ -147,13 +154,13 @@
   },
   {
     "SN" : 1,
-    "Title" : "The Mastermind Unmasked",
+    "Title" : "Party All the Crime",
     "Date" : "Oct 1st, 2025",
     "EN" : 23
   },
   {
     "SN" : 1,
-    "Title" : "Episode 24",
+    "Title" : "The Mastermind Unmasked",
     "Date" : "Oct 8th, 2025",
     "EN" : 24
   },
