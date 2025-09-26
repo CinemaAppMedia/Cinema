@@ -1,9 +1,10 @@
 [
   {
+    "EN" : 1,
     "SN" : 27,
     "Title" : "In The Wind",
     "Date" : "Sept 25th, 2025",
-    "EN" : 1
+    "Still" : "\/d2wM8SPv1J89TEdz1unNdgJ5GAf.jpg"
   },
   {
     "SN" : 27,
@@ -22,6 +23,18 @@
     "Title" : "Clickbait",
     "Date" : "Oct 16th, 2025",
     "EN" : 4
+  },
+  {
+    "SN" : 27,
+    "Title" : "Feed the Craving",
+    "Date" : "Oct 23rd, 2025",
+    "EN" : 5
+  },
+  {
+    "SN" : 27,
+    "Title" : "Episode 6",
+    "Date" : "Oct 30th, 2025",
+    "EN" : 6
   },
   {
     "EN" : 1,
