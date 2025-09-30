@@ -1,19 +1,20 @@
 [
   {
+    "EN" : 1,
     "SN" : 25,
     "Title" : "Street Justice",
     "Date" : "Sept 25th, 2025",
-    "EN" : 1
+    "Still" : "\/9WBNr4aaRsXFAtBdRLDUwmgjyeP.jpg"
   },
   {
     "SN" : 25,
-    "Title" : "Bend the Knee",
+    "Title" : "Hindsight",
     "Date" : "Oct 2nd, 2025",
     "EN" : 2
   },
   {
     "SN" : 25,
-    "Title" : "Destruction Pattern",
+    "Title" : "Bend the Knee",
     "Date" : "Oct 9th, 2025",
     "EN" : 3
   },
