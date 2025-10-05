@@ -233,11 +233,11 @@
   },
   {
     "TMDBID" : 911916,
-    "Poster" : "\/rZ4arzyaDyI8l9Y7VIPPsDGARwh.jpg",
+    "Poster" : "\/720iPaXkBcRXkPWgj2VZo8FIi6A.jpg",
     "MediaType" : 1,
     "IMDBID" : "tt16360004",
     "Title" : "Spider-Man: Beyond the Spider-Verse",
-    "Date" : "June 18th, 2027"
+    "Date" : "June 17th, 2027"
   },
   {
     "TMDBID" : 293660,
@@ -897,7 +897,7 @@
   },
   {
     "TMDBID" : 808,
-    "Poster" : "\/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+    "Poster" : "\/EKERKucZeBrkrR8xLDTkr5FeDc.jpg",
     "MediaType" : 1,
     "IMDBID" : "tt0126029",
     "Title" : "Shrek",
@@ -1790,6 +1790,14 @@
     "IMDBID" : "tt1853728",
     "Title" : "Django Unchained",
     "Date" : "Dec 25th, 2012"
+  },
+  {
+    "TMDBID" : 273248,
+    "Poster" : "\/jIywvdPjia2t3eKYbjVTcwBQlG8.jpg",
+    "MediaType" : 1,
+    "IMDBID" : "tt3460252",
+    "Title" : "The Hateful Eight",
+    "Date" : "Dec 25th, 2015"
   },
   {
     "TMDBID" : 105,

@@ -2,14 +2,14 @@
   {
     "EN" : 1,
     "SN" : 27,
-    "Title" : "In The Wind",
+    "Title" : "In the Wind",
     "Date" : "Sept 25th, 2025",
     "Still" : "\/asoNcTWmkVeXLjQGcuS6YgPnEny.jpg"
   },
   {
     "EN" : 2,
     "SN" : 27,
-    "Title" : "A Waiver Of Consent",
+    "Title" : "A Waiver of Consent",
     "Date" : "Oct 2nd, 2025",
     "Still" : "\/98D4I09qipwjv58avZXQ7mcqudL.jpg"
   },
@@ -30,6 +30,12 @@
     "Title" : "Feed the Craving",
     "Date" : "Oct 23rd, 2025",
     "EN" : 5
+  },
+  {
+    "SN" : 27,
+    "Title" : "Episode 6",
+    "Date" : "Unknown",
+    "EN" : 6
   },
   {
     "EN" : 1,
