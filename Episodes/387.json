@@ -71,31 +71,32 @@
   {
     "SN" : 16,
     "Title" : "Hog Huntin",
-    "Date" : "Oct 10th, 2025",
+    "Date" : "Oct 17th, 2025",
     "EN" : 11
   },
   {
+    "EN" : 12,
     "SN" : 16,
     "Title" : "SpongeBob TrashPants",
-    "Date" : "Oct 17th, 2025",
-    "EN" : 12
+    "Date" : "Oct 24th, 2025",
+    "Still" : "\/haA2f6FlJUKRx04IXXu7ZLfi4hE.jpg"
   },
   {
     "SN" : 16,
     "Title" : "Krusty Kafeteria",
-    "Date" : "Oct 17th, 2025",
+    "Date" : "Oct 24th, 2025",
     "EN" : 13
   },
   {
     "SN" : 16,
     "Title" : "Heart of Garbage",
-    "Date" : "Oct 24th, 2025",
+    "Date" : "Unknown",
     "EN" : 14
   },
   {
     "SN" : 16,
     "Title" : "Near-Mint Plankton",
-    "Date" : "Oct 24th, 2025",
+    "Date" : "Unknown",
     "EN" : 15
   },
   {
