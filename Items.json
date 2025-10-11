@@ -216,30 +216,6 @@
     "Date" : "Dec 15th, 2021"
   },
   {
-    "TMDBID" : 324857,
-    "Poster" : "\/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
-    "MediaType" : 1,
-    "IMDBID" : "tt4633694",
-    "Title" : "Spider-Man: Into the Spider-Verse",
-    "Date" : "Dec 6th, 2018"
-  },
-  {
-    "TMDBID" : 569094,
-    "Poster" : "\/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
-    "MediaType" : 1,
-    "IMDBID" : "tt9362722",
-    "Title" : "Spider-Man: Across the Spider-Verse",
-    "Date" : "May 31st, 2023"
-  },
-  {
-    "TMDBID" : 911916,
-    "Poster" : "\/9PIhQqqI6Q4a5YjwMjxvzZcPJhf.jpg",
-    "MediaType" : 1,
-    "IMDBID" : "tt16360004",
-    "Title" : "Spider-Man: Beyond the Spider-Verse",
-    "Date" : "June 17th, 2027"
-  },
-  {
     "TMDBID" : 293660,
     "Poster" : "\/3E53WEZJqP6aM84D8CckXx4pIHw.jpg",
     "MediaType" : 1,
@@ -1736,14 +1712,6 @@
     "Date" : "July 19th, 2023"
   },
   {
-    "TMDBID" : 639720,
-    "Poster" : "\/xbKFv4KF3sVYuWKllLlwWDmuZP7.jpg",
-    "MediaType" : 1,
-    "IMDBID" : "tt11152168",
-    "Title" : "IF",
-    "Date" : "May 8th, 2024"
-  },
-  {
     "TMDBID" : 1007826,
     "Poster" : "\/haFB89tlAcex3WHuy3trtp1yhwt.jpg",
     "MediaType" : 1,
@@ -2246,13 +2214,5 @@
     "IMDBID" : "tt0096697",
     "Title" : "The Simpsons",
     "Date" : "Dec 17th, 1989"
-  },
-  {
-    "TMDBID" : 2190,
-    "Poster" : "\/6yrrTLsPeBXWZTJkc2vInwRturt.jpg",
-    "MediaType" : 2,
-    "IMDBID" : "tt0121955",
-    "Title" : "South Park",
-    "Date" : "Aug 13th, 1997"
   }
 ]
