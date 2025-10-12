@@ -1792,46 +1792,6 @@
     "Date" : "Oct 31st, 2010"
   },
   {
-    "TMDBID" : 206586,
-    "Poster" : "\/ywbacot78IuNhGW4uVZPxxxVTkm.jpg",
-    "MediaType" : 2,
-    "IMDBID" : "tt9859436",
-    "Title" : "The Walking Dead: The Ones Who Live",
-    "Date" : "Feb 25th, 2024"
-  },
-  {
-    "TMDBID" : 211684,
-    "Poster" : "\/sP5QdW9FN18XWcA4ROz3MPAQBTx.jpg",
-    "MediaType" : 2,
-    "IMDBID" : "tt13062500",
-    "Title" : "The Walking Dead: Daryl Dixon",
-    "Date" : "Sept 10th, 2023"
-  },
-  {
-    "TMDBID" : 194583,
-    "Poster" : "\/wq3vuQzQgbS83zX3malAFWMsSwX.jpg",
-    "MediaType" : 2,
-    "IMDBID" : "tt18546730",
-    "Title" : "The Walking Dead: Dead City",
-    "Date" : "June 18th, 2023"
-  },
-  {
-    "TMDBID" : 62286,
-    "Poster" : "\/l7N9aS6VyYvjelKoCB2eZge0Qky.jpg",
-    "MediaType" : 2,
-    "IMDBID" : "tt3743822",
-    "Title" : "Fear the Walking Dead",
-    "Date" : "Aug 23rd, 2015"
-  },
-  {
-    "TMDBID" : 94305,
-    "Poster" : "\/6HanIV2hTLE2w7A5bI1KJb3bTL7.jpg",
-    "MediaType" : 2,
-    "IMDBID" : "tt10148174",
-    "Title" : "The Walking Dead: World Beyond",
-    "Date" : "Oct 4th, 2020"
-  },
-  {
     "TMDBID" : 549,
     "Poster" : "\/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
     "MediaType" : 2,
@@ -2080,22 +2040,6 @@
     "Date" : "Nov 24th, 2021"
   },
   {
-    "TMDBID" : 92783,
-    "Poster" : "\/mdmgR5hE8UpeCExo9c9oVWLqxby.jpg",
-    "MediaType" : 2,
-    "IMDBID" : "tt10857160",
-    "Title" : "She-Hulk: Attorney at Law",
-    "Date" : "Aug 18th, 2022"
-  },
-  {
-    "TMDBID" : 62688,
-    "Poster" : "\/cFO65xb0xiXKqk5BmgHawCXB1i0.jpg",
-    "MediaType" : 2,
-    "IMDBID" : "tt4016454",
-    "Title" : "Supergirl",
-    "Date" : "Oct 26th, 2015"
-  },
-  {
     "TMDBID" : 92782,
     "Poster" : "\/3HWWh92kZbD7odwJX7nKmXNZsYo.jpg",
     "MediaType" : 2,
@@ -2182,5 +2126,13 @@
     "IMDBID" : "tt0096697",
     "Title" : "The Simpsons",
     "Date" : "Dec 17th, 1989"
+  },
+  {
+    "TMDBID" : 110492,
+    "Poster" : "\/hE3LRZAY84fG19a18pzpkZERjTE.jpg",
+    "MediaType" : 2,
+    "IMDBID" : "tt13146488",
+    "Title" : "Peacemaker",
+    "Date" : "Jan 13th, 2022"
   }
 ]
