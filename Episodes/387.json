@@ -1,5 +1,29 @@
 [
   {
+    "SN" : 17,
+    "Title" : "The Nerds",
+    "Date" : "Unknown",
+    "EN" : 1
+  },
+  {
+    "SN" : 17,
+    "Title" : "The SquarePants Method",
+    "Date" : "Unknown",
+    "EN" : 2
+  },
+  {
+    "SN" : 17,
+    "Title" : "Kiss of the Nematode",
+    "Date" : "Unknown",
+    "EN" : 3
+  },
+  {
+    "SN" : 17,
+    "Title" : "Brainless Bawn",
+    "Date" : "Unknown",
+    "EN" : 4
+  },
+  {
     "EN" : 1,
     "SN" : 16,
     "Title" : "SpongeBob and Patrick's Timeline Twist-Up",
@@ -93,55 +117,55 @@
   {
     "SN" : 16,
     "Title" : "Heart of Garbage",
-    "Date" : "Unknown",
+    "Date" : "Nov 7th, 2025",
     "EN" : 14
   },
   {
     "SN" : 16,
     "Title" : "Near-Mint Plankton",
-    "Date" : "Unknown",
+    "Date" : "Nov 7th, 2025",
     "EN" : 15
   },
   {
     "SN" : 16,
     "Title" : "Pardon My Wand",
-    "Date" : "Unknown",
+    "Date" : "Nov 14th, 2025",
     "EN" : 16
   },
   {
     "SN" : 16,
     "Title" : "Stupor-stition",
-    "Date" : "Unknown",
+    "Date" : "Nov 14th, 2025",
     "EN" : 17
   },
   {
     "SN" : 16,
     "Title" : "Pigskin Pearl",
-    "Date" : "Unknown",
+    "Date" : "Nov 28th, 2025",
     "EN" : 18
   },
   {
     "SN" : 16,
     "Title" : "The Green Tentacle",
-    "Date" : "Unknown",
+    "Date" : "Dec 5th, 2025",
     "EN" : 19
   },
   {
     "SN" : 16,
     "Title" : "Happy Krabby Birthday",
-    "Date" : "Unknown",
+    "Date" : "Dec 5th, 2025",
     "EN" : 20
   },
   {
     "SN" : 16,
     "Title" : "Karate Pals",
-    "Date" : "Unknown",
+    "Date" : "Dec 12th, 2025",
     "EN" : 21
   },
   {
     "SN" : 16,
     "Title" : "Karen's Klatch",
-    "Date" : "Unknown",
+    "Date" : "Dec 12th, 2025",
     "EN" : 22
   },
   {
