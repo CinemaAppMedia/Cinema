@@ -1,10 +1,16 @@
 [
   {
+    "SN" : 2,
+    "Title" : "Episode 1",
+    "Date" : "Mar 4th, 2026",
+    "EN" : 1
+  },
+  {
     "EN" : 1,
     "SN" : 1,
     "Title" : "Heaven's Half Hour",
     "Date" : "Mar 4th, 2025",
-    "Still" : "\/mgtxpUv7e26GBAu3ijuWzpDCPQ8.jpg"
+    "Still" : "\/cbOOHuurtiG7XluczaWr0y9SO1q.jpg"
   },
   {
     "EN" : 2,

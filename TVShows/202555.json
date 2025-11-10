@@ -1,5 +1,5 @@
 {
-  "EpisodeCount" : 9,
+  "EpisodeCount" : 10,
   "Tile2Title" : "Status",
   "Tile1Title" : "Series",
   "MediaType" : 2,
@@ -9,7 +9,7 @@
   "TMDBID" : 202555,
   "Summary" : "Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
   "Tagline" : "The devil's work is never done.",
-  "Tile1SubTitle" : "1 Season 9 Episodes",
+  "Tile1SubTitle" : "2 Seasons 10 Episodes",
   "Tile2SubTitle" : "Returning ",
-  "SeasonCount" : 1
+  "SeasonCount" : 2
 }
