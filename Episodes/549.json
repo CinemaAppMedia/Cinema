@@ -1,29 +1,5 @@
 [
   {
-    "SN" : 27,
-    "Title" : "Episode 1",
-    "Date" : "Unknown",
-    "EN" : 1
-  },
-  {
-    "SN" : 27,
-    "Title" : "Episode 2",
-    "Date" : "Unknown",
-    "EN" : 2
-  },
-  {
-    "SN" : 27,
-    "Title" : "Episode 3",
-    "Date" : "Unknown",
-    "EN" : 3
-  },
-  {
-    "SN" : 27,
-    "Title" : "Episode 4",
-    "Date" : "Unknown",
-    "EN" : 4
-  },
-  {
     "EN" : 1,
     "SN" : 25,
     "Title" : "Street Justice",
