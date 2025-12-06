@@ -63,10 +63,11 @@
     "Still" : "\/ipnOpO5HSbTD79O5UEwvGV8ffYg.jpg"
   },
   {
+    "EN" : 10,
     "SN" : 37,
     "Title" : "Guess Who's Coming to Skinner",
     "Date" : "Dec 7th, 2025",
-    "EN" : 10
+    "Still" : "\/Ab59jRADPU0mzD2wQqAGLt1WHuI.jpg"
   },
   {
     "SN" : 37,
@@ -77,8 +78,14 @@
   {
     "SN" : 37,
     "Title" : "¡The Fall Guy-Yi-Yi!",
-    "Date" : "Jan 4th, 2026",
+    "Date" : "Dec 28th, 2025",
     "EN" : 12
+  },
+  {
+    "SN" : 37,
+    "Title" : "Seperance",
+    "Date" : "Jan 4th, 2026",
+    "EN" : 13
   },
   {
     "EN" : 1,
