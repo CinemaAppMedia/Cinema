@@ -1873,7 +1873,7 @@
   },
   {
     "TMDBID" : 66732,
-    "Poster" : "\/cVxVGwHce6xnW8UaVUggaPXbmoE.jpg",
+    "Poster" : "\/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
     "MediaType" : 2,
     "IMDBID" : "tt4574334",
     "Title" : "Stranger Things",
@@ -2118,13 +2118,5 @@
     "IMDBID" : "tt32384391",
     "Title" : "The Thundermans: Undercover",
     "Date" : "Jan 22nd, 2025"
-  },
-  {
-    "TMDBID" : 456,
-    "Poster" : "\/uWpG7GqfKGQqX4YMAo3nv5OrglV.jpg",
-    "MediaType" : 2,
-    "IMDBID" : "tt0096697",
-    "Title" : "The Simpsons",
-    "Date" : "Dec 17th, 1989"
   }
 ]
