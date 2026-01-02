@@ -1,15 +1,15 @@
 {
-  "EpisodeCount" : 634,
-  "Tile2Title" : "Status",
-  "Tile1Title" : "Series",
-  "MediaType" : 2,
   "Backdrop" : "\/61u5BENargOxT5FtHPZDOlEqtHB.jpg",
-  "Poster" : "\/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg",
+  "EpisodeCount" : 634,
   "IMDBID" : "tt0206512",
-  "TMDBID" : 387,
+  "MediaType" : 2,
+  "Poster" : "\/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg",
+  "SeasonCount" : 17,
   "Summary" : "Deep down in the Pacific Ocean in the subterranean city of Bikini Bottom lives a square yellow sponge named SpongeBob SquarePants. SpongeBob lives in a pineapple with his pet snail, Gary, loves his job as a fry cook at the Krusty Krab, and has a knack for getting into all kinds of trouble without really trying. When he's not getting on the nerves of his cranky next door neighbor Squidward, SpongeBob can usually be found smack in the middle of all sorts of strange situations with his best buddy, the simple yet lovable starfish, Patrick, or his thrill-seeking surfer-girl squirrel pal, Sandy Cheeks.",
-  "Tile1Subtitle" : "17 Seasons 634 Episodes",
-  "Tile2Subtitle" : "Returning ",
   "Tagline" : "Be there and be square!",
-  "SeasonCount" : 17
+  "Tile1Subtitle" : "17 Seasons 634 Episodes",
+  "Tile1Title" : "Series",
+  "Tile2Subtitle" : "Returning",
+  "Tile2Title" : "Status",
+  "TMDBID" : 387
 }

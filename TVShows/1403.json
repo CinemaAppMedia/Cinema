@@ -1,15 +1,15 @@
 {
-  "EpisodeCount" : 136,
-  "Tile2Title" : "Status",
-  "Tile1Title" : "Series",
-  "MediaType" : 2,
   "Backdrop" : "\/qtr5i6hOm6oVzTYl3jOQAYP3oc7.jpg",
-  "Poster" : "\/gHUCCMy1vvj58tzE3dZqeC9SXus.jpg",
+  "EpisodeCount" : 136,
   "IMDBID" : "tt2364582",
-  "TMDBID" : 1403,
+  "MediaType" : 2,
+  "Poster" : "\/gHUCCMy1vvj58tzE3dZqeC9SXus.jpg",
+  "SeasonCount" : 7,
   "Summary" : "Agent Phil Coulson of S.H.I.E.L.D. (Strategic Homeland Intervention, Enforcement and Logistics Division) puts together a team of agents to investigate the new, the strange and the unknown around the globe, protecting the ordinary from the extraordinary.",
-  "Tile1Subtitle" : "7 Seasons 136 Episodes",
-  "Tile2Subtitle" : "Ended",
   "Tagline" : "Not all heroes are super.",
-  "SeasonCount" : 7
+  "Tile1Subtitle" : "7 Seasons 136 Episodes",
+  "Tile1Title" : "Series",
+  "Tile2Subtitle" : "Ended",
+  "Tile2Title" : "Status",
+  "TMDBID" : 1403
 }

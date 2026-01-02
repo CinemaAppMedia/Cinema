@@ -1,12 +1,12 @@
 {
-  "TMDBID" : 353486,
   "IMDBID" : "tt2283362",
-  "Poster" : "\/pSgXKPU5h6U89ipF7HBYajvYt7j.jpg",
-  "Tile2Title" : "Status",
-  "Tile2Subtitle" : "Released",
   "MediaType" : 1,
+  "Poster" : "\/pSgXKPU5h6U89ipF7HBYajvYt7j.jpg",
   "Summary" : "Four teenagers in detention discover an old video game console with a game they’ve never heard of. When they decide to play, they are immediately sucked into the jungle world of Jumanji in the bodies of their avatars. They’ll have to complete the adventure of their lives filled with fun, thrills and danger or be stuck in the game forever!",
-  "Tile1Title" : "Runtime",
+  "Tagline" : "The game has evolved.",
   "Tile1Subtitle" : "119 Minutes",
-  "Tagline" : "The game has evolved."
+  "Tile1Title" : "Runtime",
+  "Tile2Subtitle" : "Released",
+  "Tile2Title" : "Status",
+  "TMDBID" : 353486
 }

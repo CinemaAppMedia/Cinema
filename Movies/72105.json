@@ -1,12 +1,12 @@
 {
-  "TMDBID" : 72105,
   "IMDBID" : "tt1637725",
-  "Poster" : "\/tZPTcdGTpxq4yJx1YxqBl0gthNz.jpg",
-  "Tile2Title" : "Status",
-  "Tile2Subtitle" : "Released",
   "MediaType" : 1,
+  "Poster" : "\/tZPTcdGTpxq4yJx1YxqBl0gthNz.jpg",
   "Summary" : "John Bennett, a man whose childhood wish of bringing his teddy bear to life came true, now must decide between keeping the relationship with the bear or his girlfriend, Lori.",
-  "Tile1Title" : "Runtime",
+  "Tagline" : "Ted is coming.",
   "Tile1Subtitle" : "107 Minutes",
-  "Tagline" : "Ted is coming."
+  "Tile1Title" : "Runtime",
+  "Tile2Subtitle" : "Released",
+  "Tile2Title" : "Status",
+  "TMDBID" : 72105
 }

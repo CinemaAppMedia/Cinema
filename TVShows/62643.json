@@ -1,15 +1,15 @@
 {
-  "EpisodeCount" : 110,
-  "Tile2Title" : "Status",
-  "Tile1Title" : "Series",
-  "MediaType" : 2,
   "Backdrop" : "\/be8fOACxsVyaX6lZLlQOWNqF0g2.jpg",
-  "Poster" : "\/AcEFDh272YVTR6B6zrrusk8BjJG.jpg",
+  "EpisodeCount" : 110,
   "IMDBID" : "tt4532368",
-  "TMDBID" : 62643,
+  "MediaType" : 2,
+  "Poster" : "\/AcEFDh272YVTR6B6zrrusk8BjJG.jpg",
+  "SeasonCount" : 7,
   "Summary" : "When heroes alone are not enough ... the world needs legends. Having seen the future, one he will desperately try to prevent from happening, time-traveling rogue Rip Hunter is tasked with assembling a disparate group of both heroes and villains to confront an unstoppable threat — one in which not only is the planet at stake, but all of time itself. Can this ragtag team defeat an immortal threat unlike anything they have ever known?",
-  "Tile1Subtitle" : "7 Seasons 110 Episodes",
-  "Tile2Subtitle" : "Canceled",
   "Tagline" : "A roaring rewind.",
-  "SeasonCount" : 7
+  "Tile1Subtitle" : "7 Seasons 110 Episodes",
+  "Tile1Title" : "Series",
+  "Tile2Subtitle" : "Canceled",
+  "Tile2Title" : "Status",
+  "TMDBID" : 62643
 }

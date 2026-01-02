@@ -1,15 +1,15 @@
 {
-  "EpisodeCount" : 63,
-  "Tile2Title" : "Status",
-  "Tile1Title" : "Series",
-  "MediaType" : 2,
   "Backdrop" : "\/7XQopautHwQzRqbIpQWu3paiAeW.jpg",
-  "Poster" : "\/7TMp3RMf9DCZaaR9XeAQ1N6tby4.jpg",
+  "EpisodeCount" : 63,
   "IMDBID" : "tt4711184",
-  "TMDBID" : 64264,
+  "MediaType" : 2,
+  "Poster" : "\/7TMp3RMf9DCZaaR9XeAQ1N6tby4.jpg",
+  "SeasonCount" : 3,
   "Summary" : "A live-action sitcom about two 12-year-old girls who start a multi-million-dollar gaming company and take on rap superstar Double G as a business partner.",
-  "Tile1Subtitle" : "3 Seasons 63 Episodes",
-  "Tile2Subtitle" : "Ended",
   "Tagline" : "",
-  "SeasonCount" : 3
+  "Tile1Subtitle" : "3 Seasons 63 Episodes",
+  "Tile1Title" : "Series",
+  "Tile2Subtitle" : "Ended",
+  "Tile2Title" : "Status",
+  "TMDBID" : 64264
 }

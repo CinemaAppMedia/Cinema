@@ -1,15 +1,15 @@
 {
-  "EpisodeCount" : 5,
-  "Tile2Title" : "Status",
-  "Tile1Title" : "Series",
-  "MediaType" : 2,
   "Backdrop" : "\/u3ySnWqSjM3jedYgJZTR7RWRDDm.jpg",
-  "Poster" : "\/vFyJH630cF68LohVYjQW49074Sy.jpg",
+  "EpisodeCount" : 5,
   "IMDBID" : "tt13966962",
-  "TMDBID" : 122226,
+  "MediaType" : 2,
+  "Poster" : "\/vFyJH630cF68LohVYjQW49074Sy.jpg",
+  "SeasonCount" : 1,
   "Summary" : "Pursued by Wilson Fisk's criminal empire, Maya's journey brings her home and she must confront her own family and legacy.",
-  "Tile1Subtitle" : "1 Season 5 Episodes",
-  "Tile2Subtitle" : "Ended",
   "Tagline" : "No bad deed goes unpunished.",
-  "SeasonCount" : 1
+  "Tile1Subtitle" : "1 Season 5 Episodes",
+  "Tile1Title" : "Series",
+  "Tile2Subtitle" : "Ended",
+  "Tile2Title" : "Status",
+  "TMDBID" : 122226
 }

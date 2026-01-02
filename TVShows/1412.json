@@ -1,15 +1,15 @@
 {
-  "EpisodeCount" : 170,
-  "Tile2Title" : "Status",
-  "Tile1Title" : "Series",
-  "MediaType" : 2,
   "Backdrop" : "\/wAFuDJfZJrnh6a1wf1Vt7PqYBvR.jpg",
-  "Poster" : "\/u8ZHFj1jC384JEkTt3vNg1DfWEb.jpg",
+  "EpisodeCount" : 170,
   "IMDBID" : "tt2193021",
-  "TMDBID" : 1412,
+  "MediaType" : 2,
+  "Poster" : "\/u8ZHFj1jC384JEkTt3vNg1DfWEb.jpg",
+  "SeasonCount" : 8,
   "Summary" : "Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow.",
-  "Tile1Subtitle" : "8 Seasons 170 Episodes",
-  "Tile2Subtitle" : "Ended",
   "Tagline" : "Heroes fall. Legends rise.",
-  "SeasonCount" : 8
+  "Tile1Subtitle" : "8 Seasons 170 Episodes",
+  "Tile1Title" : "Series",
+  "Tile2Subtitle" : "Ended",
+  "Tile2Title" : "Status",
+  "TMDBID" : 1412
 }

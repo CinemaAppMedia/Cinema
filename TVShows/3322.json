@@ -1,15 +1,15 @@
 {
-  "EpisodeCount" : 56,
-  "Tile2Title" : "Status",
-  "Tile1Title" : "Series",
-  "MediaType" : 2,
   "Backdrop" : "\/7C7OEM3NFRraDDnOaUHgDPou3NG.jpg",
-  "Poster" : "\/CwqqwYWnMOLUwsqAqveHNnwTGC.jpg",
+  "EpisodeCount" : 56,
   "IMDBID" : "tt0118421",
-  "TMDBID" : 3322,
+  "MediaType" : 2,
+  "Poster" : "\/CwqqwYWnMOLUwsqAqveHNnwTGC.jpg",
+  "SeasonCount" : 6,
   "Summary" : "The daily lives of prisoners in Emerald City, an experimental unit of the Oswald Maximum Security Prison where ingroups - Muslims, Latinos, Italians, Aryans - stick close to their mutual friends and terrorize their mutual enemies.",
-  "Tile1Subtitle" : "6 Seasons 56 Episodes",
-  "Tile2Subtitle" : "Ended",
   "Tagline" : "Life's not a word. It's a sentence.",
-  "SeasonCount" : 6
+  "Tile1Subtitle" : "6 Seasons 56 Episodes",
+  "Tile1Title" : "Series",
+  "Tile2Subtitle" : "Ended",
+  "Tile2Title" : "Status",
+  "TMDBID" : 3322
 }

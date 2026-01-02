@@ -1,15 +1,15 @@
 {
-  "EpisodeCount" : 42,
-  "Tile2Title" : "Status",
-  "Tile1Title" : "Series",
-  "MediaType" : 2,
   "Backdrop" : "\/8zbAoryWbtH0DKdev8abFAjdufy.jpg",
-  "Poster" : "\/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+  "EpisodeCount" : 42,
   "IMDBID" : "tt4574334",
-  "TMDBID" : 66732,
+  "MediaType" : 2,
+  "Poster" : "\/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+  "SeasonCount" : 5,
   "Summary" : "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
-  "Tile1Subtitle" : "5 Seasons 42 Episodes",
-  "Tile2Subtitle" : "Ended",
   "Tagline" : "One last adventure.",
-  "SeasonCount" : 5
+  "Tile1Subtitle" : "5 Seasons 42 Episodes",
+  "Tile1Title" : "Series",
+  "Tile2Subtitle" : "Ended",
+  "Tile2Title" : "Status",
+  "TMDBID" : 66732
 }

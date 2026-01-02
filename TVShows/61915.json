@@ -1,15 +1,15 @@
 {
-  "EpisodeCount" : 75,
-  "Tile2Title" : "Status",
-  "Tile1Title" : "Series",
-  "MediaType" : 2,
   "Backdrop" : "\/cA3uEd2CWCMr7yzRX9wcoDq1bZz.jpg",
-  "Poster" : "\/52iv1yPKYR4nezoX7lMLcK9yt6q.jpg",
+  "EpisodeCount" : 75,
   "IMDBID" : "tt3598030",
-  "TMDBID" : 61915,
+  "MediaType" : 2,
+  "Poster" : "\/52iv1yPKYR4nezoX7lMLcK9yt6q.jpg",
+  "SeasonCount" : 3,
   "Summary" : "K.C. Cooper, a high school math whiz and karate black-belt, learns that her parents are spies when they recruit her to join them in the secret government agency, The Organization. While she now has the latest spy gadgets at her disposal, K.C. has a lot to learn about being a spy, including keeping her new gig a secret from her best friend Marisa. Together, K.C. and her parents, Craig and Kira, and her younger siblings, Ernie and Judy (a humanoid robot), try to balance everyday family life while on undercover missions, near and far, to save the world.",
-  "Tile1Subtitle" : "3 Seasons 75 Episodes",
-  "Tile2Subtitle" : "Ended",
   "Tagline" : "Saving the world. No big thing.",
-  "SeasonCount" : 3
+  "Tile1Subtitle" : "3 Seasons 75 Episodes",
+  "Tile1Title" : "Series",
+  "Tile2Subtitle" : "Ended",
+  "Tile2Title" : "Status",
+  "TMDBID" : 61915
 }

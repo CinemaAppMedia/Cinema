@@ -1,15 +1,15 @@
 {
-  "EpisodeCount" : 10,
-  "Tile2Title" : "Status",
-  "Tile1Title" : "Series",
-  "MediaType" : 2,
   "Backdrop" : "\/kkT2B2gmynoh9kZMo1gromLNeqy.jpg",
-  "Poster" : "\/kjcsNeqF52YUQ2rUBGLMHwLkxvR.jpg",
+  "EpisodeCount" : 10,
   "IMDBID" : "tt16027074",
-  "TMDBID" : 138503,
+  "MediaType" : 2,
+  "Poster" : "\/kjcsNeqF52YUQ2rUBGLMHwLkxvR.jpg",
+  "SeasonCount" : 1,
   "Summary" : "Peter Parker is on his way to becoming a hero, but his path to get there is anything but ordinary.",
-  "Tile1Subtitle" : "1 Season 10 Episodes",
-  "Tile2Subtitle" : "Returning ",
   "Tagline" : "Meet the new hero on the block.",
-  "SeasonCount" : 1
+  "Tile1Subtitle" : "1 Season 10 Episodes",
+  "Tile1Title" : "Series",
+  "Tile2Subtitle" : "Returning",
+  "Tile2Title" : "Status",
+  "TMDBID" : 138503
 }

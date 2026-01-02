@@ -1,12 +1,12 @@
 {
-  "TMDBID" : 378221,
   "IMDBID" : "tt4648586",
-  "Poster" : "\/hrkulam0zPHsvt6oC6worZP1SdI.jpg",
-  "Tile2Title" : "Status",
-  "Tile2Subtitle" : "Released",
   "MediaType" : 1,
+  "Poster" : "\/hrkulam0zPHsvt6oC6worZP1SdI.jpg",
   "Summary" : "Manny has moved to a new school, and it's not easy to fit in. After wishing he had more friends, Manny finds a mysterious collar and puts it on Rufus, the family dog. Suddenly, Rufus turns into a boy! Manny's not sure what to do, so he enrolls Rufus in school. When the other students notice Rufus's silly dog antics -- chasing squirrels, eating without utensils, asking for belly rubs, and catching a soccer ball with his mouth -- he immediately becomes the most popular kid around. Manny is jealous of his new best friend but eventually learns that a dog's loyalty to his owner always comes first.",
-  "Tile1Title" : "Runtime",
+  "Tagline" : "",
   "Tile1Subtitle" : "42 Minutes",
-  "Tagline" : ""
+  "Tile1Title" : "Runtime",
+  "Tile2Subtitle" : "Released",
+  "Tile2Title" : "Status",
+  "TMDBID" : 378221
 }

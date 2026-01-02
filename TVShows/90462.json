@@ -1,15 +1,15 @@
 {
-  "EpisodeCount" : 24,
-  "Tile2Title" : "Status",
-  "Tile1Title" : "Series",
-  "MediaType" : 2,
   "Backdrop" : "\/lyZmMTwpr6ZCXKA7lszpXcDwNOM.jpg",
-  "Poster" : "\/7KbhQpg6OV2o58SoulRbEtK9HYT.jpg",
+  "EpisodeCount" : 24,
   "IMDBID" : "tt8388390",
-  "TMDBID" : 90462,
+  "MediaType" : 2,
+  "Poster" : "\/7KbhQpg6OV2o58SoulRbEtK9HYT.jpg",
+  "SeasonCount" : 3,
   "Summary" : "After a vintage Chucky doll turns up at a suburban yard sale, an idyllic American town is thrown into chaos as a series of horrifying murders begin to expose the town’s hypocrisies and secrets. Meanwhile, the arrival of enemies — and allies — from Chucky’s past threatens to expose the truth behind the killings, as well as the demon doll’s untold origins.",
-  "Tile1Subtitle" : "3 Seasons 24 Episodes",
-  "Tile2Subtitle" : "Canceled",
   "Tagline" : "The country is Chucked.",
-  "SeasonCount" : 3
+  "Tile1Subtitle" : "3 Seasons 24 Episodes",
+  "Tile1Title" : "Series",
+  "Tile2Subtitle" : "Canceled",
+  "Tile2Title" : "Status",
+  "TMDBID" : 90462
 }

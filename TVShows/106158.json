@@ -1,15 +1,15 @@
 {
-  "EpisodeCount" : 75,
-  "Tile2Title" : "Status",
-  "Tile1Title" : "Series",
-  "MediaType" : 2,
   "Backdrop" : "\/3mDSrhLUX2cAhaPqurNBslPh8rz.jpg",
-  "Poster" : "\/wOffjfafVLyav9CMDgBfIv49J9Y.jpg",
+  "EpisodeCount" : 75,
   "IMDBID" : "tt12677870",
-  "TMDBID" : 106158,
+  "MediaType" : 2,
+  "Poster" : "\/wOffjfafVLyav9CMDgBfIv49J9Y.jpg",
+  "SeasonCount" : 5,
   "Summary" : "The detectives of the Organized Crime Control Bureau work to dismantle New York City's most vicious and violent illegal enterprises.",
-  "Tile1Subtitle" : "5 Seasons 75 Episodes",
-  "Tile2Subtitle" : "Returning ",
   "Tagline" : "In Stabler we trust.",
-  "SeasonCount" : 5
+  "Tile1Subtitle" : "5 Seasons 75 Episodes",
+  "Tile1Title" : "Series",
+  "Tile2Subtitle" : "Returning",
+  "Tile2Title" : "Status",
+  "TMDBID" : 106158
 }

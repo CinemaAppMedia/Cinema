@@ -1,12 +1,12 @@
 {
-  "TMDBID" : 442062,
   "IMDBID" : "tt5664636",
-  "Poster" : "\/t2wy38iiMpB8WsgJi3lYeDnGh2H.jpg",
-  "Tile2Title" : "Status",
-  "Tile2Subtitle" : "Released",
   "MediaType" : 1,
+  "Poster" : "\/t2wy38iiMpB8WsgJi3lYeDnGh2H.jpg",
   "Summary" : "Be careful what you wish for. With their after school junk business, best friends Sonny and Sam hope to find treasure in other people’s trash. But when cleaning out the old Stine house, they open a locked book that frees a supernatural nightmare – Slappy! Now, with the help of Sonny’s sister Sarah, they’re in a race against time to get the sinister dummy and all the creatures he’s brought to life back into the pages before he unleashes total pandemonium!",
-  "Tile1Title" : "Runtime",
+  "Tagline" : "Halloween comes to life.",
   "Tile1Subtitle" : "90 Minutes",
-  "Tagline" : "Halloween comes to life."
+  "Tile1Title" : "Runtime",
+  "Tile2Subtitle" : "Released",
+  "Tile2Title" : "Status",
+  "TMDBID" : 442062
 }

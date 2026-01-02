@@ -1,15 +1,15 @@
 {
-  "EpisodeCount" : 83,
-  "Tile2Title" : "Status",
-  "Tile1Title" : "Series",
-  "MediaType" : 2,
   "Backdrop" : "\/8LBocqwTy3m8hDtPRQ88IW40AEh.jpg",
-  "Poster" : "\/lo2RNy38zs422CaOCUcuaqMmZdc.jpg",
+  "EpisodeCount" : 83,
   "IMDBID" : "tt11947238",
-  "TMDBID" : 113085,
+  "MediaType" : 2,
+  "Poster" : "\/lo2RNy38zs422CaOCUcuaqMmZdc.jpg",
+  "SeasonCount" : 7,
   "Summary" : "Investigates a wide range of historically compelling topics and the mysteries surrounding each including the Titanic, D.B. Cooper, Roswell, John Wilkes Booth, and more. Fresh, new evidence and perspectives will be showcased, such as never-before-released documents, personal diaries and DNA evidence.",
-  "Tile1Subtitle" : "7 Seasons 83 Episodes",
-  "Tile2Subtitle" : "Returning ",
   "Tagline" : "Where answers come to light.",
-  "SeasonCount" : 7
+  "Tile1Subtitle" : "7 Seasons 83 Episodes",
+  "Tile1Title" : "Series",
+  "Tile2Subtitle" : "Returning",
+  "Tile2Title" : "Status",
+  "TMDBID" : 113085
 }

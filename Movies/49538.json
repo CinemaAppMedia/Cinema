@@ -1,12 +1,12 @@
 {
-  "TMDBID" : 49538,
   "IMDBID" : "tt1270798",
-  "Poster" : "\/hNEokmUke0dazoBhttFN0o3L7Xv.jpg",
-  "Tile2Title" : "Status",
-  "Tile2Subtitle" : "Released",
   "MediaType" : 1,
+  "Poster" : "\/hNEokmUke0dazoBhttFN0o3L7Xv.jpg",
   "Summary" : "Before Charles Xavier and Erik Lensherr took the names Professor X and Magneto, they were two young men discovering their powers for the first time. Before they were arch-enemies, they were closest of friends, working together with other mutants (some familiar, some new), to stop the greatest threat the world has ever known.",
-  "Tile1Title" : "Runtime",
+  "Tagline" : "Witness the moment that will change our world.",
   "Tile1Subtitle" : "132 Minutes",
-  "Tagline" : "Witness the moment that will change our world."
+  "Tile1Title" : "Runtime",
+  "Tile2Subtitle" : "Released",
+  "Tile2Title" : "Status",
+  "TMDBID" : 49538
 }

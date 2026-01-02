@@ -1,15 +1,15 @@
 {
-  "EpisodeCount" : 98,
-  "Tile2Title" : "Status",
-  "Tile1Title" : "Series",
-  "MediaType" : 2,
   "Backdrop" : "\/7Z4mwfQGoARtNxxQEPp5hKNclJi.jpg",
-  "Poster" : "\/1tIYEyjK1LLcX0jYK3ZouT7601o.jpg",
+  "EpisodeCount" : 98,
   "IMDBID" : "tt2712516",
-  "TMDBID" : 58981,
+  "MediaType" : 2,
+  "Poster" : "\/1tIYEyjK1LLcX0jYK3ZouT7601o.jpg",
+  "SeasonCount" : 4,
   "Summary" : "Meet The Thundermans, a typical suburban family that happens to have astounding superpowers. At the center of the action are the 14-year-old Thunderman twins, who share the same bathroom, the same school, and the same annoying little siblings. Their only difference? The sister is a super student with a super sunny disposition who super looks forward to being a superhero someday, and her twin brother is a super villain.",
-  "Tile1Subtitle" : "4 Seasons 98 Episodes",
-  "Tile2Subtitle" : "Canceled",
   "Tagline" : "",
-  "SeasonCount" : 4
+  "Tile1Subtitle" : "4 Seasons 98 Episodes",
+  "Tile1Title" : "Series",
+  "Tile2Subtitle" : "Canceled",
+  "Tile2Title" : "Status",
+  "TMDBID" : 58981
 }

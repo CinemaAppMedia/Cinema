@@ -1,15 +1,15 @@
 {
-  "EpisodeCount" : 9,
-  "Tile2Title" : "Status",
-  "Tile1Title" : "Series",
-  "MediaType" : 2,
   "Backdrop" : "\/tYLXJW1sZQU09VWY1BhSVPKGIwc.jpg",
-  "Poster" : "\/mGsxKwXUjojitRv2E9qMTbxbBRd.jpg",
+  "EpisodeCount" : 9,
   "IMDBID" : "tt15571732",
-  "TMDBID" : 138501,
+  "MediaType" : 2,
+  "Poster" : "\/mGsxKwXUjojitRv2E9qMTbxbBRd.jpg",
+  "SeasonCount" : 1,
   "Summary" : "Agatha Harkness gathers a coven of witches and sets off down, down, down The Witches' Road.",
-  "Tile1Subtitle" : "1 Season 9 Episodes",
-  "Tile2Subtitle" : "Ended",
   "Tagline" : "Revenge is a witch.",
-  "SeasonCount" : 1
+  "Tile1Subtitle" : "1 Season 9 Episodes",
+  "Tile1Title" : "Series",
+  "Tile2Subtitle" : "Ended",
+  "Tile2Title" : "Status",
+  "TMDBID" : 138501
 }

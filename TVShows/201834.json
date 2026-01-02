@@ -1,15 +1,15 @@
 {
-  "EpisodeCount" : 15,
-  "Tile2Title" : "Status",
-  "Tile1Title" : "Series",
-  "MediaType" : 2,
   "Backdrop" : "\/cFyp7F8qiBSuSj1qhUnu8MDvubl.jpg",
-  "Poster" : "\/cPn71YFDENH0JkWUezlsLyWmLfN.jpg",
+  "EpisodeCount" : 15,
   "IMDBID" : "tt14824792",
-  "TMDBID" : 201834,
+  "MediaType" : 2,
+  "Poster" : "\/cPn71YFDENH0JkWUezlsLyWmLfN.jpg",
+  "SeasonCount" : 2,
   "Summary" : "It's 1993 and Ted the bear's moment of fame has passed, leaving him living with his best friend, 16-year-old John Bennett, who lives in a working-class Boston home with his parents and cousin. Ted may not be the best influence on John, but when it comes right down to it, he's willing to go out on a limb to help his friend and his family.",
-  "Tile1Subtitle" : "2 Seasons 15 Episodes",
-  "Tile2Subtitle" : "Returning ",
   "Tagline" : "Going back to where it all went wrong.",
-  "SeasonCount" : 2
+  "Tile1Subtitle" : "2 Seasons 15 Episodes",
+  "Tile1Title" : "Series",
+  "Tile2Subtitle" : "Returning",
+  "Tile2Title" : "Status",
+  "TMDBID" : 201834
 }

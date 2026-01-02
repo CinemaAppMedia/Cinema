@@ -1,86 +1,86 @@
 [
   {
-    "EN" : 1,
-    "SN" : 2,
-    "Title" : "Ouroboros",
     "Date" : "Oct 5th, 2023",
-    "Still" : "\/aIJvoQAal0TDDIl5plfKfSnAish.jpg"
+    "EN" : 1,
+    "SN" : 2,
+    "Still" : "\/aIJvoQAal0TDDIl5plfKfSnAish.jpg",
+    "Title" : "Ouroboros"
   },
   {
+    "Date" : "Oct 12th, 2023",
     "EN" : 2,
     "SN" : 2,
-    "Title" : "Breaking Brad",
-    "Date" : "Oct 12th, 2023",
-    "Still" : "\/cNyNfCWMdLpTXquuGzUvZwhBaVJ.jpg"
+    "Still" : "\/cNyNfCWMdLpTXquuGzUvZwhBaVJ.jpg",
+    "Title" : "Breaking Brad"
   },
   {
+    "Date" : "Oct 19th, 2023",
     "EN" : 3,
     "SN" : 2,
-    "Title" : "1893",
-    "Date" : "Oct 19th, 2023",
-    "Still" : "\/1LWyxNX7B5TWfJUB6gw3UFPZOF2.jpg"
+    "Still" : "\/1LWyxNX7B5TWfJUB6gw3UFPZOF2.jpg",
+    "Title" : "1893"
   },
   {
+    "Date" : "Oct 26th, 2023",
     "EN" : 4,
     "SN" : 2,
-    "Title" : "Heart of the TVA",
-    "Date" : "Oct 26th, 2023",
-    "Still" : "\/3NUiKf3CEoZtXB4EaBPOHVEPUxR.jpg"
+    "Still" : "\/3NUiKf3CEoZtXB4EaBPOHVEPUxR.jpg",
+    "Title" : "Heart of the TVA"
   },
   {
+    "Date" : "Nov 2nd, 2023",
     "EN" : 5,
     "SN" : 2,
-    "Title" : "Science\/Fiction",
-    "Date" : "Nov 2nd, 2023",
-    "Still" : "\/ygWEp4FRGPx5VDpOCcWMQzgqEf7.jpg"
+    "Still" : "\/ygWEp4FRGPx5VDpOCcWMQzgqEf7.jpg",
+    "Title" : "Science\/Fiction"
   },
   {
+    "Date" : "Nov 9th, 2023",
     "EN" : 6,
     "SN" : 2,
-    "Title" : "Glorious Purpose",
-    "Date" : "Nov 9th, 2023",
-    "Still" : "\/avCnQZPvHbqDLWMqlRNtayG732A.jpg"
+    "Still" : "\/avCnQZPvHbqDLWMqlRNtayG732A.jpg",
+    "Title" : "Glorious Purpose"
   },
   {
+    "Date" : "June 9th, 2021",
     "EN" : 1,
     "SN" : 1,
-    "Title" : "Glorious Purpose",
-    "Date" : "June 9th, 2021",
-    "Still" : "\/gxh0k3aADsYkt9tgkfm2kGn2qQj.jpg"
+    "Still" : "\/gxh0k3aADsYkt9tgkfm2kGn2qQj.jpg",
+    "Title" : "Glorious Purpose"
   },
   {
+    "Date" : "June 16th, 2021",
     "EN" : 2,
     "SN" : 1,
-    "Title" : "The Variant",
-    "Date" : "June 16th, 2021",
-    "Still" : "\/gqpcfkdmSsm6xiX2EsLkwUvA8g8.jpg"
+    "Still" : "\/gqpcfkdmSsm6xiX2EsLkwUvA8g8.jpg",
+    "Title" : "The Variant"
   },
   {
+    "Date" : "June 23rd, 2021",
     "EN" : 3,
     "SN" : 1,
-    "Title" : "Lamentis",
-    "Date" : "June 23rd, 2021",
-    "Still" : "\/aTjfWml9Prd8cUB9cfk8yOAEh7v.jpg"
+    "Still" : "\/aTjfWml9Prd8cUB9cfk8yOAEh7v.jpg",
+    "Title" : "Lamentis"
   },
   {
+    "Date" : "June 30th, 2021",
     "EN" : 4,
     "SN" : 1,
-    "Title" : "The Nexus Event",
-    "Date" : "June 30th, 2021",
-    "Still" : "\/niIXLqEr98mnQuYuMuEvq9Y6OQa.jpg"
+    "Still" : "\/niIXLqEr98mnQuYuMuEvq9Y6OQa.jpg",
+    "Title" : "The Nexus Event"
   },
   {
+    "Date" : "July 7th, 2021",
     "EN" : 5,
     "SN" : 1,
-    "Title" : "Journey Into Mystery",
-    "Date" : "July 7th, 2021",
-    "Still" : "\/5fRAAO13URmteku8mb39V9YPJBb.jpg"
+    "Still" : "\/5fRAAO13URmteku8mb39V9YPJBb.jpg",
+    "Title" : "Journey Into Mystery"
   },
   {
+    "Date" : "July 14th, 2021",
     "EN" : 6,
     "SN" : 1,
-    "Title" : "For All Time. Always.",
-    "Date" : "July 14th, 2021",
-    "Still" : "\/98hGgYbNFP8GnZhJzAar22bWIAT.jpg"
+    "Still" : "\/98hGgYbNFP8GnZhJzAar22bWIAT.jpg",
+    "Title" : "For All Time. Always."
   }
 ]

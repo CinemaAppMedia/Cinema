@@ -1,15 +1,15 @@
 {
-  "EpisodeCount" : 26,
-  "Tile2Title" : "Status",
-  "Tile1Title" : "Series",
-  "MediaType" : 2,
   "Backdrop" : "\/jnzoh5qoxRLFRIQAxnl6D3RStPC.jpg",
-  "Poster" : "\/lztz5XBMG1x6Y5ubz7CxfPFsAcW.jpg",
+  "EpisodeCount" : 26,
   "IMDBID" : "tt10168312",
-  "TMDBID" : 91363,
+  "MediaType" : 2,
+  "Poster" : "\/lztz5XBMG1x6Y5ubz7CxfPFsAcW.jpg",
+  "SeasonCount" : 3,
   "Summary" : "Taking inspiration from the comic books of the same name, each episode of this animated anthology series questions, revisits and twists classic Marvel Cinematic moments.",
-  "Tile1Subtitle" : "3 Seasons 26 Episodes",
-  "Tile2Subtitle" : "Ended",
   "Tagline" : "One question changes everything.",
-  "SeasonCount" : 3
+  "Tile1Subtitle" : "3 Seasons 26 Episodes",
+  "Tile1Title" : "Series",
+  "Tile2Subtitle" : "Ended",
+  "Tile2Title" : "Status",
+  "TMDBID" : 91363
 }

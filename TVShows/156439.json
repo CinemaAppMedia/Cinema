@@ -1,15 +1,15 @@
 {
-  "EpisodeCount" : 12,
-  "Tile2Title" : "Status",
-  "Tile1Title" : "Series",
-  "MediaType" : 2,
   "Backdrop" : "\/A6wkvYcUTavh8cUDvJAl2veWm9U.jpg",
-  "Poster" : "\/B7bvTD2SqNUhoO3jhZZh5bUloK.jpg",
+  "EpisodeCount" : 12,
   "IMDBID" : "tt17492292",
-  "TMDBID" : 156439,
+  "MediaType" : 2,
+  "Poster" : "\/B7bvTD2SqNUhoO3jhZZh5bUloK.jpg",
+  "SeasonCount" : 1,
   "Summary" : "An immersive trip back in time, placing host Theo Wilson—the grandson of a Tuskegee Airman with a passion for history—at the center of some of the world’s most impactful events, to deconstruct how they truly unfolded.",
-  "Tile1Subtitle" : "1 Season 12 Episodes",
-  "Tile2Subtitle" : "Ended",
   "Tagline" : "",
-  "SeasonCount" : 1
+  "Tile1Subtitle" : "1 Season 12 Episodes",
+  "Tile1Title" : "Series",
+  "Tile2Subtitle" : "Ended",
+  "Tile2Title" : "Status",
+  "TMDBID" : 156439
 }

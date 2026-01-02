@@ -1,15 +1,15 @@
 {
-  "EpisodeCount" : 6,
-  "Tile2Title" : "Status",
-  "Tile1Title" : "Series",
-  "MediaType" : 2,
   "Backdrop" : "\/mfcLUWASJghU8MTNK38eYktfE83.jpg",
-  "Poster" : "\/3HWWh92kZbD7odwJX7nKmXNZsYo.jpg",
+  "EpisodeCount" : 6,
   "IMDBID" : "tt10857164",
-  "TMDBID" : 92782,
+  "MediaType" : 2,
+  "Poster" : "\/3HWWh92kZbD7odwJX7nKmXNZsYo.jpg",
+  "SeasonCount" : 1,
   "Summary" : "A great student, avid gamer, and voracious fan-fic scribe, Kamala Khan has a special affinity for superheroes, particularly Captain Marvel. However, she struggles to fit in at home and at school — that is, until she gets superpowers like the heroes she’s always looked up to. Life is easier with superpowers, right?",
-  "Tile1Subtitle" : "1 Season 6 Episodes",
-  "Tile2Subtitle" : "Ended",
   "Tagline" : "The future is in her hands.",
-  "SeasonCount" : 1
+  "Tile1Subtitle" : "1 Season 6 Episodes",
+  "Tile1Title" : "Series",
+  "Tile2Subtitle" : "Ended",
+  "Tile2Title" : "Status",
+  "TMDBID" : 92782
 }

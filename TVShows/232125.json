@@ -1,15 +1,15 @@
 {
-  "EpisodeCount" : 10,
-  "Tile2Title" : "Status",
-  "Tile1Title" : "Series",
-  "MediaType" : 2,
   "Backdrop" : "\/bAnHzJ6AMhOhnV3C0kTxkpCqpgM.jpg",
-  "Poster" : "\/lYwFSsP4KsoRhOLhJvBFp3GEGEm.jpg",
+  "EpisodeCount" : 10,
   "IMDBID" : "tt13623148",
-  "TMDBID" : 232125,
+  "MediaType" : 2,
+  "Poster" : "\/lYwFSsP4KsoRhOLhJvBFp3GEGEm.jpg",
+  "SeasonCount" : 2,
   "Summary" : "There's no guarding the galaxy from this mischievous toddler! Get ready as Baby Groot takes center stage in his very own collection of shorts, exploring his glory days growing up and getting into trouble among the stars.",
-  "Tile1Subtitle" : "2 Seasons 10 Episodes",
-  "Tile2Subtitle" : "Ended",
   "Tagline" : "A hero of few words returns.",
-  "SeasonCount" : 2
+  "Tile1Subtitle" : "2 Seasons 10 Episodes",
+  "Tile1Title" : "Series",
+  "Tile2Subtitle" : "Ended",
+  "Tile2Title" : "Status",
+  "TMDBID" : 232125
 }

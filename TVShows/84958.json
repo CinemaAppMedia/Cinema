@@ -1,15 +1,15 @@
 {
-  "EpisodeCount" : 12,
-  "Tile2Title" : "Status",
-  "Tile1Title" : "Series",
-  "MediaType" : 2,
   "Backdrop" : "\/N1hWzVPpZ8lIQvQskgdQogxdsc.jpg",
-  "Poster" : "\/oJdVHUYrjdS2IqiNztVIP4GPB1p.jpg",
+  "EpisodeCount" : 12,
   "IMDBID" : "tt9140554",
-  "TMDBID" : 84958,
+  "MediaType" : 2,
+  "Poster" : "\/oJdVHUYrjdS2IqiNztVIP4GPB1p.jpg",
+  "SeasonCount" : 2,
   "Summary" : "After stealing the Tesseract during the events of “Avengers: Endgame,” an alternate version of Loki is brought to the mysterious Time Variance Authority, a bureaucratic organization that exists outside of time and space and monitors the timeline. They give Loki a choice: face being erased from existence due to being a “time variant” or help fix the timeline and stop a greater threat.",
-  "Tile1Subtitle" : "2 Seasons 12 Episodes",
-  "Tile2Subtitle" : "Ended",
   "Tagline" : "Loki's time has come.",
-  "SeasonCount" : 2
+  "Tile1Subtitle" : "2 Seasons 12 Episodes",
+  "Tile1Title" : "Series",
+  "Tile2Subtitle" : "Ended",
+  "Tile2Title" : "Status",
+  "TMDBID" : 84958
 }

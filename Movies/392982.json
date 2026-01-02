@@ -1,12 +1,12 @@
 {
-  "TMDBID" : 392982,
   "IMDBID" : "tt5301662",
-  "Poster" : "\/2KfdXsXTCbMie0wB1mSmIX60C2F.jpg",
-  "Tile2Title" : "Status",
-  "Tile2Subtitle" : "Released",
   "MediaType" : 1,
+  "Poster" : "\/2KfdXsXTCbMie0wB1mSmIX60C2F.jpg",
   "Summary" : "Thurgood Marshall, the first African-American Supreme Court Justice, battles through one of his career-defining cases.",
-  "Tile1Title" : "Runtime",
+  "Tagline" : "Justice has a name.",
   "Tile1Subtitle" : "118 Minutes",
-  "Tagline" : "Justice has a name."
+  "Tile1Title" : "Runtime",
+  "Tile2Subtitle" : "Released",
+  "Tile2Title" : "Status",
+  "TMDBID" : 392982
 }

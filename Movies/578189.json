@@ -1,12 +1,12 @@
 {
-  "TMDBID" : 578189,
   "IMDBID" : "tt7390646",
-  "Poster" : "\/1cSHEKYYP8Dpi4o1iBVd4U75FYt.jpg",
-  "Tile2Title" : "Status",
-  "Tile2Subtitle" : "Released",
   "MediaType" : 1,
+  "Poster" : "\/1cSHEKYYP8Dpi4o1iBVd4U75FYt.jpg",
   "Summary" : "A rookie cop inadvertently captures the murder of a young drug dealer on her body cam. After realizing that the murder was committed by corrupt cops, she teams up with the one person from her community who is willing to help her as she tries to escape both the criminals out for revenge and the police who are desperate to destroy the incriminating footage.",
-  "Tile1Title" : "Runtime",
+  "Tagline" : "The truth made her a target.",
   "Tile1Subtitle" : "109 Minutes",
-  "Tagline" : "The truth made her a target."
+  "Tile1Title" : "Runtime",
+  "Tile2Subtitle" : "Released",
+  "Tile2Title" : "Status",
+  "TMDBID" : 578189
 }

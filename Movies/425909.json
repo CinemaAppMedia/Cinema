@@ -1,12 +1,12 @@
 {
-  "TMDBID" : 425909,
   "IMDBID" : "tt4513678",
-  "Poster" : "\/sg4xJaufDiQl7caFEskBtQXfD4x.jpg",
-  "Tile2Title" : "Status",
-  "Tile2Subtitle" : "Released",
   "MediaType" : 1,
+  "Poster" : "\/sg4xJaufDiQl7caFEskBtQXfD4x.jpg",
   "Summary" : "When single mom Callie and her two kids Trevor and Phoebe arrive in a small Oklahoma town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.",
-  "Tile1Title" : "Runtime",
+  "Tagline" : "Discover the past. Save the future.",
   "Tile1Subtitle" : "124 Minutes",
-  "Tagline" : "Discover the past. Save the future."
+  "Tile1Title" : "Runtime",
+  "Tile2Subtitle" : "Released",
+  "Tile2Title" : "Status",
+  "TMDBID" : 425909
 }

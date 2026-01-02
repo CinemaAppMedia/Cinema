@@ -1,15 +1,15 @@
 {
-  "EpisodeCount" : 62,
-  "Tile2Title" : "Status",
-  "Tile1Title" : "Series",
-  "MediaType" : 2,
   "Backdrop" : "\/vFxjuhENDjEKzWXUGKmRFct15bA.jpg",
-  "Poster" : "\/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+  "EpisodeCount" : 62,
   "IMDBID" : "tt0903747",
-  "TMDBID" : 1396,
+  "MediaType" : 2,
+  "Poster" : "\/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+  "SeasonCount" : 5,
   "Summary" : "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
-  "Tile1Subtitle" : "5 Seasons 62 Episodes",
-  "Tile2Subtitle" : "Ended",
   "Tagline" : "Change the equation.",
-  "SeasonCount" : 5
+  "Tile1Subtitle" : "5 Seasons 62 Episodes",
+  "Tile1Title" : "Series",
+  "Tile2Subtitle" : "Ended",
+  "Tile2Title" : "Status",
+  "TMDBID" : 1396
 }

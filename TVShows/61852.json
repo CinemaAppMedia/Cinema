@@ -1,15 +1,15 @@
 {
-  "EpisodeCount" : 121,
-  "Tile2Title" : "Status",
-  "Tile1Title" : "Series",
-  "MediaType" : 2,
   "Backdrop" : "\/1pnaMzcTXU6LmBd9rf4ZvNGBnce.jpg",
-  "Poster" : "\/f3TEP5SROTpL6e520ohhSNbUv1E.jpg",
+  "EpisodeCount" : 121,
   "IMDBID" : "tt3596174",
-  "TMDBID" : 61852,
+  "MediaType" : 2,
+  "Poster" : "\/f3TEP5SROTpL6e520ohhSNbUv1E.jpg",
+  "SeasonCount" : 5,
   "Summary" : "When 13-year-old Henry Hart lands a job as Danger, the sidekick-in-training to superhero Captain Man, he must learn to navigate a double life balancing the challenges of 8th grade with the crazy adventures of a real-life crime fighter!",
-  "Tile1Subtitle" : "5 Seasons 121 Episodes",
-  "Tile2Subtitle" : "Ended",
   "Tagline" : "",
-  "SeasonCount" : 5
+  "Tile1Subtitle" : "5 Seasons 121 Episodes",
+  "Tile1Title" : "Series",
+  "Tile2Subtitle" : "Ended",
+  "Tile2Title" : "Status",
+  "TMDBID" : 61852
 }

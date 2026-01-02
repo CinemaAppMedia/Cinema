@@ -1,12 +1,12 @@
 {
-  "TMDBID" : 519182,
   "IMDBID" : "tt7510222",
-  "Poster" : "\/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
-  "Tile2Title" : "Status",
-  "Tile2Subtitle" : "Released",
   "MediaType" : 1,
+  "Poster" : "\/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",
   "Summary" : "Gru and Lucy and their girls—Margo, Edith and Agnes—welcome a new member to the Gru family, Gru Jr., who is intent on tormenting his dad. Gru also faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, forcing the family to go on the run.",
-  "Tile1Title" : "Runtime",
+  "Tagline" : "Things just got a little more despicable.",
   "Tile1Subtitle" : "94 Minutes",
-  "Tagline" : "Things just got a little more despicable."
+  "Tile1Title" : "Runtime",
+  "Tile2Subtitle" : "Released",
+  "Tile2Title" : "Status",
+  "TMDBID" : 519182
 }

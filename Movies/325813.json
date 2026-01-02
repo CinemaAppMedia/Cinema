@@ -1,12 +1,12 @@
 {
-  "TMDBID" : 325813,
   "IMDBID" : "tt3712822",
-  "Poster" : "\/mmqV1kSZ0ycLYJ1lGwEsC4sO8pI.jpg",
-  "Tile2Title" : "Status",
-  "Tile2Subtitle" : "Released",
   "MediaType" : 1,
+  "Poster" : "\/mmqV1kSZ0ycLYJ1lGwEsC4sO8pI.jpg",
   "Summary" : "After accidentally stumbling into his uncle's mysterious \"tanning bed\", Adam learns the answer to all of his problems - multiple Adams. With his new collection of clones, Adam is hopping on one wild summer ride with an epic splash.",
-  "Tile1Title" : "Runtime",
+  "Tagline" : "",
   "Tile1Subtitle" : "100 Minutes",
-  "Tagline" : ""
+  "Tile1Title" : "Runtime",
+  "Tile2Subtitle" : "Released",
+  "Tile2Title" : "Status",
+  "TMDBID" : 325813
 }

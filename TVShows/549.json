@@ -1,15 +1,15 @@
 {
-  "EpisodeCount" : 533,
-  "Tile2Title" : "Status",
-  "Tile1Title" : "Series",
-  "MediaType" : 2,
   "Backdrop" : "\/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg",
-  "Poster" : "\/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
+  "EpisodeCount" : 533,
   "IMDBID" : "tt0098844",
-  "TMDBID" : 549,
+  "MediaType" : 2,
+  "Poster" : "\/haJ9eHytVO3H3JooMJG1DiWwDNm.jpg",
+  "SeasonCount" : 25,
   "Summary" : "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
-  "Tile1Subtitle" : "25 Seasons 533 Episodes",
-  "Tile2Subtitle" : "Returning ",
   "Tagline" : "Truth matters.",
-  "SeasonCount" : 25
+  "Tile1Subtitle" : "25 Seasons 533 Episodes",
+  "Tile1Title" : "Series",
+  "Tile2Subtitle" : "Returning",
+  "Tile2Title" : "Status",
+  "TMDBID" : 549
 }

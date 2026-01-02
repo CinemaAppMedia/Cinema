@@ -1,15 +1,15 @@
 {
-  "EpisodeCount" : 9,
-  "Tile2Title" : "Status",
-  "Tile1Title" : "Series",
-  "MediaType" : 2,
   "Backdrop" : "\/lOr9NKxh4vMweufMOUDJjJhCRHW.jpg",
-  "Poster" : "\/frobUz2X5Pc8OiVZU8Oo5K3NKMM.jpg",
+  "EpisodeCount" : 9,
   "IMDBID" : "tt9140560",
-  "TMDBID" : 85271,
+  "MediaType" : 2,
+  "Poster" : "\/frobUz2X5Pc8OiVZU8Oo5K3NKMM.jpg",
+  "SeasonCount" : 1,
   "Summary" : "Wanda Maximoff and Vision—two super-powered beings living idealized suburban lives—begin to suspect that everything is not as it seems.",
-  "Tile1Subtitle" : "1 Season 9 Episodes",
-  "Tile2Subtitle" : "Ended",
   "Tagline" : "Experience a new vision of reality.",
-  "SeasonCount" : 1
+  "Tile1Subtitle" : "1 Season 9 Episodes",
+  "Tile1Title" : "Series",
+  "Tile2Subtitle" : "Ended",
+  "Tile2Title" : "Status",
+  "TMDBID" : 85271
 }

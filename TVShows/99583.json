@@ -1,15 +1,15 @@
 {
-  "EpisodeCount" : 64,
-  "Tile2Title" : "Status",
-  "Tile1Title" : "Series",
-  "MediaType" : 2,
   "Backdrop" : "\/s1pIx94IaokrvqTC5p4rGuECKbW.jpg",
-  "Poster" : "\/gsvZYRnpcYJoefRlFWFKx9o0P4H.jpg",
+  "EpisodeCount" : 64,
   "IMDBID" : "tt11833388",
-  "TMDBID" : 99583,
+  "MediaType" : 2,
+  "Poster" : "\/gsvZYRnpcYJoefRlFWFKx9o0P4H.jpg",
+  "SeasonCount" : 3,
   "Summary" : "Captain Man has a new crew of superhero sidekicks - Danger Force. Captain Man and Schwoz create a fake school to train the kids to harness their uncontrollable superpowers to fight crime.",
-  "Tile1Subtitle" : "3 Seasons 64 Episodes",
-  "Tile2Subtitle" : "Ended",
   "Tagline" : "",
-  "SeasonCount" : 3
+  "Tile1Subtitle" : "3 Seasons 64 Episodes",
+  "Tile1Title" : "Series",
+  "Tile2Subtitle" : "Ended",
+  "Tile2Title" : "Status",
+  "TMDBID" : 99583
 }
